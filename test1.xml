@@ -1,25 +1,23 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn4.cmjornal.pt/images/2017-12/img_900x508$2017_12_15_22_03_01_693072.png" group-title="Sport",SPORTTV1 
-http://77.54.145.209:81/play/a001
-
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://77.54.145.209:81/play/a001
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV + HD" tvg-logo="http://familytv.net:80/images/a018a1ae5e33e9742b50d7af411720eb.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV + HD
-http://familytv.net:80/live/Peterson/Peterson/100054.m3u8|user-agent=GoPlayer
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://familytv.net:80/live/Peterson/Peterson/100054.m3u8|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 HD" tvg-logo="http://familytv.net:80/images/8225f29b46d740c25362401f91c7d0e8.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 1 HD
-http://familytv.net:80/live/Peterson/Peterson/100055.m3u8|user-agent=GoPlayer
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://familytv.net:80/live/Peterson/Peterson/100055.m3u8|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 HD" tvg-logo="http://familytv.net:80/images/d8a35582feddf9604830c3e4a1f8d37c.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 2 HD
-http://familytv.net:80/live/Peterson/Peterson/107226.m3u8|user-agent=GoPlayer
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://familytv.net:80/live/Peterson/Peterson/107226.m3u8|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 HD" tvg-logo="http://familytv.net:80/images/4552cf330aa274a257b63a61f7f94853.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 3 HD
-http://familytv.net:80/live/Peterson/Peterson/107229.m3u8|user-agent=GoPlayer
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://familytv.net:80/live/Peterson/Peterson/107229.m3u8|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 HD" tvg-logo="http://familytv.net:80/images/61f150826d57ae5ed949a9ba495a233c.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 4 HD
-http://familytv.net:80/live/Peterson/Peterson/100058.m3u8|user-agent=GoPlayer
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://familytv.net:80/live/Peterson/Peterson/100058.m3u8|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 HD" tvg-logo="http://familytv.net:80/images/4d2bd76edac6976962bf7a7a62f92af3.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 5 HD
-http://familytv.net:80/live/Peterson/Peterson/100059.m3u8|user-agent=GoPlayer
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://familytv.net:80/live/Peterson/Peterson/100059.m3u8|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="SporTV 2 | HD" tvg-name="SPORTV 2 FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="CANAIS: ESPORTES",SPORTV 2 FULLHD H264
-http://familytv.net:80/live/Peterson/Peterson/100786.m3u8|user-agent=GoPlayer
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://familytv.net:80/live/Peterson/Peterson/100786.m3u8|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="SporTV3 | FHD" tvg-name="SPORTV 3 FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="CANAIS: ESPORTES",SPORTV 3 FULLHD H264
-http://familytv.net:80/live/Peterson/Peterson/100787.m3u8|user-agent=GoPlayer
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://familytv.net:80/live/Peterson/Peterson/100787.m3u8|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS: 4K",SPORTV 4K
-http://familytv.net:80/live/Peterson/Peterson/58409.m3u8|user-agent=GoPlayer
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://familytv.net:80/live/Peterson/Peterson/58409.m3u8|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="Sportv | FHD" tvg-name="SPORTV FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="CANAIS: ESPORTES",SPORTV FULLHD H264
-http://familytv.net:80/live/Peterson/Peterson/100785.m3u8|user-agent=GoPlayer
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://familytv.net:80/live/Peterson/Peterson/100785.m3u8|user-agent=GoPlayer
