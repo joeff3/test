@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Desporto Nacional " ,Sport TV 1
+http://77.54.145.209:81/play/a02v
+#EXTINF:-1,Sport TV 2
+http://77.54.145.209:81/play/a02j
+#EXTINF:-1,Sport TV 3
+http://77.54.145.209:81/play/a02n
+#EXTINF:-1,Sport TV 4
+http://77.54.145.209:81/play/a02o
+#EXTINF:-1,BTV
+http://77.54.145.209:81/play/a032
+#EXTINF:-1,Canal 11 HD
+http://77.54.145.209:81/play/a03l
+#EXTINF:-1,Sporting TV
+http://77.54.145.209:81/play/a02e
+#EXTINF:-1 group-title=" Desporto internacional " ,Eleven Sports 2
+http://77.54.145.209:81/play/a03d
+#EXTINF:-1,Eleven Sports 3
+http://77.54.145.209:81/play/a00m
+#EXTINF:-1,Eleven Sports 4
+http://77.54.145.209:81/play/a01a
+#EXTINF:-1 group-title="-" ,BTV Mobile
+http://77.54.145.209:81/play/a002
+#EXTINF:-1,Eleven Sports 1
+http://77.54.145.209:81/play/a00a
+#EXTINF:-1,Eleven Sports 1 Mobile
+http://77.54.145.209:81/play/a00c
+#EXTINF:-1,Eleven Sports 2 Mobile
+http://77.54.145.209:81/play/a00b
+#EXTINF:-1,Sport TV 1 Mobile
+http://77.54.145.209:81/play/a001
+#EXTINF:-1,Sport TV 2 Mobile
+http://77.54.145.209:81/play/a004
+#EXTINF:-1,Sport TV 3 Mobile
+http://77.54.145.209:81/play/a005
+#EXTINF:-1,Sport TV 4 Mobile
+http://77.54.145.209:81/play/a006
+#EXTINF:-1 group-title="Desporto Nacional " ,Sport TV 1
+http://77.54.145.209:81/play/a02v
+#EXTINF:-1,BTV
+http://77.54.145.209:81/play/a032
+#EXTINF:-1 group-title="-" ,BTV Mobile
+http://77.54.145.209:81/play/a002
+#EXTINF:-1,Eleven Sports 1
+http://77.54.145.209:81/play/a00a
+#EXTINF:-1,Eleven Sports 1 Mobile
+http://77.54.145.209:81/play/a00c
+#EXTINF:-1,Sport TV 1 Mobile
+http://77.54.145.209:81/play/a001
