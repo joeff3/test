@@ -72,3 +72,106 @@ http://srvx.io:80/live/7885037935/fireurl.co/73257.ts
 http://srvx.io:80/live/7885037935/fireurl.co/73258.ts
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/30/items/eleven-sports-6/Eleven_Sports_6.png" group-title="Canais | Eleven",Eleven Sports 6 
 http://srvx.io:80/live/7885037935/fireurl.co/73259.ts
+
+#EXTINF:-1,PT: Sport TV 1
+http://b5.vc:80/jr2020/2020/74958
+#EXTINF:-1,PT: Sport TV 1 FHD
+http://b5.vc:80/jr2020/2020/74960
+#EXTINF:-1,PT: Sport TV 1 FHD [H265]
+http://b5.vc:80/jr2020/2020/74961
+#EXTINF:-1,PT: Sport TV 1 HD
+http://b5.vc:80/jr2020/2020/74962
+#EXTINF:-1,PT: Sport TV 1 SD
+http://b5.vc:80/jr2020/2020/74959
+#EXTINF:-1,PT: Sport TV 2
+http://b5.vc:80/jr2020/2020/74963
+#EXTINF:-1,PT: Sport TV 2 FHD
+http://b5.vc:80/jr2020/2020/74965
+#EXTINF:-1,PT: Sport TV 2 FHD [H265]
+http://b5.vc:80/jr2020/2020/74966
+#EXTINF:-1,PT: Sport TV 2 HD
+http://b5.vc:80/jr2020/2020/74967
+#EXTINF:-1,PT: Sport TV 2 SD
+http://b5.vc:80/jr2020/2020/74964
+#EXTINF:-1,PT: Sport TV 3
+http://b5.vc:80/jr2020/2020/74968
+#EXTINF:-1,PT: Sport TV 3 FHD
+http://b5.vc:80/jr2020/2020/74969
+#EXTINF:-1,PT: Sport TV 3 FHD [H265]
+http://b5.vc:80/jr2020/2020/74970
+#EXTINF:-1,PT: Sport TV 3 HD
+http://b5.vc:80/jr2020/2020/74971
+#EXTINF:-1,PT: Sport TV 4
+http://b5.vc:80/jr2020/2020/74972
+#EXTINF:-1,PT: Sport TV 4 FHD
+http://b5.vc:80/jr2020/2020/74973
+#EXTINF:-1,PT: Sport TV 4 HD
+http://b5.vc:80/jr2020/2020/74974
+#EXTINF:-1,PT: Sport TV 5
+http://b5.vc:80/jr2020/2020/74975
+#EXTINF:-1,PT: Sport TV 5 FHD
+http://b5.vc:80/jr2020/2020/74976
+#EXTINF:-1,PT: Sport TV 5 HD
+http://b5.vc:80/jr2020/2020/74977
+
+#EXTINF:-1,Eleven Sports 1 FHD
+http://b5.vc:80/jr2020/2020/73254
+#EXTINF:-1,Eleven Sports 2 FHD
+http://b5.vc:80/jr2020/2020/73255
+#EXTINF:-1,Eleven Sports 3 FHD
+http://b5.vc:80/jr2020/2020/73256
+#EXTINF:-1,Eleven Sports 4 FHD
+http://b5.vc:80/jr2020/2020/73257
+#EXTINF:-1,Eleven Sports 5 FHD
+http://b5.vc:80/jr2020/2020/73258
+#EXTINF:-1,Eleven Sports 6 FHD
+http://b5.vc:80/jr2020/2020/73259
+#EXTINF:-1,PT: Eleven Sports 1 FHD
+http://b5.vc:80/jr2020/2020/74853
+#EXTINF:-1,PT: Eleven Sports 1 FHD [H265]
+http://b5.vc:80/jr2020/2020/74854
+#EXTINF:-1,PT: Eleven Sports 1 HD
+http://b5.vc:80/jr2020/2020/74855
+#EXTINF:-1,PT: Eleven Sports 1 SD
+http://b5.vc:80/jr2020/2020/74852
+#EXTINF:-1,PT: Eleven Sports 2 FHD
+http://b5.vc:80/jr2020/2020/74857
+#EXTINF:-1,PT: Eleven Sports 2 FHD [H265]
+http://b5.vc:80/jr2020/2020/74858
+#EXTINF:-1,PT: Eleven Sports 2 HD
+http://b5.vc:80/jr2020/2020/74859
+#EXTINF:-1,PT: Eleven Sports 2 SD
+http://b5.vc:80/jr2020/2020/74856
+#EXTINF:-1,PT: Eleven Sports 3 FHD
+http://b5.vc:80/jr2020/2020/74861
+#EXTINF:-1,PT: Eleven Sports 3 HD
+http://b5.vc:80/jr2020/2020/74862
+#EXTINF:-1,PT: Eleven Sports 3 SD
+http://b5.vc:80/jr2020/2020/74860
+#EXTINF:-1,PT: Eleven Sports 4 FHD
+http://b5.vc:80/jr2020/2020/74864
+#EXTINF:-1,PT: Eleven Sports 4 HD
+http://b5.vc:80/jr2020/2020/74865
+#EXTINF:-1,PT: Eleven Sports 4 SD
+http://b5.vc:80/jr2020/2020/74863
+#EXTINF:-1,PT: Eleven Sports 5 FHD
+http://b5.vc:80/jr2020/2020/74867
+#EXTINF:-1,PT: Eleven Sports 5 HD
+http://b5.vc:80/jr2020/2020/74868
+#EXTINF:-1,PT: Eleven Sports 5 SD
+http://b5.vc:80/jr2020/2020/74866
+#EXTINF:-1,PT: Eleven Sports 6 FHD
+http://b5.vc:80/jr2020/2020/74870
+#EXTINF:-1,PT: Eleven Sports 6 SD
+http://b5.vc:80/jr2020/2020/74869
+
+#EXTINF:-1,PT: BTV
+http://b5.vc:80/jr2020/2020/74821
+#EXTINF:-1,PT: BTV FHD
+http://b5.vc:80/jr2020/2020/74823
+#EXTINF:-1,PT: BTV FHD [H265]
+http://b5.vc:80/jr2020/2020/74824
+#EXTINF:-1,PT: BTV HD
+http://b5.vc:80/jr2020/2020/74825
+#EXTINF:-1,PT: BTV SD
+http://b5.vc:80/jr2020/2020/74822
