@@ -50,16 +50,6 @@ http://77.54.145.209:81/play/a00c
 http://77.54.145.209:81/play/a001
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4XXxJf8.png", Sports
-#EXTINF:-1, Sport TV 1
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5205c7b916108f9.m3u8
-#EXTINF:-1, Sport TV 2
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b34a752e6302c4b.m3u8
-#EXTINF:-1, Sport TV 4
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/d73a83c60dd69f3.m3u8
-#EXTINF:-1, Sport TV 5
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6565668c520548c.m3u8
-
 #EXTINF:-1 tvg-logo="https://ia801500.us.archive.org/29/items/eleven-sports-1/Eleven_Sports_1.png" group-title="Canais | Eleven",Eleven Sports 1 
 http://srvx.io:80/live/7885037935/fireurl.co/73254.ts
 #EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/14/items/telechargement_202103/t%C3%A9l%C3%A9chargement.png" group-title="Canais | Eleven",Eleven Sports 2 
