@@ -1,349 +1,285 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Desporto Nacional " ,Sport TV 1
-http://77.54.145.209:81/play/a02v
-#EXTINF:-1,Sport TV 2
-http://77.54.145.209:81/play/a02j
-#EXTINF:-1,Sport TV 3
-http://77.54.145.209:81/play/a02n
-#EXTINF:-1,Sport TV 4
-http://77.54.145.209:81/play/a02o
-#EXTINF:-1,BTV
-http://77.54.145.209:81/play/a032
-#EXTINF:-1,Canal 11 HD
-http://77.54.145.209:81/play/a03l
-#EXTINF:-1,Sporting TV
-http://77.54.145.209:81/play/a02e
-#EXTINF:-1 group-title=" Desporto internacional " ,Eleven Sports 2
-http://77.54.145.209:81/play/a03d
-#EXTINF:-1,Eleven Sports 3
-http://77.54.145.209:81/play/a00m
-#EXTINF:-1,Eleven Sports 4
-http://77.54.145.209:81/play/a01a
-#EXTINF:-1 group-title="-" ,BTV Mobile
-http://77.54.145.209:81/play/a002
-#EXTINF:-1,Eleven Sports 1
-http://77.54.145.209:81/play/a00a
-#EXTINF:-1,Eleven Sports 1 Mobile
-http://77.54.145.209:81/play/a00c
-#EXTINF:-1,Eleven Sports 2 Mobile
-http://77.54.145.209:81/play/a00b
-#EXTINF:-1,Sport TV 1 Mobile
-http://77.54.145.209:81/play/a001
-#EXTINF:-1,Sport TV 2 Mobile
-http://77.54.145.209:81/play/a004
-#EXTINF:-1,Sport TV 3 Mobile
-http://77.54.145.209:81/play/a005
-#EXTINF:-1,Sport TV 4 Mobile
-http://77.54.145.209:81/play/a006
-#EXTINF:-1 group-title="Desporto Nacional " ,Sport TV 1
-http://77.54.145.209:81/play/a02v
-#EXTINF:-1,BTV
-http://77.54.145.209:81/play/a032
-#EXTINF:-1 group-title="-" ,BTV Mobile
-http://77.54.145.209:81/play/a002
-#EXTINF:-1,Eleven Sports 1
-http://77.54.145.209:81/play/a00a
-#EXTINF:-1,Eleven Sports 1 Mobile
-http://77.54.145.209:81/play/a00c
-#EXTINF:-1,Sport TV 1 Mobile
-http://77.54.145.209:81/play/a001
+#EXTINF:-1 tvg-id="" tvg-name="PT : SPORT TV 1 UHD" tvg-logo="" group-title="PORTUGAL",PT : SPORT TV 1 UHD
+http://r2.natv.pw:80/rui91934/36a46325/47265
+#EXTINF:-1 tvg-id="" tvg-name="PT:  CANÇAO NOVA" tvg-logo="" group-title="PORTUGAL",PT:  CANÇAO NOVA
+http://r2.natv.pw:80/rui91934/36a46325/47240
+#EXTINF:-1 tvg-id="" tvg-name="PT:  CMTV FHD" tvg-logo="" group-title="PORTUGAL",PT:  CMTV FHD
+http://r2.natv.pw:80/rui91934/36a46325/47239
+#EXTINF:-1 tvg-id="" tvg-name="PT:  SIC NOTICIAS FHD" tvg-logo="" group-title="PORTUGAL",PT:  SIC NOTICIAS FHD
+http://r2.natv.pw:80/rui91934/36a46325/47237
+#EXTINF:-1 tvg-id="" tvg-name="PT: : TVCINE EDITION FHD" tvg-logo="" group-title="PORTUGAL",PT: : TVCINE EDITION FHD
+http://r2.natv.pw:80/rui91934/36a46325/47330
+#EXTINF:-1 tvg-id="" tvg-name="PT: 24 KITCHEN HD" tvg-logo="" group-title="PORTUGAL",PT: 24 KITCHEN HD
+http://r2.natv.pw:80/rui91934/36a46325/47325
+#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV" tvg-logo="" group-title="PORTUGAL",PT: A BOLA TV
+http://r2.natv.pw:80/rui91934/36a46325/47289
+#EXTINF:-1 tvg-id="" tvg-name="PT: A&E FHD" tvg-logo="" group-title="PORTUGAL",PT: A&E FHD
+http://r2.natv.pw:80/rui91934/36a46325/47363
+#EXTINF:-1 tvg-id="" tvg-name="PT: AFRO MUSIC" tvg-logo="" group-title="PORTUGAL",PT: AFRO MUSIC
+http://r2.natv.pw:80/rui91934/36a46325/47357
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC HD" tvg-logo="" group-title="PORTUGAL",PT: AMC HD
+http://r2.natv.pw:80/rui91934/36a46325/47344
+#EXTINF:-1 tvg-id="" tvg-name="PT: ARTV" tvg-logo="" group-title="PORTUGAL",PT: ARTV
+http://r2.natv.pw:80/rui91934/36a46325/47258
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN BLACK HD" tvg-logo="" group-title="PORTUGAL",PT: AXN BLACK HD
+http://r2.natv.pw:80/rui91934/36a46325/47342
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN FHD" tvg-logo="" group-title="PORTUGAL",PT: AXN FHD
+http://r2.natv.pw:80/rui91934/36a46325/47341
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN HD" tvg-logo="" group-title="PORTUGAL",PT: AXN HD
+http://r2.natv.pw:80/rui91934/36a46325/47340
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE HD" tvg-logo="" group-title="PORTUGAL",PT: AXN WHITE HD
+http://r2.natv.pw:80/rui91934/36a46325/47343
+#EXTINF:-1 tvg-id="" tvg-name="PT: BABY TV" tvg-logo="" group-title="PORTUGAL",PT: BABY TV
+http://r2.natv.pw:80/rui91934/36a46325/47305
+#EXTINF:-1 tvg-id="" tvg-name="PT: BBC WORLD NEWS" tvg-logo="" group-title="PORTUGAL",PT: BBC WORLD NEWS
+http://r2.natv.pw:80/rui91934/36a46325/47361
+#EXTINF:-1 tvg-id="" tvg-name="PT: BLAZE TV" tvg-logo="" group-title="PORTUGAL",PT: BLAZE TV
+http://r2.natv.pw:80/rui91934/36a46325/47320
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV" tvg-logo="" group-title="PORTUGAL",PT: BTV
+http://r2.natv.pw:80/rui91934/36a46325/47259
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV 1 FHD" tvg-logo="" group-title="PORTUGAL",PT: BTV 1 FHD
+http://natv.pw:80/rui91934/36a46325/47262
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV FHD" tvg-logo="" group-title="PORTUGAL",PT: BTV FHD
+http://r2.natv.pw:80/rui91934/36a46325/47260
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV HD ALT" tvg-logo="" group-title="PORTUGAL",PT: BTV HD ALT
+http://r2.natv.pw:80/rui91934/36a46325/47261
+#EXTINF:-1 tvg-id="" tvg-name="PT: CAÇA E PESCA" tvg-logo="" group-title="PORTUGAL",PT: CAÇA E PESCA
+http://r2.natv.pw:80/rui91934/36a46325/47295
+#EXTINF:-1 tvg-id="" tvg-name="PT: CAÇA E PESCA HD" tvg-logo="" group-title="PORTUGAL",PT: CAÇA E PESCA HD
+http://r2.natv.pw:80/rui91934/36a46325/47294
+#EXTINF:-1 tvg-id="" tvg-name="PT: CAÇAVISION" tvg-logo="" group-title="PORTUGAL",PT: CAÇAVISION
+http://r2.natv.pw:80/rui91934/36a46325/47293
+#EXTINF:-1 tvg-id="" tvg-name="PT: CAMPO PEQUENO TV HD" tvg-logo="" group-title="PORTUGAL",PT: CAMPO PEQUENO TV HD
+http://r2.natv.pw:80/rui91934/36a46325/47308
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11" tvg-logo="" group-title="PORTUGAL",PT: CANAL 11
+http://r2.natv.pw:80/rui91934/36a46325/47284
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 180" tvg-logo="" group-title="PORTUGAL",PT: CANAL 180
+http://r2.natv.pw:80/rui91934/36a46325/47364
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL HISTORIA HD" tvg-logo="" group-title="PORTUGAL",PT: CANAL HISTORIA HD
+http://r2.natv.pw:80/rui91934/36a46325/47319
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL PANDA" tvg-logo="" group-title="PORTUGAL",PT: CANAL PANDA
+http://r2.natv.pw:80/rui91934/36a46325/47302
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL Q" tvg-logo="" group-title="PORTUGAL",PT: CANAL Q
+http://r2.natv.pw:80/rui91934/36a46325/47257
+#EXTINF:-1 tvg-id="" tvg-name="PT: CARTOON NETWORK" tvg-logo="" group-title="PORTUGAL",PT: CARTOON NETWORK
+http://r2.natv.pw:80/rui91934/36a46325/47304
+#EXTINF:-1 tvg-id="" tvg-name="PT: CASA E COZINHA FHD" tvg-logo="" group-title="PORTUGAL",PT: CASA E COZINHA FHD
+http://r2.natv.pw:80/rui91934/36a46325/47326
+#EXTINF:-1 tvg-id="" tvg-name="PT: CBS REALITY" tvg-logo="" group-title="PORTUGAL",PT: CBS REALITY
+http://r2.natv.pw:80/rui91934/36a46325/47256
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO HD" tvg-logo="" group-title="PORTUGAL",PT: CINEMUNDO HD
+http://r2.natv.pw:80/rui91934/36a46325/47345
+#EXTINF:-1 tvg-id="" tvg-name="PT: CMTV HD" tvg-logo="" group-title="PORTUGAL",PT: CMTV HD
+http://r2.natv.pw:80/rui91934/36a46325/47238
+#EXTINF:-1 tvg-id="" tvg-name="PT: CNN" tvg-logo="" group-title="PORTUGAL",PT: CNN
+http://r2.natv.pw:80/rui91934/36a46325/47362
+#EXTINF:-1 tvg-id="" tvg-name="PT: CRIME INVESTIGATION" tvg-logo="" group-title="PORTUGAL",PT: CRIME INVESTIGATION
+http://r2.natv.pw:80/rui91934/36a46325/47321
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL HD" tvg-logo="" group-title="PORTUGAL",PT: DISCOVERY CHANNEL HD
+http://r2.natv.pw:80/rui91934/36a46325/47314
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY SHOWCASE HD" tvg-logo="" group-title="PORTUGAL",PT: DISCOVERY SHOWCASE HD
+http://r2.natv.pw:80/rui91934/36a46325/47315
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY TURBO HD" tvg-logo="" group-title="PORTUGAL",PT: DISCOVERY TURBO HD
+http://r2.natv.pw:80/rui91934/36a46325/47311
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY CHANNEL" tvg-logo="" group-title="PORTUGAL",PT: DISNEY CHANNEL
+http://r2.natv.pw:80/rui91934/36a46325/47296
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY JUNIOR" tvg-logo="" group-title="PORTUGAL",PT: DISNEY JUNIOR
+http://r2.natv.pw:80/rui91934/36a46325/47297
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 1 FHD" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORT 1 FHD
+http://r2.natv.pw:80/rui91934/36a46325/47274
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 1 HD
+http://r2.natv.pw:80/rui91934/36a46325/47275
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 2 FHD
+http://r2.natv.pw:80/rui91934/36a46325/47277
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 2 HD
+http://r2.natv.pw:80/rui91934/36a46325/47276
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 3 HD
+http://r2.natv.pw:80/rui91934/36a46325/47279
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 SD" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 3 SD
+http://r2.natv.pw:80/rui91934/36a46325/47278
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 4 FHD
+http://r2.natv.pw:80/rui91934/36a46325/47280
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 FHD" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 5 FHD
+http://r2.natv.pw:80/rui91934/36a46325/47281
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="" group-title="PORTUGAL",PT: ELEVEN SPORTS 6 FHD
+http://r2.natv.pw:80/rui91934/36a46325/47282
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROCHANEL" tvg-logo="" group-title="PORTUGAL",PT: EUROCHANEL
+http://r2.natv.pw:80/rui91934/36a46325/47349
+#EXTINF:-1 tvg-id="" tvg-name="PT: EURONEWS FHD" tvg-logo="" group-title="PORTUGAL",PT: EURONEWS FHD
+http://r2.natv.pw:80/rui91934/36a46325/47365
+#EXTINF:-1 tvg-id="" tvg-name="PT: EURONEWS PORTUGUES" tvg-logo="" group-title="PORTUGAL",PT: EURONEWS PORTUGUES
+http://r2.natv.pw:80/rui91934/36a46325/47366
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 HD" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT 1 HD
+http://r2.natv.pw:80/rui91934/36a46325/47287
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2" tvg-logo="" group-title="PORTUGAL",PT: EUROSPORT 2
+http://r2.natv.pw:80/rui91934/36a46325/47288
+#EXTINF:-1 tvg-id="" tvg-name="PT: FASHION TV EUROPE" tvg-logo="" group-title="PORTUGAL",PT: FASHION TV EUROPE
+http://r2.natv.pw:80/rui91934/36a46325/47367
+#EXTINF:-1 tvg-id="" tvg-name="PT: FASHION TV HD" tvg-logo="" group-title="PORTUGAL",PT: FASHION TV HD
+http://r2.natv.pw:80/rui91934/36a46325/47368
+#EXTINF:-1 tvg-id="" tvg-name="PT: FIGHTBOX HD" tvg-logo="" group-title="PORTUGAL",PT: FIGHTBOX HD
+http://r2.natv.pw:80/rui91934/36a46325/47369
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY HD" tvg-logo="" group-title="PORTUGAL",PT: FOX COMEDY HD
+http://r2.natv.pw:80/rui91934/36a46325/47338
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME HD" tvg-logo="" group-title="PORTUGAL",PT: FOX CRIME HD
+http://r2.natv.pw:80/rui91934/36a46325/47336
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX HD" tvg-logo="" group-title="PORTUGAL",PT: FOX HD
+http://r2.natv.pw:80/rui91934/36a46325/47334
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE HD" tvg-logo="" group-title="PORTUGAL",PT: FOX LIFE HD
+http://r2.natv.pw:80/rui91934/36a46325/47335
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX MOVIES HD" tvg-logo="" group-title="PORTUGAL",PT: FOX MOVIES HD
+http://r2.natv.pw:80/rui91934/36a46325/47337
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX NEWS" tvg-logo="" group-title="PORTUGAL",PT: FOX NEWS
+http://r2.natv.pw:80/rui91934/36a46325/47339
+#EXTINF:-1 tvg-id="" tvg-name="PT: FUEL TV" tvg-logo="" group-title="PORTUGAL",PT: FUEL TV
+http://r2.natv.pw:80/rui91934/36a46325/47292
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD" tvg-logo="" group-title="PORTUGAL",PT: HOLLYWOOD
+http://r2.natv.pw:80/rui91934/36a46325/47347
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD FHD" tvg-logo="" group-title="PORTUGAL",PT: HOLLYWOOD FHD
+http://r2.natv.pw:80/rui91934/36a46325/47346
+#EXTINF:-1 tvg-id="" tvg-name="PT: ID INVESTIGATION DISCOVERY" tvg-logo="" group-title="PORTUGAL",PT: ID INVESTIGATION DISCOVERY
+http://r2.natv.pw:80/rui91934/36a46325/47322
+#EXTINF:-1 tvg-id="" tvg-name="PT: JIMJAM" tvg-logo="" group-title="PORTUGAL",PT: JIMJAM
+http://r2.natv.pw:80/rui91934/36a46325/47300
+#EXTINF:-1 tvg-id="" tvg-name="PT: KOMBAT SPORT" tvg-logo="" group-title="PORTUGAL",PT: KOMBAT SPORT
+http://r2.natv.pw:80/rui91934/36a46325/47290
+#EXTINF:-1 tvg-id="" tvg-name="PT: MCM" tvg-logo="" group-title="PORTUGAL",PT: MCM
+http://r2.natv.pw:80/rui91934/36a46325/47354
+#EXTINF:-1 tvg-id="" tvg-name="PT: MCM POP" tvg-logo="" group-title="PORTUGAL",PT: MCM POP
+http://r2.natv.pw:80/rui91934/36a46325/47355
+#EXTINF:-1 tvg-id="" tvg-name="PT: MEZZO" tvg-logo="" group-title="PORTUGAL",PT: MEZZO
+http://r2.natv.pw:80/rui91934/36a46325/47356
+#EXTINF:-1 tvg-id="" tvg-name="PT: MOTOR SPORT HD" tvg-logo="" group-title="PORTUGAL",PT: MOTOR SPORT HD
+http://r2.natv.pw:80/rui91934/36a46325/47313
+#EXTINF:-1 tvg-id="" tvg-name="PT: MOTORS TV" tvg-logo="" group-title="PORTUGAL",PT: MOTORS TV
+http://r2.natv.pw:80/rui91934/36a46325/47312
+#EXTINF:-1 tvg-id="" tvg-name="PT: MOTORVISION TV" tvg-logo="" group-title="PORTUGAL",PT: MOTORVISION TV
+http://r2.natv.pw:80/rui91934/36a46325/47291
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV PORTUGAL" tvg-logo="" group-title="PORTUGAL",PT: MTV PORTUGAL
+http://r2.natv.pw:80/rui91934/36a46325/47352
+#EXTINF:-1 tvg-id="" tvg-name="PT: MY CUSINE" tvg-logo="" group-title="PORTUGAL",PT: MY CUSINE
+http://r2.natv.pw:80/rui91934/36a46325/47324
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO WILD" tvg-logo="" group-title="PORTUGAL",PT: NAT GEO WILD
+http://r2.natv.pw:80/rui91934/36a46325/47317
+#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC HD
+http://r2.natv.pw:80/rui91934/36a46325/47316
+#EXTINF:-1 tvg-id="" tvg-name="PT: NICKELODEON" tvg-logo="" group-title="PORTUGAL",PT: NICKELODEON
+http://r2.natv.pw:80/rui91934/36a46325/47298
+#EXTINF:-1 tvg-id="" tvg-name="PT: NICKELODEON JUNIOR" tvg-logo="" group-title="PORTUGAL",PT: NICKELODEON JUNIOR
+http://r2.natv.pw:80/rui91934/36a46325/47299
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS HD" tvg-logo="" group-title="PORTUGAL",PT: NOS STUDIOS HD
+http://r2.natv.pw:80/rui91934/36a46325/47350
+#EXTINF:-1 tvg-id="" tvg-name="PT: ODISSEIA" tvg-logo="" group-title="PORTUGAL",PT: ODISSEIA
+http://r2.natv.pw:80/rui91934/36a46325/47318
+#EXTINF:-1 tvg-id="" tvg-name="PT: PANDA BIGS" tvg-logo="" group-title="PORTUGAL",PT: PANDA BIGS
+http://r2.natv.pw:80/rui91934/36a46325/47301
+#EXTINF:-1 tvg-id="" tvg-name="PT: PORTO CANAL" tvg-logo="" group-title="PORTUGAL",PT: PORTO CANAL
+http://r2.natv.pw:80/rui91934/36a46325/47286
+#EXTINF:-1 tvg-id="" tvg-name="PT: REAL MADRID TV FHD POR" tvg-logo="" group-title="PORTUGAL",PT: REAL MADRID TV FHD POR
+http://r2.natv.pw:80/rui91934/36a46325/47283
+#EXTINF:-1 tvg-id="" tvg-name="PT: RED BULL TV" tvg-logo="" group-title="PORTUGAL",PT: RED BULL TV
+http://r2.natv.pw:80/rui91934/36a46325/47370
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 FHD" tvg-logo="" group-title="PORTUGAL",PT: RTP 1 FHD
+http://r2.natv.pw:80/rui91934/36a46325/47223
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 HD" tvg-logo="" group-title="PORTUGAL",PT: RTP 1 HD
+http://r2.natv.pw:80/rui91934/36a46325/47222
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 HD" tvg-logo="" group-title="PORTUGAL",PT: RTP 2 HD
+http://r2.natv.pw:80/rui91934/36a46325/47224
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3" tvg-logo="" group-title="PORTUGAL",PT: RTP 3
+http://r2.natv.pw:80/rui91934/36a46325/47248
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP ACORES" tvg-logo="" group-title="PORTUGAL",PT: RTP ACORES
+http://r2.natv.pw:80/rui91934/36a46325/47252
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP AFRICA" tvg-logo="" group-title="PORTUGAL",PT: RTP AFRICA
+http://r2.natv.pw:80/rui91934/36a46325/47250
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MADEIRA" tvg-logo="" group-title="PORTUGAL",PT: RTP MADEIRA
+http://r2.natv.pw:80/rui91934/36a46325/47251
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MEMORIA" tvg-logo="" group-title="PORTUGAL",PT: RTP MEMORIA
+http://r2.natv.pw:80/rui91934/36a46325/47249
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC CARAS" tvg-logo="" group-title="PORTUGAL",PT: SIC CARAS
+http://r2.natv.pw:80/rui91934/36a46325/47254
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC FHD" tvg-logo="" group-title="PORTUGAL",PT: SIC FHD
+http://r2.natv.pw:80/rui91934/36a46325/47227
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC HD" tvg-logo="" group-title="PORTUGAL",PT: SIC HD
+http://r2.natv.pw:80/rui91934/36a46325/47226
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC HD" tvg-logo="" group-title="PORTUGAL",PT: SIC HD
+http://r2.natv.pw:80/rui91934/36a46325/47225
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC K" tvg-logo="" group-title="PORTUGAL",PT: SIC K
+http://r2.natv.pw:80/rui91934/36a46325/47303
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC MULHER" tvg-logo="" group-title="PORTUGAL",PT: SIC MULHER
+http://r2.natv.pw:80/rui91934/36a46325/47253
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTÍCIAS HD" tvg-logo="" group-title="PORTUGAL",PT: SIC NOTÍCIAS HD
+http://r2.natv.pw:80/rui91934/36a46325/47236
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC RADICAL" tvg-logo="" group-title="PORTUGAL",PT: SIC RADICAL
+http://r2.natv.pw:80/rui91934/36a46325/47255
+#EXTINF:-1 tvg-id="" tvg-name="PT: SKY NEWS" tvg-logo="" group-title="PORTUGAL",PT: SKY NEWS
+http://r2.natv.pw:80/rui91934/36a46325/47359
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV +" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV +
+http://r2.natv.pw:80/rui91934/36a46325/47272
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1 FHD
+http://r2.natv.pw:80/rui91934/36a46325/47264
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 1 HD
+http://r2.natv.pw:80/rui91934/36a46325/47263
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2 FHD
+http://r2.natv.pw:80/rui91934/36a46325/47267
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 2 HD
+http://r2.natv.pw:80/rui91934/36a46325/47266
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 3
+http://r2.natv.pw:80/rui91934/36a46325/47268
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 3 HD
+http://r2.natv.pw:80/rui91934/36a46325/47269
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 4 HD
+http://r2.natv.pw:80/rui91934/36a46325/47270
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 5 HD
+http://r2.natv.pw:80/rui91934/36a46325/47271
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV" tvg-logo="" group-title="PORTUGAL",PT: SPORTING TV
+http://r2.natv.pw:80/rui91934/36a46325/47285
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTTV NBA HD" tvg-logo="" group-title="PORTUGAL",PT: SPORTTV NBA HD
+http://r2.natv.pw:80/rui91934/36a46325/47273
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY" tvg-logo="" group-title="PORTUGAL",PT: SYFY
+http://r2.natv.pw:80/rui91934/36a46325/47348
+#EXTINF:-1 tvg-id="" tvg-name="PT: TLC" tvg-logo="" group-title="PORTUGAL",PT: TLC
+http://r2.natv.pw:80/rui91934/36a46325/47309
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRAVEL CHANNEL HD" tvg-logo="" group-title="PORTUGAL",PT: TRAVEL CHANNEL HD
+http://r2.natv.pw:80/rui91934/36a46325/47323
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 2 EDITION  HD" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 2 EDITION  HD
+http://r2.natv.pw:80/rui91934/36a46325/47329
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 3   EMOTION HD" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 3   EMOTION HD
+http://r2.natv.pw:80/rui91934/36a46325/47331
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE 4 ACTION HD" tvg-logo="" group-title="PORTUGAL",PT: TVCINE 4 ACTION HD
+http://r2.natv.pw:80/rui91934/36a46325/47332
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EMOTION FHD" tvg-logo="" group-title="PORTUGAL",PT: TVCINE EMOTION FHD
+http://r2.natv.pw:80/rui91934/36a46325/47333
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE TOP 1 HD" tvg-logo="" group-title="PORTUGAL",PT: TVCINE TOP 1 HD
+http://r2.natv.pw:80/rui91934/36a46325/47327
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI " tvg-logo="" group-title="PORTUGAL",PT: TVI 
+http://r2.natv.pw:80/rui91934/36a46325/47229
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI 24 FHD" tvg-logo="" group-title="PORTUGAL",PT: TVI 24 FHD
+http://r2.natv.pw:80/rui91934/36a46325/47242
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FHD" tvg-logo="" group-title="PORTUGAL",PT: TVI FHD
+http://r2.natv.pw:80/rui91934/36a46325/47230
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FICÇAO FHD" tvg-logo="" group-title="PORTUGAL",PT: TVI FICÇAO FHD
+http://r2.natv.pw:80/rui91934/36a46325/47247
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FICCAO HD" tvg-logo="" group-title="PORTUGAL",PT: TVI FICCAO HD
+http://r2.natv.pw:80/rui91934/36a46325/47246
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI HD" tvg-logo="" group-title="PORTUGAL",PT: TVI HD
+http://r2.natv.pw:80/rui91934/36a46325/47228
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY" tvg-logo="" group-title="PORTUGAL",PT: TVI REALITY
+http://r2.natv.pw:80/rui91934/36a46325/47243
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY FHD" tvg-logo="" group-title="PORTUGAL",PT: TVI REALITY FHD
+http://r2.natv.pw:80/rui91934/36a46325/47244
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY HD" tvg-logo="" group-title="PORTUGAL",PT: TVI REALITY HD
+http://r2.natv.pw:80/rui91934/36a46325/47245
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI24 HD" tvg-logo="" group-title="PORTUGAL",PT: TVI24 HD
+http://r2.natv.pw:80/rui91934/36a46325/47241
+#EXTINF:-1 tvg-id="" tvg-name="PT: VH1 MUSIC" tvg-logo="" group-title="PORTUGAL",PT: VH1 MUSIC
+http://r2.natv.pw:80/rui91934/36a46325/47353
+#EXTINF:-1 tvg-id="" tvg-name="PT: ZAP VIVA HD" tvg-logo="" group-title="PORTUGAL",PT: ZAP VIVA HD
+http://r2.natv.pw:80/rui91934/36a46325/47306
+#EXTINF:-1 tvg-id="" tvg-name="PT:TV CINE TOP FHD" tvg-logo="" group-title="PORTUGAL",PT:TV CINE TOP FHD
+http://r2.natv.pw:80/rui91934/36a46325/47328
 
 
-#EXTINF:-1 tvg-logo="https://ia801500.us.archive.org/29/items/eleven-sports-1/Eleven_Sports_1.png" group-title="Canais | Eleven",Eleven Sports 1 
-http://srvx.io:80/live/7885037935/fireurl.co/73254.ts
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/14/items/telechargement_202103/t%C3%A9l%C3%A9chargement.png" group-title="Canais | Eleven",Eleven Sports 2 
-http://srvx.io:80/live/7885037935/fireurl.co/73255.ts
-#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/9/items/eleven-sports-3/Eleven_Sports_3.png" group-title="Canais | Eleven",Eleven Sports 3 
-http://srvx.io:80/live/7885037935/fireurl.co/73256.ts
-#EXTINF:-1 tvg-logo="https://ia601401.us.archive.org/1/items/eleven-sports-4/Eleven_Sports_4.png" group-title="Canais | Eleven",Eleven Sports 4 
-http://srvx.io:80/live/7885037935/fireurl.co/73257.ts
-#EXTINF:-1 tvg-logo="https://ia801500.us.archive.org/5/items/eleven-sports-5/Eleven_Sports_5.png" group-title="Canais | Eleven",Eleven Sports 5 
-http://srvx.io:80/live/7885037935/fireurl.co/73258.ts
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/30/items/eleven-sports-6/Eleven_Sports_6.png" group-title="Canais | Eleven",Eleven Sports 6 
-http://srvx.io:80/live/7885037935/fireurl.co/73259.ts
 
-#EXTINF:0,PT: A3 Cine HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15592
-#EXTINF:0,PT: A3 Series HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15591
-#EXTINF:0,PT: 24 Kitchen HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13722
-#EXTINF:0,PT: A Bola TV HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13695
-#EXTINF:0,PT: Afro Music 
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15581
-#EXTINF:0,PT: Alma Lusa HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15563
-#EXTINF:0,PT: AMC HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13677
-#EXTINF:0,PT: Antena 3 Internacional HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15597
-#EXTINF:0,PT: ARtv
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15554
-#EXTINF:0,PT: AXN HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13669
-#EXTINF:0,PT: AXN Movies HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13671
-#EXTINF:0,PT: AXN White HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13670
-#EXTINF:0,PT: Baby TV
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13721
-#EXTINF:0,PT: BBC Entertainment
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15549
-#EXTINF:0,PT: BBC World News
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13746
-#EXTINF:0,PT: Benfica TV HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13690
-#EXTINF:0,PT: Biggs
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15538
-#EXTINF:0,PT: Blaze HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13705
-#EXTINF:0,PT: Bloomberg
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15529
-#EXTINF:0,PT: Canal 11 HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13653
-#EXTINF:0,PT: Canal 180 HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15576
-#EXTINF:0,PT: Canal Cocina HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15593
-#EXTINF:0,PT: Canal Hollywood HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13666
-#EXTINF:0,PT: Canal IU HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15575
-#EXTINF:0,PT: Canal Panda
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15539
-#EXTINF:0,PT: Canal Q HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13659
-#EXTINF:0,PT: Canção Nova
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15533
-#EXTINF:0,PT: Cartoon Network
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13716
-#EXTINF:0,PT: Caça e Pesca HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15530
-#EXTINF:0,PT: Caçavision HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15531
-#EXTINF:0,PT: Cinemundo HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13668
-#EXTINF:0,PT: Clubbing TV
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15586
-#EXTINF:0,PT: CM TV HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13652
-#EXTINF:0,PT: CNBC Europe
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15559
-#EXTINF:0,PT: CNN International
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15558
-#EXTINF:0,PT: Crime + Investigation HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13710
-#EXTINF:0,PT: Decasa HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15594
-#EXTINF:0,PT: Discovery Channel HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13703
-#EXTINF:0,PT: Disney Channel
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13714
-#EXTINF:0,PT: Disney Junior
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13715
-#EXTINF:0,PT: Dog TV HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13727
-#EXTINF:0,PT: E! Entertainment HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13711
-#EXTINF:0,PT: Eleven Sports 1 HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13678
-#EXTINF:0,PT: Eleven Sports 2 HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13679
-#EXTINF:0,PT: Eleven Sports 3 HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13680
-#EXTINF:0,PT: Eleven Sports 4 HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13681
-#EXTINF:0,PT: Eleven Sports 5 HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13682
-#EXTINF:0,PT: Eleven Sports 6 HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13683
-#EXTINF:0,PT: Eurochannel HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15582
-#EXTINF:0,PT: Euronews
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15557
-#EXTINF:0,PT: Eurosport 1 HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13693
-#EXTINF:0,PT: Eurosport 2 HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13694
-#EXTINF:0,PT: Fashion TV
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15537
-#EXTINF:0,PT: Fatima TV HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15535
-#EXTINF:0,PT: Fight Network HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13697
-#EXTINF:0,PT: Food Network HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13723
-#EXTINF:0,PT: Fox HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13672
-#EXTINF:0,PT: Fox Comedy HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13675
-#EXTINF:0,PT: Fox Crime HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13674
-#EXTINF:0,PT: Fox Life HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13673
-#EXTINF:0,PT: Fox Movies HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13667
-#EXTINF:0,PT: Fox News
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13728
-#EXTINF:0,PT: France 24 HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15556
-#EXTINF:0,PT: Fuel TV HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13699
-#EXTINF:0,PT: Galeria
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15578
-#EXTINF:0,PT: Galicia TV
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15548
-#EXTINF:0,PT: Game Toon HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15588
-#EXTINF:0,PT: Globo HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13655
-#EXTINF:0,PT: Globo Now
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13656
-#EXTINF:0,PT: Historia HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13706
-#EXTINF:0,PT: ID Investigation Discovery HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13709
-#EXTINF:0,PT: Jim Jam
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15583
-#EXTINF:0,PT: Kombat Sport HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13696
-#EXTINF:0,PT: Kuriakos TV HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15562
-#EXTINF:0,PT: Localvisão HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15544
-#EXTINF:0,PT: Luxe TV HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13726
-#EXTINF:0,PT: MCM Pop
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15532
-#EXTINF:0,PT: MCM Top HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15579
-#EXTINF:0,PT: Meo Destaques HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15590
-#EXTINF:0,PT: Meo Videoclube HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15589
-#EXTINF:0,PT: Mezzo
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15577
-#EXTINF:0,PT: Mezzo Live HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13737
-#EXTINF:0,PT: Motorvision HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13698
-#EXTINF:0,PT: MTV Live HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15584
-#EXTINF:0,PT: MTV Portugal HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13730
-#EXTINF:0,PT: National Geographic Channel HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13702
-#EXTINF:0,PT: Nat Geo Wild HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15553
-#EXTINF:0,PT: Nick Jr.
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13719
-#EXTINF:0,PT: Nickelodeon
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13718
-#EXTINF:0,PT: NOS Studios HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13665
-#EXTINF:0,PT: Odisseia HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13704
-#EXTINF:0,PT: PFC
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15536
-#EXTINF:0,PT: Porto Canal HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15551
-#EXTINF:0,PT: Record News Europa
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15550
-#EXTINF:0,PT: Record TV
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15547
-#EXTINF:0,PT: RTP 1 HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13645
-#EXTINF:0,PT: RTP 2 HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13646
-#EXTINF:0,PT: RTP 3 HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13650
-#EXTINF:0,PT: RTP Açores
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15560
-#EXTINF:0,PT: RTP África
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15541
-#EXTINF:0,PT: RTP Madeira
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15542
-#EXTINF:0,PT: RTP Memória
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15540
-#EXTINF:0,PT: SIC HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13647
-#EXTINF:0,PT: SIC Caras 
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13657
-#EXTINF:0,PT: SIC K HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13720
-#EXTINF:0,PT: SIC Mulher HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13654
-#EXTINF:0,PT: SIC Noticias HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13649
-#EXTINF:0,PT: SIC Radical HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15543
-#EXTINF:0,PT: Sky News
+#EXTINF:0,PT: Sky News (Sport tv 1)
 http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13729
-#EXTINF:0,PT: Sol Musica HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15595
-#EXTINF:0,PT: Somos HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15596
-#EXTINF:0,PT: Sport TV 1 HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13685
-#EXTINF:0,PT: Sport TV 2 HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13686
-#EXTINF:0,PT: Sport TV 3 HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13687
-#EXTINF:0,PT: Sport TV 4 HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13688
-#EXTINF:0,PT: Sport TV 5 HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13689
-#EXTINF:0,PT: Sport TV NBA HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13692
-#EXTINF:0,PT: Sport TV+ HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13684
-#EXTINF:0,PT: Sporting TV HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13691
-#EXTINF:0,PT: Sundance Channel HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15534
-#EXTINF:0,PT: Syfy HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13676
-#EXTINF:0,PT: TCV Internacional
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15587
-#EXTINF:0,PT: TLC
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13708
-#EXTINF:0,PT: Toros TV HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13701
-#EXTINF:0,PT: TPA Internacional
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15561
-#EXTINF:0,PT: Trace Brazuca HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15580
-#EXTINF:0,PT: Trace Toca HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15552
-#EXTINF:0,PT: Travel Channel HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13724
-#EXTINF:0,PT: TV5MONDE Europe HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15546
-#EXTINF:0,PT: TVCine Action HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13663
-#EXTINF:0,PT: TVCine Edition HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13661
-#EXTINF:0,PT: TVCine Emotion HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13662
-#EXTINF:0,PT: TVCine Top HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13660
-#EXTINF:0,PT: TVE Internacional HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13713
-#EXTINF:0,PT: TVI HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13648
-#EXTINF:0,PT: TVI 24 HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13651
-#EXTINF:0,PT: TVI Ficção HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15545
-#EXTINF:0,PT: TVI Reality HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13658
-#EXTINF:0,PT: TV Verdade HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15570
-#EXTINF:0,PT: UM Europa
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15585
-#EXTINF:0,PT: VH1
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13735
-#EXTINF:0,PT: ZAP Viva HD
-http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13712
