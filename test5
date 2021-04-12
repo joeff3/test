@@ -1,339 +1,303 @@
-#EXTM3U
+#EXTINF:0,PT: A3 Cine HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15592
+#EXTINF:0,PT: A3 Series HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15591
+#EXTINF:0,PT: 24 Kitchen HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13722
+#EXTINF:0,PT: A Bola TV HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13695
+#EXTINF:0,PT: Afro Music 
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15581
+#EXTINF:0,PT: Alma Lusa HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15563
+#EXTINF:0,PT: AMC HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13677
+#EXTINF:0,PT: Antena 3 Internacional HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15597
+#EXTINF:0,PT: ARtv
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15554
+#EXTINF:0,PT: AXN HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13669
+#EXTINF:0,PT: AXN Movies HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13671
+#EXTINF:0,PT: AXN White HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13670
+#EXTINF:0,PT: Baby TV
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13721
+#EXTINF:0,PT: BBC Entertainment
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15549
+#EXTINF:0,PT: BBC World News
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13746
+#EXTINF:0,PT: Benfica TV HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13690
+#EXTINF:0,PT: Biggs
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15538
+#EXTINF:0,PT: Blaze HD
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YdHGyWn.png" group-title="MÚSICAS INTERNACIONAIS  ",AFRO MUSIC SD
-http://5ce.me:80/pr5597/5gn490k6/115002
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" group-title="MÚSICAS INTERNACIONAIS  ",M6 MUSIC HD
-http://5ce.me:80/pr5597/5gn490k6/115108
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wNvqkOM.png" group-title="MÚSICAS INTERNACIONAIS  ",MTV PORTUGAL HD
-http://5ce.me:80/pr5597/5gn490k6/115114
-#EXTINF:-1 tvg-logo="https://wpcdn.pl/ptv-stage/logo/bright/128/439.png" group-title="MÚSICAS INTERNACIONAIS  ",MTV LIVE ᴴᴰ
-http://5ce.me:80/pr5597/5gn490k6/115263
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/256px-NickMusic.png" group-title="MÚSICAS INTERNACIONAIS  ",NICK MUSIC ᴴᴰ
-http://5ce.me:80/pr5597/5gn490k6/115290
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZMYVMgd.png" group-title="MÚSICAS INTERNACIONAIS  ",USL- MTV 2 ᴴᴰ
-http://5ce.me:80/pr5597/5gn490k6/115485
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MDpQaQu.png" group-title="MÚSICAS INTERNACIONAIS  ",USL- MTV CLASSIC ᴴᴰ
-http://5ce.me:80/pr5597/5gn490k6/115486
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IouWBe7.png" group-title="MÚSICAS INTERNACIONAIS  ",USL- MTV HD
-http://5ce.me:80/pr5597/5gn490k6/115487
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/67233-quiero-hd.png" group-title="MÚSICAS INTERNACIONAIS  ",ARG- QUIERO MUSICA
-http://5ce.me:80/pr5597/5gn490k6/115621
-#EXTINF:-1 tvg-logo="http://inovationgroup.live:80/images/33sDCAKpZWXtPQx1X8baPotYBbGEWzS4.jpg" group-title="PORTUGAL",FATIMA TV
-http://5ce.me:80/pr5597/5gn490k6/114996
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h7zVseY.png" group-title="PORTUGAL",24 KITCHEN HD
-http://5ce.me:80/pr5597/5gn490k6/114998
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4DzM6Dw.png" group-title="PORTUGAL",A BOLA TV HD
-http://5ce.me:80/pr5597/5gn490k6/115000
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MPbCb1IAtps/WB8tayoyiLI/AAAAAAAAFTg/eFRAt4PCzzcW9bcsUh_wC7yVtyGATeYMACLcB/s1600/AMC%2Blogo.png" group-title="PORTUGAL",AMC FHD
-http://5ce.me:80/pr5597/5gn490k6/115004
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MPbCb1IAtps/WB8tayoyiLI/AAAAAAAAFTg/eFRAt4PCzzcW9bcsUh_wC7yVtyGATeYMACLcB/s1600/AMC%2Blogo.png" group-title="PORTUGAL",AMC HD
-http://5ce.me:80/pr5597/5gn490k6/115005
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-eaIFUFMwW6Y/WDrqAy7WLPI/AAAAAAAAFac/ebV93SO38EkUak8XNhQCiITUZHNtWiSmQCLcB/s1600/AXN%2BHD%2Blogo.png" group-title="PORTUGAL",AXN FHD
-http://5ce.me:80/pr5597/5gn490k6/115007
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-eaIFUFMwW6Y/WDrqAy7WLPI/AAAAAAAAFac/ebV93SO38EkUak8XNhQCiITUZHNtWiSmQCLcB/s1600/AXN%2BHD%2Blogo.png" group-title="PORTUGAL",AXN HD
-http://5ce.me:80/pr5597/5gn490k6/115008
-#EXTINF:-1 tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="PORTUGAL",AXN MOVIES  HD
-http://5ce.me:80/pr5597/5gn490k6/115010
-#EXTINF:-1 tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="PORTUGAL",AXN MOVIES FHD
-http://5ce.me:80/pr5597/5gn490k6/115011
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-t3GENrpvUc8/WDrqA3wE2uI/AAAAAAAAFak/s9-42gnbUGkqswvFSf0s60TnyuF3LiKawCLcB/s1600/AXN%2BWhite%2BHD%2Blogo.png" group-title="PORTUGAL",AXN WHITE FHD
-http://5ce.me:80/pr5597/5gn490k6/115013
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-t3GENrpvUc8/WDrqA3wE2uI/AAAAAAAAFak/s9-42gnbUGkqswvFSf0s60TnyuF3LiKawCLcB/s1600/AXN%2BWhite%2BHD%2Blogo.png" group-title="PORTUGAL",AXN WHITE HD
-http://5ce.me:80/pr5597/5gn490k6/115014
-#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/blaze/logo.png" group-title="PORTUGAL",BLAZE HD
-http://5ce.me:80/pr5597/5gn490k6/115016
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9f75DdK.png" group-title="PORTUGAL",BOOMERANG
-http://5ce.me:80/pr5597/5gn490k6/115017
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bmo-eSDKLm0/WDrqBACM5GI/AAAAAAAAFas/uDRGh2C-tZ0oRPUufWBWVRtVHnHBJoduwCLcB/s1600/BTV%2BHD%2Blogo.png" group-title="PORTUGAL",BTV FHD
-http://5ce.me:80/pr5597/5gn490k6/115019
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bmo-eSDKLm0/WDrqBACM5GI/AAAAAAAAFas/uDRGh2C-tZ0oRPUufWBWVRtVHnHBJoduwCLcB/s1600/BTV%2BHD%2Blogo.png" group-title="PORTUGAL",BTV HD
-http://5ce.me:80/pr5597/5gn490k6/115020
-#EXTINF:-1 tvg-logo="http://www.campopequeno.com/img/campopequenotv_logo.png" group-title="PORTUGAL",CAMPO PEQUENO TV HD
-http://5ce.me:80/pr5597/5gn490k6/115023
-#EXTINF:-1 tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="PORTUGAL",CANAL 11 FHD
-http://5ce.me:80/pr5597/5gn490k6/115026
-#EXTINF:-1 tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="PORTUGAL",CANAL 11 HD
-http://5ce.me:80/pr5597/5gn490k6/115027
-#EXTINF:-1 tvg-logo="https://assets.bondlayer.com/nhjtx0kggg/_assets/nwxbgehephns507vsruet.png" group-title="PORTUGAL",CANAL 180 HD
-http://5ce.me:80/pr5597/5gn490k6/115028
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1EGWuDA.png" group-title="PORTUGAL",CANÇÃO NOVA HD
-http://5ce.me:80/pr5597/5gn490k6/115032
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xpqAcSz.png" group-title="PORTUGAL",CAÇA & PESCA FHD
-http://5ce.me:80/pr5597/5gn490k6/115034
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-mHEz-7oSIXw/VSene5r6G5I/AAAAAAAAEyE/4R-rWWL9nyo/s1600/Cinemundo%2Blogo%2B1.png" group-title="PORTUGAL",CINEMUNDO FHD
-http://5ce.me:80/pr5597/5gn490k6/115037
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-mHEz-7oSIXw/VSene5r6G5I/AAAAAAAAEyE/4R-rWWL9nyo/s1600/Cinemundo%2Blogo%2B1.png" group-title="PORTUGAL",CINEMUNDO HD
-http://5ce.me:80/pr5597/5gn490k6/115038
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" group-title="PORTUGAL",CLUBBING TV
-http://5ce.me:80/pr5597/5gn490k6/115039
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-iO-o1CgV-7Y/WDrqBaMgUYI/AAAAAAAAFa8/639DZ7fRd6sryOZ8u32II8sNOO8WpG9FwCLcB/s1600/CM%2BTV%2Blogo.png" group-title="PORTUGAL",CMTV FHD
-http://5ce.me:80/pr5597/5gn490k6/115040
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-iO-o1CgV-7Y/WDrqBaMgUYI/AAAAAAAAFa8/639DZ7fRd6sryOZ8u32II8sNOO8WpG9FwCLcB/s1600/CM%2BTV%2Blogo.png" group-title="PORTUGAL",CMTV HD
-http://5ce.me:80/pr5597/5gn490k6/115041
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="PORTUGAL",COMBATE
-http://5ce.me:80/pr5597/5gn490k6/115043
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="PORTUGAL",COMBATE FHD
-http://5ce.me:80/pr5597/5gn490k6/115044
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="PORTUGAL",COMBATE HD
-http://5ce.me:80/pr5597/5gn490k6/115045
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kpeMjrn.png" group-title="PORTUGAL",DISCOVERY CHANNEL HD
-http://5ce.me:80/pr5597/5gn490k6/115047
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R1mVNpa.png" group-title="PORTUGAL",DOG TV
-http://5ce.me:80/pr5597/5gn490k6/115050
-#EXTINF:-1 tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/38_es.jpg" group-title="PORTUGAL",ELEVEN SPORTS 1 FHD
-http://5ce.me:80/pr5597/5gn490k6/115054
-#EXTINF:-1 tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/38_es.jpg" group-title="PORTUGAL",ELEVEN SPORTS 1 HD
-http://5ce.me:80/pr5597/5gn490k6/115055
-#EXTINF:-1 tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/39_es.jpg" group-title="PORTUGAL",ELEVEN SPORTS 2 FHD
-http://5ce.me:80/pr5597/5gn490k6/115059
-#EXTINF:-1 tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/39_es.jpg" group-title="PORTUGAL",ELEVEN SPORTS 2 HD
-http://5ce.me:80/pr5597/5gn490k6/115060
-#EXTINF:-1 tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/40_es.jpg" group-title="PORTUGAL",ELEVEN SPORTS 3 FHD
-http://5ce.me:80/pr5597/5gn490k6/115063
-#EXTINF:-1 tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/40_es.jpg" group-title="PORTUGAL",ELEVEN SPORTS 3 HD
-http://5ce.me:80/pr5597/5gn490k6/115064
-#EXTINF:-1 tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/41_es.jpg" group-title="PORTUGAL",ELEVEN SPORTS 4
-http://5ce.me:80/pr5597/5gn490k6/115066
-#EXTINF:-1 tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/41_es.jpg" group-title="PORTUGAL",ELEVEN SPORTS 4 FHD
-http://5ce.me:80/pr5597/5gn490k6/115068
-#EXTINF:-1 tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/41_es.jpg" group-title="PORTUGAL",ELEVEN SPORTS 4 HD
-http://5ce.me:80/pr5597/5gn490k6/115069
-#EXTINF:-1 tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/42_es.jpg" group-title="PORTUGAL",ELEVEN SPORTS 5
-http://5ce.me:80/pr5597/5gn490k6/115070
-#EXTINF:-1 tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/42_es.jpg" group-title="PORTUGAL",ELEVEN SPORTS 5 FHD
-http://5ce.me:80/pr5597/5gn490k6/115071
-#EXTINF:-1 tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/42_es.jpg" group-title="PORTUGAL",ELEVEN SPORTS 5 HD
-http://5ce.me:80/pr5597/5gn490k6/115072
-#EXTINF:-1 tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/43_es.jpg" group-title="PORTUGAL",ELEVEN SPORTS 6
-http://5ce.me:80/pr5597/5gn490k6/115073
-#EXTINF:-1 tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/43_es.jpg" group-title="PORTUGAL",ELEVEN SPORTS 6 FHD
-http://5ce.me:80/pr5597/5gn490k6/115074
-#EXTINF:-1 tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/43_es.jpg" group-title="PORTUGAL",ELEVEN SPORTS 6 HD
-http://5ce.me:80/pr5597/5gn490k6/115075
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Dh9-onArJOs/WDrqDJLyZ1I/AAAAAAAAFcA/zigtq7hwbKMwQ2WfMmlXq-h7kMqUSma5QCLcB/s1600/Eurochannel%2Blogo.png" group-title="PORTUGAL",EUROCHANNEL
-http://5ce.me:80/pr5597/5gn490k6/115076
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7u2MNJb.png" group-title="PORTUGAL",EUROSPORT 1 HD
-http://5ce.me:80/pr5597/5gn490k6/115077
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AniJkHa.png" group-title="PORTUGAL",EUROSPORT 2 HD
-http://5ce.me:80/pr5597/5gn490k6/115078
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bAOA1wS.png" group-title="PORTUGAL",FASHION TV HD
-http://5ce.me:80/pr5597/5gn490k6/115079
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-hkMGV9ae6tU/V1ASB_QA4PI/AAAAAAAAGiE/fjlB5ne1RKAfQDv33Owvu__IYtorG_t8QCLcB/s1600/FIGHTBOX_HD-400.png" group-title="PORTUGAL",Fight Box HD
-http://5ce.me:80/pr5597/5gn490k6/115080
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="PORTUGAL",Fight Network
-http://5ce.me:80/pr5597/5gn490k6/115081
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8usMt92.png" group-title="PORTUGAL",FOOD NETWORK
-http://5ce.me:80/pr5597/5gn490k6/115082
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2213243445/fox_pt.png" group-title="PORTUGAL",FOX
-http://5ce.me:80/pr5597/5gn490k6/115083
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2jjKSSp.png" group-title="PORTUGAL",FOX COMEDY
-http://5ce.me:80/pr5597/5gn490k6/115084
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2jjKSSp.png" group-title="PORTUGAL",FOX COMEDY FHD
-http://5ce.me:80/pr5597/5gn490k6/115085
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2jjKSSp.png" group-title="PORTUGAL",FOX COMEDY HD
-http://5ce.me:80/pr5597/5gn490k6/115086
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cS5bZEa.png" group-title="PORTUGAL",FOX CRIME
-http://5ce.me:80/pr5597/5gn490k6/115087
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cS5bZEa.png" group-title="PORTUGAL",FOX CRIME FHD
-http://5ce.me:80/pr5597/5gn490k6/115088
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cS5bZEa.png" group-title="PORTUGAL",FOX CRIME HD
-http://5ce.me:80/pr5597/5gn490k6/115089
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2213243445/fox_pt.png" group-title="PORTUGAL",FOX FHD
-http://5ce.me:80/pr5597/5gn490k6/115090
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2213243445/fox_pt.png" group-title="PORTUGAL",FOX HD
-http://5ce.me:80/pr5597/5gn490k6/115091
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YhPfLns/Fox-Life-Brasil-Logo.png" group-title="PORTUGAL",FOX LIFE
-http://5ce.me:80/pr5597/5gn490k6/115092
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YhPfLns/Fox-Life-Brasil-Logo.png" group-title="PORTUGAL",FOX LIFE FHD
-http://5ce.me:80/pr5597/5gn490k6/115093
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YhPfLns/Fox-Life-Brasil-Logo.png" group-title="PORTUGAL",FOX LIFE HD
-http://5ce.me:80/pr5597/5gn490k6/115094
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="PORTUGAL",FOX MOVIES FHD
-http://5ce.me:80/pr5597/5gn490k6/115095
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="PORTUGAL",FOX MOVIES HD
-http://5ce.me:80/pr5597/5gn490k6/115096
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZmZfDtk.png" group-title="PORTUGAL",FUEL TV FHD
-http://5ce.me:80/pr5597/5gn490k6/115097
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZmZfDtk.png" group-title="PORTUGAL",FUEL TV HD
-http://5ce.me:80/pr5597/5gn490k6/115098
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/d/da/Ginx_eSports_TV_%282016-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20180608094248" group-title="PORTUGAL",GINX HD
-http://5ce.me:80/pr5597/5gn490k6/115099
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7NK5ReE.png" group-title="PORTUGAL",HOLLYWOOD
-http://5ce.me:80/pr5597/5gn490k6/115101
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7NK5ReE.png" group-title="PORTUGAL",HOLLYWOOD FHD
-http://5ce.me:80/pr5597/5gn490k6/115102
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7NK5ReE.png" group-title="PORTUGAL",HOLLYWOOD HD
-http://5ce.me:80/pr5597/5gn490k6/115103
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png/200px-Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="PORTUGAL",ID INVESTIGATION DISCOVERY HD
-http://5ce.me:80/pr5597/5gn490k6/115104
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NSDWjtZ.png" group-title="PORTUGAL",KURIAKOS TV HD
-http://5ce.me:80/pr5597/5gn490k6/115107
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ugDPCmB.png" group-title="PORTUGAL",MCM TOP FHD
-http://5ce.me:80/pr5597/5gn490k6/115110
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="PORTUGAL",MEZZO LIVE HD
-http://5ce.me:80/pr5597/5gn490k6/115111
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I0ZTOVi.png" group-title="PORTUGAL",MOTORVISION TV HD
-http://5ce.me:80/pr5597/5gn490k6/115112
-#EXTINF:-1 tvg-logo="http://mvmtv.net/images/logo_mvm.png" group-title="PORTUGAL",MVM
-http://5ce.me:80/pr5597/5gn490k6/115115
-#EXTINF:-1 tvg-logo="https://masideas.com/files/2015/06/MAS-CHIC.-LOGOTIPO.png" group-title="PORTUGAL",MÁS CHIC HD
-http://5ce.me:80/pr5597/5gn490k6/115117
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="PORTUGAL",NATIONAL GEOGRAPHIC  FHD
-http://5ce.me:80/pr5597/5gn490k6/115118
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="PORTUGAL",NATIONAL GEOGRAPHIC HD
-http://5ce.me:80/pr5597/5gn490k6/115119
-#EXTINF:-1 tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="PORTUGAL",NATIONAL GEOGRAPHIC WILD FHD
-http://5ce.me:80/pr5597/5gn490k6/115121
-#EXTINF:-1 tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="PORTUGAL",NATIONAL GEOGRAPHIC WILD HD
-http://5ce.me:80/pr5597/5gn490k6/115122
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/3f/3f73be391f4b8876b4f05e5b95dbadba.png" group-title="PORTUGAL",NFL NETWORK HD
-http://5ce.me:80/pr5597/5gn490k6/115124
-#EXTINF:-1 tvg-logo="https://cdn.nos.pt/common/img/nos.png" group-title="PORTUGAL",NOS STUDIOS FHD
-http://5ce.me:80/pr5597/5gn490k6/115127
-#EXTINF:-1 tvg-logo="https://cdn.nos.pt/common/img/nos.png" group-title="PORTUGAL",NOS STUDIOS HD
-http://5ce.me:80/pr5597/5gn490k6/115128
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OeQhRFQ.png" group-title="PORTUGAL",ODISSEIA HD
-http://5ce.me:80/pr5597/5gn490k6/115130
-#EXTINF:-1 tvg-logo="https://www.absatellite.com/wp-content/uploads/outdoor_channel_hd.png" group-title="PORTUGAL",Outdoor
-http://5ce.me:80/pr5597/5gn490k6/115131
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHxX7EF.png" group-title="PORTUGAL",PORTO CANAL HD
-http://5ce.me:80/pr5597/5gn490k6/115134
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/red-bull-logo-379EC9059E-seeklogo.com.png" group-title="PORTUGAL",RED BUL TV HD
-http://5ce.me:80/pr5597/5gn490k6/115135
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-3HFzezHOw2s/WB3MK6zeqTI/AAAAAAAAFRk/DhtV1HhzaL4DkDZt2reem5MVjO3711VoQCLcB/s1600/RTP%2B1%2BHD%2Blogo.png" group-title="PORTUGAL",RTP 1 FHD
-http://5ce.me:80/pr5597/5gn490k6/115137
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-3HFzezHOw2s/WB3MK6zeqTI/AAAAAAAAFRk/DhtV1HhzaL4DkDZt2reem5MVjO3711VoQCLcB/s1600/RTP%2B1%2BHD%2Blogo.png" group-title="PORTUGAL",RTP 1 HD
-http://5ce.me:80/pr5597/5gn490k6/115138
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-iC-8_X3fxMo/WB3MLP7PRrI/AAAAAAAAFRw/loEmJfcu0wIJna15b83hKr53bbsLmoRGQCLcB/s1600/RTP%2B2%2Blogo.png" group-title="PORTUGAL",RTP 2 FHD
-http://5ce.me:80/pr5597/5gn490k6/115140
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-iC-8_X3fxMo/WB3MLP7PRrI/AAAAAAAAFRw/loEmJfcu0wIJna15b83hKr53bbsLmoRGQCLcB/s1600/RTP%2B2%2Blogo.png" group-title="PORTUGAL",RTP 2 HD
-http://5ce.me:80/pr5597/5gn490k6/115141
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ECoFH6v.png" group-title="PORTUGAL",RTP 3 FHD
-http://5ce.me:80/pr5597/5gn490k6/115143
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ECoFH6v.png" group-title="PORTUGAL",RTP 3 HD
-http://5ce.me:80/pr5597/5gn490k6/115144
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SI9g5qp.png" group-title="PORTUGAL",RTP MADEIRA HD
-http://5ce.me:80/pr5597/5gn490k6/115148
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8MiEHQ.png" group-title="PORTUGAL",SIC Caras HD
-http://5ce.me:80/pr5597/5gn490k6/115151
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-seQXpicDRC0/WDtddC4QH6I/AAAAAAAAFjg/07nSMTXxE54Vf4TlXW2rTvG35BT-d-qqQCLcB/s1600/SIC%2BHD%2Blogo.png" group-title="PORTUGAL",SIC FHD
-http://5ce.me:80/pr5597/5gn490k6/115152
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-seQXpicDRC0/WDtddC4QH6I/AAAAAAAAFjg/07nSMTXxE54Vf4TlXW2rTvG35BT-d-qqQCLcB/s1600/SIC%2BHD%2Blogo.png" group-title="PORTUGAL",SIC HD
-http://5ce.me:80/pr5597/5gn490k6/115153
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WWW5qKT.png" group-title="PORTUGAL",SIC KIDS HD
-http://5ce.me:80/pr5597/5gn490k6/115154
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YPMnEq4.png" group-title="PORTUGAL",SIC MULHER HD
-http://5ce.me:80/pr5597/5gn490k6/115155
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-qnWwcwxFnnk/WDrqHavQXjI/AAAAAAAAFes/H8b9nHTH8L4RqA2OTXP9R2qeYHLw4Xw2QCLcB/s1600/SIC%2BNot%25C3%25ADcias%2Blogo.png" group-title="PORTUGAL",SIC NOTICIAS FHD
-http://5ce.me:80/pr5597/5gn490k6/115156
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-qnWwcwxFnnk/WDrqHavQXjI/AAAAAAAAFes/H8b9nHTH8L4RqA2OTXP9R2qeYHLw4Xw2QCLcB/s1600/SIC%2BNot%25C3%25ADcias%2Blogo.png" group-title="PORTUGAL",SIC NOTICIAS HD
-http://5ce.me:80/pr5597/5gn490k6/115157
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZPj99mx.png" group-title="PORTUGAL",SIC RADICAL HD
-http://5ce.me:80/pr5597/5gn490k6/115159
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zsFjzDa.png" group-title="PORTUGAL",SPORT TV +  HD
-http://5ce.me:80/pr5597/5gn490k6/115161
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zsFjzDa.png" group-title="PORTUGAL",SPORT TV + FHD
-http://5ce.me:80/pr5597/5gn490k6/115162
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL",SPORT TV 1 FHD
-http://5ce.me:80/pr5597/5gn490k6/115169
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL",SPORT TV 1 HD
-http://5ce.me:80/pr5597/5gn490k6/115170
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="PORTUGAL",SPORT TV 2 FHD
-http://5ce.me:80/pr5597/5gn490k6/115175
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="PORTUGAL",SPORT TV 2 HD
-http://5ce.me:80/pr5597/5gn490k6/115176
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="PORTUGAL",SPORT TV 3
-http://5ce.me:80/pr5597/5gn490k6/115178
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="PORTUGAL",SPORT TV 3 FHD
-http://5ce.me:80/pr5597/5gn490k6/115179
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="PORTUGAL",SPORT TV 3 HD
-http://5ce.me:80/pr5597/5gn490k6/115180
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="PORTUGAL",SPORT TV 4
-http://5ce.me:80/pr5597/5gn490k6/115181
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="PORTUGAL",SPORT TV 4 FHD
-http://5ce.me:80/pr5597/5gn490k6/115182
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="PORTUGAL",SPORT TV 4 HD
-http://5ce.me:80/pr5597/5gn490k6/115183
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PORTUGAL",SPORT TV 5
-http://5ce.me:80/pr5597/5gn490k6/115184
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PORTUGAL",SPORT TV 5 FHD
-http://5ce.me:80/pr5597/5gn490k6/115185
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PORTUGAL",SPORT TV 5 HD
-http://5ce.me:80/pr5597/5gn490k6/115186
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nolvcpPEK7c/WDrqJqB-8II/AAAAAAAAFgU/C1-9rUc07ckGftXUuPb5fyzo4HhiySmDACLcB/s1600/Sporting%2BTV%2BHD%2Blogo.png" group-title="PORTUGAL",SPORTING TV FHD
-http://5ce.me:80/pr5597/5gn490k6/115188
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-KFpvGLvNb3Q/WDtdfKOQfEI/AAAAAAAAFkk/PXqW9GvFFdEvAHzpHiCy_cxWUTcb2-kVwCLcB/s1600/Syfy%2BHD%2Blogo.png" group-title="PORTUGAL",SYFY
-http://5ce.me:80/pr5597/5gn490k6/115190
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-KFpvGLvNb3Q/WDtdfKOQfEI/AAAAAAAAFkk/PXqW9GvFFdEvAHzpHiCy_cxWUTcb2-kVwCLcB/s1600/Syfy%2BHD%2Blogo.png" group-title="PORTUGAL",SYFY FHD
-http://5ce.me:80/pr5597/5gn490k6/115191
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-KFpvGLvNb3Q/WDtdfKOQfEI/AAAAAAAAFkk/PXqW9GvFFdEvAHzpHiCy_cxWUTcb2-kVwCLcB/s1600/Syfy%2BHD%2Blogo.png" group-title="PORTUGAL",SYFY HD
-http://5ce.me:80/pr5597/5gn490k6/115192
-#EXTINF:-1 tvg-logo="http://www.rtc.cv/admin/imgBD/estaticos/logotipo_tcv.png" group-title="PORTUGAL",TCV INTERNACIONAL
-http://5ce.me:80/pr5597/5gn490k6/115193
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iwj7CTK.png" group-title="PORTUGAL",TOROS TV HD
-http://5ce.me:80/pr5597/5gn490k6/115195
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4M2XZfF.png" group-title="PORTUGAL",TRACE URBAN HD
-http://5ce.me:80/pr5597/5gn490k6/115197
-#EXTINF:-1 tvg-logo="https://i.imgur.com/709MBnc.png" group-title="PORTUGAL",TRAVEL CHANNEL HD
-http://5ce.me:80/pr5597/5gn490k6/115198
-#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcaction.png" group-title="PORTUGAL",TV CINE ACTION FHD
-http://5ce.me:80/pr5597/5gn490k6/115200
-#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcaction.png" group-title="PORTUGAL",TV CINE ACTION HD
-http://5ce.me:80/pr5597/5gn490k6/115201
-#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcedition.png" group-title="PORTUGAL",TV CINE EDITION  FHD
-http://5ce.me:80/pr5597/5gn490k6/115204
-#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcedition.png" group-title="PORTUGAL",TV CINE EDITION  HD
-http://5ce.me:80/pr5597/5gn490k6/115205
-#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcemotion.png" group-title="PORTUGAL",TV CINE EMOTION FHD
-http://5ce.me:80/pr5597/5gn490k6/115208
-#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcemotion.png" group-title="PORTUGAL",TV CINE EMOTION HD
-http://5ce.me:80/pr5597/5gn490k6/115209
-#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvctop.png" group-title="PORTUGAL",TV CINE TOP FHD
-http://5ce.me:80/pr5597/5gn490k6/115212
-#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvctop.png" group-title="PORTUGAL",TV CINE TOP HD
-http://5ce.me:80/pr5597/5gn490k6/115213
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/TV_GLOBO_2008_portugal.png" group-title="PORTUGAL",TV GLOBO FHD
-http://5ce.me:80/pr5597/5gn490k6/115215
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/TV_GLOBO_2008_portugal.png" group-title="PORTUGAL",TV GLOBO HD
-http://5ce.me:80/pr5597/5gn490k6/115216
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oC9BsVv.png" group-title="PORTUGAL",TV RECORD HD
-http://5ce.me:80/pr5597/5gn490k6/115218
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F4w3M86.png" group-title="PORTUGAL",TVI 24 FHD
-http://5ce.me:80/pr5597/5gn490k6/115219
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F4w3M86.png" group-title="PORTUGAL",TVI 24 HD
-http://5ce.me:80/pr5597/5gn490k6/115220
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI%2Blogo.png" group-title="PORTUGAL",TVI FHD
-http://5ce.me:80/pr5597/5gn490k6/115223
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dm0MYaW.png" group-title="PORTUGAL",TVI FICCAO
-http://5ce.me:80/pr5597/5gn490k6/115224
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dm0MYaW.png" group-title="PORTUGAL",TVI FICCAO FHD
-http://5ce.me:80/pr5597/5gn490k6/115225
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dm0MYaW.png" group-title="PORTUGAL",TVI FICCAO HD
-http://5ce.me:80/pr5597/5gn490k6/115226
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI%2Blogo.png" group-title="PORTUGAL",TVI HD
-http://5ce.me:80/pr5597/5gn490k6/115229
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="PORTUGAL",TVI REALITY HD
-http://5ce.me:80/pr5597/5gn490k6/115230
-#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/5cf5a026c170934c311c121c/5cf5ae865c5c341607d12b99_White-H-Logo-p-500.png" group-title="PORTUGAL",UFC FIGTH PASS FHD
-http://5ce.me:80/pr5597/5gn490k6/115232
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a77021bb-a973-4a9b-8902-47e05787b08f/d8txzp1-3f32b570-9b7f-437d-ad29-2df8cdbf554c.png" group-title="PORTUGAL",WWE HD
-http://5ce.me:80/pr5597/5gn490k6/115234
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" group-title="PORTUGAL",ZAP VIVA FHD
-http://5ce.me:80/pr5597/5gn490k6/115235
-#EXTINF:-1 tvg-logo="" group-title="PORTUGAL",PT-VH1 SD
-http://5ce.me:80/pr5597/5gn490k6/127820
-#EXTINF:-1 tvg-logo="" group-title="PORTUGAL",TPA INTERNACIONAL SD
-http://5ce.me:80/pr5597/5gn490k6/127821
-#EXTINF:-1 tvg-logo="" group-title="PORTUGAL",PT-BABY TV SD
-http://5ce.me:80/pr5597/5gn490k6/134248
-#EXTINF:-1 tvg-logo="" group-title="PORTUGAL",PT-CACAVISION SD
-http://5ce.me:80/pr5597/5gn490k6/134249
-#EXTINF:-1 tvg-logo="" group-title="PORTUGAL",PT-CANAL HISTÓRIA SD	
-http://5ce.me:80/pr5597/5gn490k6/134250
-#EXTINF:-1 tvg-logo="" group-title="PORTUGAL",PT-CANAL PANDA SD
-http://5ce.me:80/pr5597/5gn490k6/134251
-#EXTINF:-1 tvg-logo="" group-title="PORTUGAL",PT-CANAL Q SD
-http://5ce.me:80/pr5597/5gn490k6/134252
+#EXTINF:-1 group-title="PORTUGAL",PT: SPORT TV 1 HD http://driptvs.com:8080/TrialIPTV/558QwK89/11070 
+#EXTINF:-1,PT: SPORT TV 2 HD http://driptvs.com:8080/TrialIPTV/558QwK89/206 
+#EXTINF:-1,PT: SPORT TV 3 HD http://driptvs.com:8080/TrialIPTV/558QwK89/11072 
+#EXTINF:-1,PT: SPORT TV 4 HD http://driptvs.com:8080/TrialIPTV/558QwK89/11073 
+#EXTINF:-1,PT: SPORT TV 5 HD http://driptvs.com:8080/TrialIPTV/558QwK89/11074 
+#EXTINF:-1,PT: Eleven Sport 1 HD http://driptvs.com:8080/TrialIPTV/558QwK89/137 
+#EXTINF:-1,PT: Eleven Sport 2 HD http://driptvs.com:8080/TrialIPTV/558QwK89/139 
+#EXTINF:-1,PT: Eleven Sport 3 HD http://driptvs.com:8080/TrialIPTV/558QwK89/140 
+#EXTINF:-1,PT: Eleven Sport 4 HD http://driptvs.com:8080/TrialIPTV/558QwK89/141 
+#EXTINF:-1,PT: Eleven Sport 5 HD http://driptvs.com:8080/TrialIPTV/558QwK89/142 
+#EXTINF:-1,PT: Eleven Sport 6 HD http://driptvs.com:8080/TrialIPTV/558QwK89/143 
+#EXTINF:-1,PT: EUROSPORT 2 HD http://driptvs.com:8080/TrialIPTV/558QwK89/11069 
+
+
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13705
+#EXTINF:0,PT: Bloomberg
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15529
+#EXTINF:0,PT: Canal 11 HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13653
+#EXTINF:0,PT: Canal 180 HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15576
+#EXTINF:0,PT: Canal Cocina HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15593
+#EXTINF:0,PT: Canal Hollywood HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13666
+#EXTINF:0,PT: Canal IU HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15575
+#EXTINF:0,PT: Canal Panda
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15539
+#EXTINF:0,PT: Canal Q HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13659
+#EXTINF:0,PT: Canção Nova
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15533
+#EXTINF:0,PT: Cartoon Network
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13716
+#EXTINF:0,PT: Caça e Pesca HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15530
+#EXTINF:0,PT: Caçavision HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15531
+#EXTINF:0,PT: Cinemundo HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13668
+#EXTINF:0,PT: Clubbing TV
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15586
+#EXTINF:0,PT: CM TV HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13652
+#EXTINF:0,PT: CNBC Europe
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15559
+#EXTINF:0,PT: CNN International
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15558
+#EXTINF:0,PT: Crime + Investigation HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13710
+#EXTINF:0,PT: Decasa HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15594
+#EXTINF:0,PT: Discovery Channel HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13703
+#EXTINF:0,PT: Disney Channel
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13714
+#EXTINF:0,PT: Disney Junior
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13715
+#EXTINF:0,PT: Dog TV HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13727
+#EXTINF:0,PT: E! Entertainment HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13711
+#EXTINF:0,PT: Eleven Sports 1 HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13678
+#EXTINF:0,PT: Eleven Sports 2 HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13679
+#EXTINF:0,PT: Eleven Sports 3 HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13680
+#EXTINF:0,PT: Eleven Sports 4 HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13681
+#EXTINF:0,PT: Eleven Sports 5 HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13682
+#EXTINF:0,PT: Eleven Sports 6 HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13683
+#EXTINF:0,PT: Eurochannel HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15582
+#EXTINF:0,PT: Euronews
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15557
+#EXTINF:0,PT: Eurosport 1 HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13693
+#EXTINF:0,PT: Eurosport 2 HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13694
+#EXTINF:0,PT: Fashion TV
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15537
+#EXTINF:0,PT: Fatima TV HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15535
+#EXTINF:0,PT: Fight Network HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13697
+#EXTINF:0,PT: Food Network HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13723
+#EXTINF:0,PT: Fox HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13672
+#EXTINF:0,PT: Fox Comedy HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13675
+#EXTINF:0,PT: Fox Crime HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13674
+#EXTINF:0,PT: Fox Life HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13673
+#EXTINF:0,PT: Fox Movies HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13667
+#EXTINF:0,PT: Fox News
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13728
+#EXTINF:0,PT: France 24 HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15556
+#EXTINF:0,PT: Fuel TV HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13699
+#EXTINF:0,PT: Galeria
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15578
+#EXTINF:0,PT: Galicia TV
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15548
+#EXTINF:0,PT: Game Toon HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15588
+#EXTINF:0,PT: Globo HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13655
+#EXTINF:0,PT: Globo Now
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13656
+#EXTINF:0,PT: Historia HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13706
+#EXTINF:0,PT: ID Investigation Discovery HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13709
+#EXTINF:0,PT: Jim Jam
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15583
+#EXTINF:0,PT: Kombat Sport HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13696
+#EXTINF:0,PT: Kuriakos TV HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15562
+#EXTINF:0,PT: Localvisão HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15544
+#EXTINF:0,PT: Luxe TV HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13726
+#EXTINF:0,PT: MCM Pop
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15532
+#EXTINF:0,PT: MCM Top HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15579
+#EXTINF:0,PT: Meo Destaques HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15590
+#EXTINF:0,PT: Meo Videoclube HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15589
+#EXTINF:0,PT: Mezzo
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15577
+#EXTINF:0,PT: Mezzo Live HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13737
+#EXTINF:0,PT: Motorvision HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13698
+#EXTINF:0,PT: MTV Live HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15584
+#EXTINF:0,PT: MTV Portugal HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13730
+#EXTINF:0,PT: National Geographic Channel HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13702
+#EXTINF:0,PT: Nat Geo Wild HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15553
+#EXTINF:0,PT: Nick Jr.
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13719
+#EXTINF:0,PT: Nickelodeon
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13718
+#EXTINF:0,PT: NOS Studios HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13665
+#EXTINF:0,PT: Odisseia HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13704
+#EXTINF:0,PT: PFC
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15536
+#EXTINF:0,PT: Porto Canal HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15551
+#EXTINF:0,PT: Record News Europa
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15550
+#EXTINF:0,PT: Record TV
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15547
+#EXTINF:0,PT: RTP 1 HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13645
+#EXTINF:0,PT: RTP 2 HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13646
+#EXTINF:0,PT: RTP 3 HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13650
+#EXTINF:0,PT: RTP Açores
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15560
+#EXTINF:0,PT: RTP África
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15541
+#EXTINF:0,PT: RTP Madeira
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15542
+#EXTINF:0,PT: RTP Memória
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15540
+#EXTINF:0,PT: SIC HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13647
+#EXTINF:0,PT: SIC Caras 
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13657
+#EXTINF:0,PT: SIC K HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13720
+#EXTINF:0,PT: SIC Mulher HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13654
+#EXTINF:0,PT: SIC Noticias HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13649
+#EXTINF:0,PT: SIC Radical HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15543
+#EXTINF:0,PT: Sky News
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13729
+#EXTINF:0,PT: Sol Musica HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15595
+#EXTINF:0,PT: Somos HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15596
+#EXTINF:0,PT: Sport TV 1 HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13685
+#EXTINF:0,PT: Sport TV 2 HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13686
+#EXTINF:0,PT: Sport TV 3 HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13687
+#EXTINF:0,PT: Sport TV 4 HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13688
+#EXTINF:0,PT: Sport TV 5 HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13689
+#EXTINF:0,PT: Sport TV NBA HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13692
+#EXTINF:0,PT: Sport TV+ HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13684
+#EXTINF:0,PT: Sporting TV HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13691
+#EXTINF:0,PT: Sundance Channel HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15534
+#EXTINF:0,PT: Syfy HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13676
+#EXTINF:0,PT: TCV Internacional
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15587
+#EXTINF:0,PT: TLC
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13708
+#EXTINF:0,PT: Toros TV HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13701
+#EXTINF:0,PT: TPA Internacional
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15561
+#EXTINF:0,PT: Trace Brazuca HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15580
+#EXTINF:0,PT: Trace Toca HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15552
+#EXTINF:0,PT: Travel Channel HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13724
+#EXTINF:0,PT: TV5MONDE Europe HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15546
+#EXTINF:0,PT: TVCine Action HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13663
+#EXTINF:0,PT: TVCine Edition HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13661
+#EXTINF:0,PT: TVCine Emotion HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13662
+#EXTINF:0,PT: TVCine Top HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13660
+#EXTINF:0,PT: TVE Internacional HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13713
+#EXTINF:0,PT: TVI HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13648
+#EXTINF:0,PT: TVI 24 HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13651
+#EXTINF:0,PT: TVI Ficção HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15545
+#EXTINF:0,PT: TVI Reality HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13658
+#EXTINF:0,PT: TV Verdade HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15570
+#EXTINF:0,PT: UM Europa
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/15585
+#EXTINF:0,PT: VH1
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13735
+#EXTINF:0,PT: ZAP Viva HD
+http://iconic-streams.com:80/nestorpereiralinares@hotmail.com/hn4tgefc3e/13712
+
 
 
 #EXTINF:0,PT: Sky News (Sport tv 1)
