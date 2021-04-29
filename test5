@@ -1,5 +1,289 @@
 #EXTM3U
 
+#EXTINF:-1 xui-id="15592" tvg-id="dcineespanol.es" tvg-name="PT: A3 Cine HD" tvg-logo="http://neczbm.to/images/channels/A3Cine.png" group-title="PT: | Entretenimento",PT: A3 Cine HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891H0uFEBJ-7__sWkuzLUVHKA/ts
+#EXTINF:-1 xui-id="15591" tvg-id="atreseries.es" tvg-name="PT: A3 Series HD" tvg-logo="http://neczbm.to/images/channels/A3Series.png" group-title="PT: | Entretenimento",PT: A3 Series HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp8915JzX7g3GJibrmup8NNe6ug/ts
+#EXTINF:-1 xui-id="13722" tvg-id="24kitchen.pt" tvg-name="PT: 24 Kitchen HD" tvg-logo="http://neczbm.to/images/channels/24Kitchen.png" group-title="PT: | Lifestyle",PT: 24 Kitchen HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891EQ_TbxTPcp6Xz7ZqcWw4sA/ts
+#EXTINF:-1 xui-id="13695" tvg-id="abolatv.pt" tvg-name="PT: A Bola TV HD" tvg-logo="http://neczbm.to/images/channels/ABolaTV.png" group-title="PT: | Desporto",PT: A Bola TV HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891LZyZX68ML48oyDUt7YA2uw/ts
+#EXTINF:-1 xui-id="15581" tvg-id="afromusicchannel.pt" tvg-name="PT: Afro Music" tvg-logo="http://neczbm.to/images/channels/AfroMusic.png" group-title="PT: | Música",PT: Afro Music
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891_MVomews3AruaEAEjfLrgQ/ts
+#EXTINF:-1 xui-id="15563" tvg-id="" tvg-name="PT: Alma Lusa HD" tvg-logo="http://neczbm.to/images/channels/AlmaLusa.png" group-title="PT: | Música",PT: Alma Lusa HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891OQI5gdxm0xW00uD3Cr7xqw/ts
+#EXTINF:-1 xui-id="13677" tvg-id="amchd.pt" tvg-name="PT: AMC HD" tvg-logo="http://neczbm.to/images/channels/AMCHD.png" group-title="PT: | Filmes e Séries",PT: AMC HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891_cgXlEqm41NGV7nkfMzucg/ts
+#EXTINF:-1 xui-id="15597" tvg-id="antena3.es" tvg-name="PT: Antena 3 Internacional HD" tvg-logo="http://neczbm.to/images/channels/Antena3Internacional.png" group-title="PT: | Entretenimento",PT: Antena 3 Internacional HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891yFpKO4lIQGiqQsIST2wOCA/ts
+#EXTINF:-1 xui-id="15554" tvg-id="artv.pt" tvg-name="PT: ARtv" tvg-logo="http://neczbm.to/images/channels/ARtv.png" group-title="PT: | Informação",PT: ARtv
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891OLcfB1lC5wahyNKGvGd4pA/ts
+#EXTINF:-1 xui-id="13669" tvg-id="axn.pt" tvg-name="PT: AXN HD" tvg-logo="http://neczbm.to/images/channels/AXN.png" group-title="PT: | Filmes e Séries",PT: AXN HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891vN8tWTNl-_K60rGh03ju0Q/ts
+#EXTINF:-1 xui-id="13671" tvg-id="axnblack.pt" tvg-name="PT: AXN Movies HD" tvg-logo="http://neczbm.to/images/channels/AXNMovies.png" group-title="PT: | Filmes e Séries",PT: AXN Movies HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891G4GA818A1jQw8bEtruAk3g/ts
+#EXTINF:-1 xui-id="13670" tvg-id="axnwhite.pt" tvg-name="PT: AXN White HD" tvg-logo="http://neczbm.to/images/channels/AXNWhite.png" group-title="PT: | Filmes e Séries",PT: AXN White HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891CppD_epsT5yo_zcgCcbwfg/ts
+#EXTINF:-1 xui-id="13721" tvg-id="BabyTV.pt" tvg-name="PT: Baby TV" tvg-logo="http://neczbm.to/images/channels/BabyTV.png" group-title="PT: | Infantil",PT: Baby TV
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891nMIsfBeH2KzVFkUXG3qZZQ/ts
+#EXTINF:-1 xui-id="15549" tvg-id="bbcntertainment.pt" tvg-name="PT: BBC Entertainment" tvg-logo="http://neczbm.to/images/channels/BBCEntertainment.png" group-title="PT: | Entretenimento",PT: BBC Entertainment
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891ba-V9UmQecnx04NKqUab4w/ts
+#EXTINF:-1 xui-id="13746" tvg-id="BBCWorldNews.nws" tvg-name="PT: BBC World News" tvg-logo="http://neczbm.to/images/channels/BBCWorldNews.png" group-title="PT: | Informação",PT: BBC World News
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891N6y2mbg0RtkVmSYD3LfNbQ/ts
+#EXTINF:-1 xui-id="13690" tvg-id="benficatv1.pt" tvg-name="PT: Benfica TV HD" tvg-logo="http://neczbm.to/images/channels/BenficaTV.png" group-title="PT: | Desporto",PT: Benfica TV HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891iP4CtUXLeFYJ26g4sxlpnw/ts
+#EXTINF:-1 xui-id="15538" tvg-id="biggs.pt" tvg-name="PT: Biggs" tvg-logo="http://neczbm.to/images/channels/Biggs.png" group-title="PT: | Infantil",PT: Biggs
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891fIJfCwXgG1oUqNXFoXVJIw/ts
+#EXTINF:-1 xui-id="13705" tvg-id="blazehd.pt" tvg-name="PT: Blaze HD" tvg-logo="http://neczbm.to/images/channels/Blaze.png" group-title="PT: | Entretenimento",PT: Blaze HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891ojbuuOuS6wZTTPAhsLaP6Q/ts
+#EXTINF:-1 xui-id="15529" tvg-id="Bloomberg.nws" tvg-name="PT: Bloomberg" tvg-logo="http://neczbm.to/images/channels/BloombergTelevision.png" group-title="PT: | Informação",PT: Bloomberg
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891GL2vkPyDyejLJgnyS-PRlg/ts
+#EXTINF:-1 xui-id="13653" tvg-id="canal11.pt" tvg-name="PT: Canal 11 HD" tvg-logo="http://neczbm.to/images/channels/Canal11.png" group-title="PT: | Desporto",PT: Canal 11 HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891nvUCY5G3hbw_yhcS1jrfkA/ts
+#EXTINF:-1 xui-id="15576" tvg-id="canal180.pt" tvg-name="PT: Canal 180 HD" tvg-logo="http://neczbm.to/images/channels/Canal180.png" group-title="PT: | Generalistas",PT: Canal 180 HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891pB0rI6qPwN5B6iN0S7NoBA/ts
+#EXTINF:-1 xui-id="15593" tvg-id="canalcocina.es" tvg-name="PT: Canal Cocina HD" tvg-logo="http://neczbm.to/images/channels/CanalCocina.png" group-title="PT: | Entretenimento",PT: Canal Cocina HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891TvbdBk4Ukidf3fhRUPixTQ/ts
+#EXTINF:-1 xui-id="13666" tvg-id="canalhollywood.pt" tvg-name="PT: Canal Hollywood HD" tvg-logo="http://neczbm.to/images/channels/CanalHollywood.png" group-title="PT: | Filmes e Séries",PT: Canal Hollywood HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891RroW_Ek7wLSyTJ-nQuhA9w/ts
+#EXTINF:-1 xui-id="15575" tvg-id="" tvg-name="PT: Canal IU HD" tvg-logo="http://neczbm.to/images/channels/CanalIU.png" group-title="PT: | Generalistas Internacionais",PT: Canal IU HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891TY-qvezvV_yxg32Y5GMUSA/ts
+#EXTINF:-1 xui-id="15539" tvg-id="panda.pt" tvg-name="PT: Canal Panda" tvg-logo="http://neczbm.to/images/channels/CanalPanda.png" group-title="PT: | Infantil",PT: Canal Panda
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891WL0srb60D7U5zUiIn7R8lA/ts
+#EXTINF:-1 xui-id="13659" tvg-id="canalq.pt" tvg-name="PT: Canal Q HD" tvg-logo="http://neczbm.to/images/channels/CanalQ.png" group-title="PT: | Entretenimento",PT: Canal Q HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891_B2MJ2A7LhJU1JN5BNBi9g/ts
+#EXTINF:-1 xui-id="15533" tvg-id="cancaonova.pt" tvg-name="PT: Canção Nova" tvg-logo="http://neczbm.to/images/channels/CancaoNova.png" group-title="PT: | Lifestyle",PT: Canção Nova
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891am7WBUdvbIoBp7Bu5_UqgA/ts
+#EXTINF:-1 xui-id="13716" tvg-id="cartoonnetwork.pt" tvg-name="PT: Cartoon Network" tvg-logo="http://neczbm.to/images/channels/CartoonNetwork.png" group-title="PT: | Infantil",PT: Cartoon Network
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891D8A_yS4SOJR0wbp0Z7Mv_Q/ts
+#EXTINF:-1 xui-id="15530" tvg-id="cacaepesca.pt" tvg-name="PT: Caça e Pesca HD" tvg-logo="http://neczbm.to/images/channels/CacaEPesca.png" group-title="PT: | Lifestyle",PT: Caça e Pesca HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891DN67wDFmOg5tEaKDgD3J-w/ts
+#EXTINF:-1 xui-id="15531" tvg-id="cacavision.pt" tvg-name="PT: Caçavision HD" tvg-logo="http://neczbm.to/images/channels/CacaVision.png" group-title="PT: | Documentários",PT: Caçavision HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891ZysoVK7LkyI2hIZAQmFqtw/ts
+#EXTINF:-1 xui-id="13668" tvg-id="cinemundo.pt" tvg-name="PT: Cinemundo HD" tvg-logo="http://neczbm.to/images/channels/Cinemundo.png" group-title="PT: | Filmes e Séries",PT: Cinemundo HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891tVwbzt6zBqAlLdZvi-8I4Q/ts
+#EXTINF:-1 xui-id="15586" tvg-id="clubbingtvhd.pt" tvg-name="PT: Clubbing TV" tvg-logo="http://neczbm.to/images/channels/ClubbingTV.png" group-title="PT: | Música",PT: Clubbing TV
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891ZovgNBbgKoMXEO3YrEenFw/ts
+#EXTINF:-1 xui-id="13652" tvg-id="cmtv.pt" tvg-name="PT: CM TV HD" tvg-logo="http://neczbm.to/images/channels/CMTV.png" group-title="PT: | Informação",PT: CM TV HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891609A861KT-nKQSJID5creA/ts
+#EXTINF:-1 xui-id="15559" tvg-id="CNBC.nws" tvg-name="PT: CNBC Europe" tvg-logo="http://neczbm.to/images/channels/CNBC.png" group-title="PT: | Informação",PT: CNBC Europe
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891aBtS1nTRANUYRXuun5T6UA/ts
+#EXTINF:-1 xui-id="15558" tvg-id="" tvg-name="PT: CNN International" tvg-logo="http://neczbm.to/images/channels/CNNInternational.png" group-title="PT: | Informação",PT: CNN International
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891mB2uT4RB3sfvUz4jwJSF6g/ts
+#EXTINF:-1 xui-id="13710" tvg-id="crimeinvestigation.pt" tvg-name="PT: Crime + Investigation HD" tvg-logo="http://neczbm.to/images/channels/CrimeandInvestigation.png" group-title="PT: | Documentários",PT: Crime + Investigation HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891berfsV-u2K33VV93INzWKw/ts
+#EXTINF:-1 xui-id="15594" tvg-id="canaldecasa.es" tvg-name="PT: Decasa HD" tvg-logo="http://neczbm.to/images/channels/Decasa.png" group-title="PT: | Entretenimento",PT: Decasa HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891jZ6a3VhLmakK37JAMgewEA/ts
+#EXTINF:-1 xui-id="13703" tvg-id="discoverychannelhd.pt" tvg-name="PT: Discovery Channel HD" tvg-logo="http://neczbm.to/images/channels/DiscoveryHD.png" group-title="PT: | Documentários",PT: Discovery Channel HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891WuK7EmzzZYRlZ4tXwIQfqQ/ts
+#EXTINF:-1 xui-id="13714" tvg-id="disneychannel.pt" tvg-name="PT: Disney Channel" tvg-logo="http://neczbm.to/images/channels/DisneyChannel.png" group-title="PT: | Infantil",PT: Disney Channel
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891cec4XYJLAyeZO5PAEahUiw/ts
+#EXTINF:-1 xui-id="13715" tvg-id="disneyjunior.pt" tvg-name="PT: Disney Junior" tvg-logo="http://neczbm.to/images/channels/DisneyJunior.png" group-title="PT: | Infantil",PT: Disney Junior
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp8915QAAoNOFAIMu9yKcvyQNLg/ts
+#EXTINF:-1 xui-id="13727" tvg-id="dogtv.pt" tvg-name="PT: Dog TV HD" tvg-logo="http://neczbm.to/images/channels/DogTV.png" group-title="PT: | Documentários",PT: Dog TV HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891BmEfATRhlYEfHPaw9v1gVg/ts
+#EXTINF:-1 xui-id="13711" tvg-id="eentertainment.pt" tvg-name="PT: E! Entertainment HD" tvg-logo="http://neczbm.to/images/channels/E!HD.png" group-title="PT: | Entretenimento",PT: E! Entertainment HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891_IwbPfA_nfq8ZEMa0N9wyw/ts
+#EXTINF:-1 xui-id="13678" tvg-id="elevensports1.pt" tvg-name="PT: Eleven Sports 1 HD" tvg-logo="http://neczbm.to:80/images/0707cf6dc92aac921253398dfc0cf900.png" group-title="PT: | Desporto",PT: Eleven Sports 1 HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891kKVdKtd9_fDiVp13cjfHqQ/ts
+#EXTINF:-1 xui-id="13679" tvg-id="elevensports2.pt" tvg-name="PT: Eleven Sports 2 HD" tvg-logo="http://neczbm.to:80/images/28edd148026e1187d9124ae67b93b00b.png" group-title="PT: | Desporto",PT: Eleven Sports 2 HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891KlUXWtwCbE7peJvNs272ig/ts
+#EXTINF:-1 xui-id="13680" tvg-id="elevensports3.pt" tvg-name="PT: Eleven Sports 3 HD" tvg-logo="http://neczbm.to:80/images/193ba71bcdb04465ffb6238fa8dd5309.png" group-title="PT: | Desporto",PT: Eleven Sports 3 HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891lxn2LsQm7Ob6Y857LD85SQ/ts
+#EXTINF:-1 xui-id="13681" tvg-id="elevensports4.pt" tvg-name="PT: Eleven Sports 4 HD" tvg-logo="http://neczbm.to:80/images/935e740f885eb202607dff594139ea80.png" group-title="PT: | Desporto",PT: Eleven Sports 4 HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891CVN3iKwSxCDUWPSBdGgn4g/ts
+#EXTINF:-1 xui-id="13682" tvg-id="elevensports5.pt" tvg-name="PT: Eleven Sports 5 HD" tvg-logo="http://neczbm.to:80/images/7c34aa823b19c9656585aa6f00e3262c.png" group-title="PT: | Desporto",PT: Eleven Sports 5 HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891-mbcFO5rwrl21t6XjoxUqw/ts
+#EXTINF:-1 xui-id="13683" tvg-id="elevensports6.pt" tvg-name="PT: Eleven Sports 6 HD" tvg-logo="http://neczbm.to:80/images/f4e0fff8b8ee1b66d9cdc760e4e2ecfc.png" group-title="PT: | Desporto",PT: Eleven Sports 6 HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891aoMdNMWrZvr-8xOZzEW88g/ts
+#EXTINF:-1 xui-id="15582" tvg-id="EuroChannel.pt" tvg-name="PT: Eurochannel HD" tvg-logo="http://neczbm.to/images/channels/Eurochannel.png" group-title="PT: | Filmes e Séries",PT: Eurochannel HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891xVuW4qIWuNZD-4EVBuaStg/ts
+#EXTINF:-1 xui-id="15557" tvg-id="euronews.pt" tvg-name="PT: Euronews" tvg-logo="http://neczbm.to/images/channels/EuroNews.png" group-title="PT: | Informação",PT: Euronews
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp8915tsx0cjoh8IlZK4XP14FFg/ts
+#EXTINF:-1 xui-id="13693" tvg-id="eurosport1.pt" tvg-name="PT: Eurosport 1 HD" tvg-logo="http://neczbm.to/images/channels/Eurosport1HD.png" group-title="PT: | Desporto",PT: Eurosport 1 HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp8916gel39BFsJNYraAJaesQhA/ts
+#EXTINF:-1 xui-id="13694" tvg-id="eurosport2.pt" tvg-name="PT: Eurosport 2 HD" tvg-logo="http://neczbm.to/images/channels/Eurosport2HD.png" group-title="PT: | Desporto",PT: Eurosport 2 HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891XDxafyPF1zvk5KpSA_LwxA/ts
+#EXTINF:-1 xui-id="15537" tvg-id="" tvg-name="PT: Fashion TV" tvg-logo="http://neczbm.to/images/channels/FashionTV.png" group-title="PT: | Lifestyle",PT: Fashion TV
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891Kpq8Q8__sdhbJZwXHP6SBw/ts
+#EXTINF:-1 xui-id="15535" tvg-id="" tvg-name="PT: Fatima TV HD" tvg-logo="http://neczbm.to/images/channels/TVFatima.png" group-title="PT: | Generalistas",PT: Fatima TV HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891K-K2aDQ34WWtbiOYbOq-cw/ts
+#EXTINF:-1 xui-id="13697" tvg-id="" tvg-name="PT: Fight Network HD" tvg-logo="http://neczbm.to/images/channels/FightNetwork.png" group-title="PT: | Desporto",PT: Fight Network HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891nPRaQeAUIa9ihB4FLYOPnA/ts
+#EXTINF:-1 xui-id="13723" tvg-id="foodnetwork.pt" tvg-name="PT: Food Network HD" tvg-logo="http://neczbm.to/images/channels/FoodNetwork.png" group-title="PT: | Lifestyle",PT: Food Network HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891LT1WTd3MV2cp8nLrbpvjww/ts
+#EXTINF:-1 xui-id="13672" tvg-id="fox.pt" tvg-name="PT: Fox HD" tvg-logo="http://neczbm.to/images/channels/FoxHD.png" group-title="PT: | Filmes e Séries",PT: Fox HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891PMBqaFLXGY0wjxWrRwGRMQ/ts
+#EXTINF:-1 xui-id="13675" tvg-id="foxcomedy.pt" tvg-name="PT: Fox Comedy HD" tvg-logo="http://neczbm.to/images/channels/FoxComedy.png" group-title="PT: | Filmes e Séries",PT: Fox Comedy HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891oQoP7Nn5hJUYnGwqCDfFHA/ts
+#EXTINF:-1 xui-id="13674" tvg-id="foxcrime.pt" tvg-name="PT: Fox Crime HD" tvg-logo="http://neczbm.to/images/channels/FoxCrimePT.png" group-title="PT: | Filmes e Séries",PT: Fox Crime HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp8917aCnHfUcfB2LAM27_fzDYg/ts
+#EXTINF:-1 xui-id="13673" tvg-id="foxlife.pt" tvg-name="PT: Fox Life HD" tvg-logo="http://neczbm.to/images/channels/FoxLife.png" group-title="PT: | Filmes e Séries",PT: Fox Life HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891yzcdGeGxzF0A_5PXDokIBg/ts
+#EXTINF:-1 xui-id="13667" tvg-id="foxmovies.pt" tvg-name="PT: Fox Movies HD" tvg-logo="http://neczbm.to/images/channels/FoxMovies.png" group-title="PT: | Filmes e Séries",PT: Fox Movies HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp8916f_ST9YcTK3KSS9Rq9QUNQ/ts
+#EXTINF:-1 xui-id="13728" tvg-id="" tvg-name="PT: Fox News" tvg-logo="http://neczbm.to/images/channels/FoxNewsHD.png" group-title="PT: | Informação",PT: Fox News
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891LxJzMckFbE-WeRCwetBLfg/ts
+#EXTINF:-1 xui-id="15556" tvg-id="" tvg-name="PT: France 24 HD" tvg-logo="http://neczbm.to/images/channels/France24.png" group-title="PT: | Informação",PT: France 24 HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp8912QqSfEXeLsc6ziCKLnBj7w/ts
+#EXTINF:-1 xui-id="13699" tvg-id="fueltv.pt" tvg-name="PT: Fuel TV HD" tvg-logo="http://neczbm.to/images/channels/Fuel-TV.png" group-title="PT: | Desporto",PT: Fuel TV HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891Qkw1AXMJVB9EJP3nAO49bQ/ts
+#EXTINF:-1 xui-id="15578" tvg-id="" tvg-name="PT: Galeria" tvg-logo="http://neczbm.to/images/channels/Galeria.png" group-title="PT: | Entretenimento",PT: Galeria
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp8919c8-QGL1d3X9q_xidpy7Sg/ts
+#EXTINF:-1 xui-id="15548" tvg-id="TVGalicia.pt" tvg-name="PT: Galicia TV" tvg-logo="http://neczbm.to/images/channels/Galicia.png" group-title="PT: | Generalistas Internacionais",PT: Galicia TV
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891b0t-R8wa4G26_3bDJ1shFg/ts
+#EXTINF:-1 xui-id="15588" tvg-id="" tvg-name="PT: Game Toon HD" tvg-logo="http://neczbm.to/images/channels/GameToon.png" group-title="PT: | Entretenimento",PT: Game Toon HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp8914ADJd0WyDOdal3wqhj9K1g/ts
+#EXTINF:-1 xui-id="13655" tvg-id="globo.pt" tvg-name="PT: Globo HD" tvg-logo="http://neczbm.to/images/channels/Globo.png" group-title="PT: | Entretenimento",PT: Globo HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891uTkNS5eNrRDZn7KvjBFshQ/ts
+#EXTINF:-1 xui-id="13656" tvg-id="globonow.pt" tvg-name="PT: Globo Now" tvg-logo="http://neczbm.to/images/channels/GloboNow.png" group-title="PT: | Entretenimento",PT: Globo Now
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891y5crKy4Haxnuw9GSwm2vrw/ts
+#EXTINF:-1 xui-id="13706" tvg-id="historia.pt" tvg-name="PT: Historia HD" tvg-logo="http://neczbm.to/images/channels/Historia.png" group-title="PT: | Documentários",PT: Historia HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891ZCrT-Q5mZorlix_YQTtz_Q/ts
+#EXTINF:-1 xui-id="13709" tvg-id="investigationdiscovery.pt" tvg-name="PT: ID Investigation Discovery HD" tvg-logo="http://neczbm.to/images/channels/InvestigationDiscoveryHDUS.png" group-title="PT: | Documentários",PT: ID Investigation Discovery HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891GnOdxbZHnh0Gvmw1r-WwJw/ts
+#EXTINF:-1 xui-id="15583" tvg-id="jimjam.pt" tvg-name="PT: Jim Jam" tvg-logo="http://neczbm.to/images/channels/JimJam.png" group-title="PT: | Infantil",PT: Jim Jam
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891u_ExZf_mLBHI4juE7wEr-Q/ts
+#EXTINF:-1 xui-id="13696" tvg-id="kombatsport.pt" tvg-name="PT: Kombat Sport HD" tvg-logo="http://neczbm.to/images/channels/KombatSport.png" group-title="PT: | Desporto",PT: Kombat Sport HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891AknsTF4Nhl2m3yBkTPAxxg/ts
+#EXTINF:-1 xui-id="15562" tvg-id="kuriakostv.pt" tvg-name="PT: Kuriakos TV HD" tvg-logo="http://neczbm.to/images/channels/KuriakosTV.png" group-title="PT: | Lifestyle",PT: Kuriakos TV HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891KivpngVeULuxFIUYER03FQ/ts
+#EXTINF:-1 xui-id="15544" tvg-id="localvisaotv.pt" tvg-name="PT: Localvisão HD" tvg-logo="http://neczbm.to/images/channels/Localvisao.png" group-title="PT: | Generalistas",PT: Localvisão HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891PkiNgndPmJcnukVzeYsipQ/ts
+#EXTINF:-1 xui-id="13726" tvg-id="luxe.pt" tvg-name="PT: Luxe TV HD" tvg-logo="http://neczbm.to/images/channels/LuxeTV.png" group-title="PT: | Lifestyle",PT: Luxe TV HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891Scp_-A4YB63JmAk6M3PKaQ/ts
+#EXTINF:-1 xui-id="15532" tvg-id="MCMPop.pt" tvg-name="PT: MCM Pop" tvg-logo="http://neczbm.to/images/channels/MCMPop.png" group-title="PT: | Música",PT: MCM Pop
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891A2K6SOw6WJi0EphaFEh3cQ/ts
+#EXTINF:-1 xui-id="15579" tvg-id="mcmtop.pt" tvg-name="PT: MCM Top HD" tvg-logo="http://neczbm.to/images/channels/MCMTop.png" group-title="PT: | Música",PT: MCM Top HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891rO3xi10iOBfXpe9-pjsd4A/ts
+#EXTINF:-1 xui-id="15590" tvg-id="" tvg-name="PT: Meo Destaques HD" tvg-logo="http://neczbm.to/images/channels/MEODestaques.png" group-title="PT: | Generalistas",PT: Meo Destaques HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891TtsgEPLVq54NLByJcBhQLg/ts
+#EXTINF:-1 xui-id="15589" tvg-id="" tvg-name="PT: Meo Videoclube HD" tvg-logo="http://neczbm.to/images/channels/MeoVideoclube.png" group-title="PT: | Filmes e Séries",PT: Meo Videoclube HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891AgvrToB6k-7xGmJZuePVBA/ts
+#EXTINF:-1 xui-id="15577" tvg-id="mezzo.pt" tvg-name="PT: Mezzo" tvg-logo="http://neczbm.to/images/channels/Mezzo.png" group-title="PT: | Música",PT: Mezzo
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891J4pJ4-u5-NG3uOe87Tx8_g/ts
+#EXTINF:-1 xui-id="13737" tvg-id="mezzolivehd.pt" tvg-name="PT: Mezzo Live HD" tvg-logo="http://neczbm.to/images/channels/MezzoLiveHD.png" group-title="PT: | Música",PT: Mezzo Live HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp8911TZFWz7zvDXTfyVT9jtqgg/ts
+#EXTINF:-1 xui-id="13698" tvg-id="motorvision.pt" tvg-name="PT: Motorvision HD" tvg-logo="http://neczbm.to/images/channels/MotorvisionTVHD.png" group-title="PT: | Desporto",PT: Motorvision HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp8911NYtOLDsO1lKSCcVAs65oQ/ts
+#EXTINF:-1 xui-id="15584" tvg-id="" tvg-name="PT: MTV Live HD" tvg-logo="http://neczbm.to/images/channels/MTVLiveHD.png" group-title="PT: | Música",PT: MTV Live HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891D92ZEFIAFKCPD4xYDI6ucQ/ts
+#EXTINF:-1 xui-id="13730" tvg-id="mtv.pt" tvg-name="PT: MTV Portugal HD" tvg-logo="http://neczbm.to/images/channels/MTVHD.png" group-title="PT: | Entretenimento",PT: MTV Portugal HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891JGAOref0VnXUDQz0-fM7Dw/ts
+#EXTINF:-1 xui-id="13702" tvg-id="nationalgeographic.pt" tvg-name="PT: National Geographic Channel HD" tvg-logo="http://neczbm.to/images/channels/NationalGeographicHD.png" group-title="PT: | Documentários",PT: National Geographic Channel HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891m2VKsHTmj9ysqrbEnA-smA/ts
+#EXTINF:-1 xui-id="15553" tvg-id="nationalgeographicwild.pt" tvg-name="PT: Nat Geo Wild HD" tvg-logo="http://neczbm.to/images/channels/NationalGeographicWildHD.png" group-title="PT: | Documentários",PT: Nat Geo Wild HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891TgHL2Dnr7fWMn4DtaTZmug/ts
+#EXTINF:-1 xui-id="13719" tvg-id="NickJr.pt" tvg-name="PT: Nick Jr." tvg-logo="http://neczbm.to/images/channels/NickJr.png" group-title="PT: | Infantil",PT: Nick Jr.
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891FFr2Z6Ejxs_mcvlirH2msg/ts
+#EXTINF:-1 xui-id="13718" tvg-id="nickelodeon.pt" tvg-name="PT: Nickelodeon" tvg-logo="http://neczbm.to/images/channels/Nickelodeon.png" group-title="PT: | Infantil",PT: Nickelodeon
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891osW2HDN27pEY2Y-_xVhJQA/ts
+#EXTINF:-1 xui-id="13665" tvg-id="nosstudioshd.pt" tvg-name="PT: NOS Studios HD" tvg-logo="http://neczbm.to/images/channels/NOSStudios.png" group-title="PT: | Entretenimento",PT: NOS Studios HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891cyD3VTjy2OUYaZDWzySYJg/ts
+#EXTINF:-1 xui-id="13704" tvg-id="odisseia.pt" tvg-name="PT: Odisseia HD" tvg-logo="http://neczbm.to/images/channels/Odisseia.png" group-title="PT: | Documentários",PT: Odisseia HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891B6LbOjU5rISu9siJPkVEPA/ts
+#EXTINF:-1 xui-id="15536" tvg-id="pfc.pt" tvg-name="PT: PFC" tvg-logo="http://neczbm.to/images/channels/PFC.png" group-title="PT: | Desporto",PT: PFC
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp8918jJRlhaF3P3gk2lzneVzXw/ts
+#EXTINF:-1 xui-id="15551" tvg-id="porto.pt" tvg-name="PT: Porto Canal HD" tvg-logo="http://neczbm.to/images/channels/PortoCanal.png" group-title="PT: | Generalistas",PT: Porto Canal HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891P76ihlkPC0uS8Rcu5DeD9A/ts
+#EXTINF:-1 xui-id="15550" tvg-id="recordnews.pt" tvg-name="PT: Record News Europa" tvg-logo="http://neczbm.to/images/channels/RecordNews.png" group-title="PT: | Generalistas Internacionais",PT: Record News Europa
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891mnnqTTyxTT2091uULQQNdg/ts
+#EXTINF:-1 xui-id="15547" tvg-id="recordtv.pt" tvg-name="PT: Record TV" tvg-logo="http://neczbm.to/images/channels/RecordTV.png" group-title="PT: | Generalistas Internacionais",PT: Record TV
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891ji8vvf9S4YOoIvBRmFetnw/ts
+#EXTINF:-1 xui-id="13645" tvg-id="rtp1.pt" tvg-name="PT: RTP 1 HD" tvg-logo="http://neczbm.to/images/channels/RTP1.png" group-title="PT: | Generalistas",PT: RTP 1 HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891sP93gPhBGNRdOTY0r1BGdQ/ts
+#EXTINF:-1 xui-id="13646" tvg-id="rtp2.pt" tvg-name="PT: RTP 2 HD" tvg-logo="http://neczbm.to/images/channels/RTP2.png" group-title="PT: | Generalistas",PT: RTP 2 HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891rXndomLRrHAsJaFKZwYaeg/ts
+#EXTINF:-1 xui-id="13650" tvg-id="rtp3.pt" tvg-name="PT: RTP 3 HD" tvg-logo="http://neczbm.to/images/channels/RTP3.png" group-title="PT: | Generalistas",PT: RTP 3 HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891wAwGv1ogfvQdnM7nV8icUw/ts
+#EXTINF:-1 xui-id="15560" tvg-id="rtpacores.pt" tvg-name="PT: RTP Açores" tvg-logo="http://neczbm.to/images/channels/RTPAcores.png" group-title="PT: | Generalistas",PT: RTP Açores
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891ScHIYnIWnSTyi4G2ocbCEg/ts
+#EXTINF:-1 xui-id="15541" tvg-id="rtpafrica.pt" tvg-name="PT: RTP África" tvg-logo="http://neczbm.to/images/channels/RTPAfrica.png" group-title="PT: | Generalistas",PT: RTP África
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891pCE8mX-U7k2o2T5fiGk5KQ/ts
+#EXTINF:-1 xui-id="15542" tvg-id="rtpmadeira.pt" tvg-name="PT: RTP Madeira" tvg-logo="http://neczbm.to/images/channels/RTPMadeira.png" group-title="PT: | Generalistas",PT: RTP Madeira
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891TzBIcqigcsz3qc8_oqRZzA/ts
+#EXTINF:-1 xui-id="15540" tvg-id="rtpmemoria.pt" tvg-name="PT: RTP Memória" tvg-logo="http://neczbm.to/images/channels/RTPMemoria.png" group-title="PT: | Generalistas",PT: RTP Memória
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891ItyH7JqY8e7AymBRJofUmg/ts
+#EXTINF:-1 xui-id="13647" tvg-id="sic.pt" tvg-name="PT: SIC HD" tvg-logo="http://neczbm.to/images/channels/SIC.png" group-title="PT: | Generalistas",PT: SIC HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891-LvZrcH8QH8n9V2SL_vmyw/ts
+#EXTINF:-1 xui-id="13657" tvg-id="siccaras.pt" tvg-name="PT: SIC Caras" tvg-logo="http://neczbm.to/images/channels/SICCaras.png" group-title="PT: | Entretenimento",PT: SIC Caras
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891EXEDvH4o2ayJQzL6vVXO-g/ts
+#EXTINF:-1 xui-id="13720" tvg-id="sick.pt" tvg-name="PT: SIC K HD" tvg-logo="http://neczbm.to/images/channels/SIC-K.png" group-title="PT: | Infantil",PT: SIC K HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891bkjEpvM_j0l50myoQLxi6g/ts
+#EXTINF:-1 xui-id="13654" tvg-id="sicmulher.pt" tvg-name="PT: SIC Mulher HD" tvg-logo="http://neczbm.to/images/channels/SICMulher.png" group-title="PT: | Entretenimento",PT: SIC Mulher HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891a7TzG7FKzUCy4-bhwSE5rA/ts
+#EXTINF:-1 xui-id="13649" tvg-id="sicnoticias.pt" tvg-name="PT: SIC Noticias HD" tvg-logo="http://neczbm.to/images/channels/SICNoticias.png" group-title="PT: | Informação",PT: SIC Noticias HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891EEjaLdk5LbzEvCLIVJQ_hA/ts
+#EXTINF:-1 xui-id="15543" tvg-id="sicradical.pt" tvg-name="PT: SIC Radical HD" tvg-logo="http://neczbm.to/images/channels/SICRadical.png" group-title="PT: | Entretenimento",PT: SIC Radical HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891S3iMSKe5C4K1kxSt2xzW0A/ts
+#EXTINF:-1 xui-id="13729" tvg-id="" tvg-name="PT: Sky News" tvg-logo="http://neczbm.to/images/channels/SkyNews.png" group-title="PT: | Informação",PT: Sky News
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891aWV6sJkdqZ56wVPZjOXx3A/ts
+#EXTINF:-1 xui-id="15595" tvg-id="" tvg-name="PT: Sol Musica HD" tvg-logo="http://neczbm.to/images/channels/SolMusica.png" group-title="PT: | Música",PT: Sol Musica HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891VVTfBsYCKXmYw0yFdh4ggA/ts
+#EXTINF:-1 xui-id="15596" tvg-id="" tvg-name="PT: Somos HD" tvg-logo="http://neczbm.to/images/channels/Somos.png" group-title="PT: | Entretenimento",PT: Somos HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891ez-Vz7lMBJ5IlL_gZikqJg/ts
+#EXTINF:-1 xui-id="13685" tvg-id="sporttv1.pt" tvg-name="PT: Sport TV 1 HD" tvg-logo="http://neczbm.to:80/images/10ac8866bedf38a50999efaa6d518c17.png" group-title="PT: | Desporto",PT: Sport TV 1 HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891bFJ9S5uWm4xKorypMVPm5g/ts
+#EXTINF:-1 xui-id="13686" tvg-id="sporttv2.pt" tvg-name="PT: Sport TV 2 HD" tvg-logo="http://neczbm.to/images/channels/SportTV2HD.png" group-title="PT: | Desporto",PT: Sport TV 2 HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891E37aW6mhDAOkX6MNsFQw4Q/ts
+#EXTINF:-1 xui-id="13687" tvg-id="sporttv3.pt" tvg-name="PT: Sport TV 3 HD" tvg-logo="http://neczbm.to/images/channels/SportTV3HD.png" group-title="PT: | Desporto",PT: Sport TV 3 HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891EFPv-bB6V5_4Dtdi67p9ug/ts
+#EXTINF:-1 xui-id="13688" tvg-id="sporttv4.pt" tvg-name="PT: Sport TV 4 HD" tvg-logo="http://neczbm.to/images/channels/SportTV4HD.png" group-title="PT: | Desporto",PT: Sport TV 4 HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp8912d6OF69VTCmL1lJ87VbrWg/ts
+#EXTINF:-1 xui-id="13689" tvg-id="sporttv5.pt" tvg-name="PT: Sport TV 5 HD" tvg-logo="http://neczbm.to/images/channels/SportTV5HD.png" group-title="PT: | Desporto",PT: Sport TV 5 HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891Bb9DcL-NYQE1NCQwYdIjQg/ts
+#EXTINF:-1 xui-id="13692" tvg-id="sporttvnba.pt" tvg-name="PT: Sport TV NBA HD" tvg-logo="http://neczbm.to/images/channels/SportTVNBA.png" group-title="PT: | Desporto",PT: Sport TV NBA HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891YlYjRP3F5ny6x2xLeWYzFQ/ts
+#EXTINF:-1 xui-id="13684" tvg-id="sporttvplus.pt" tvg-name="PT: Sport TV+ HD" tvg-logo="http://neczbm.to/images/channels/SportTVPlus.png" group-title="PT: | Desporto",PT: Sport TV+ HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp8913R11XDnfyWVFD0EkQ8_dsg/ts
+#EXTINF:-1 xui-id="13691" tvg-id="sportingtv.pt" tvg-name="PT: Sporting TV HD" tvg-logo="http://neczbm.to/images/channels/SportingTV.png" group-title="PT: | Desporto",PT: Sporting TV HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891IJUzO8efbozRrIuM3yBzIg/ts
+#EXTINF:-1 xui-id="15534" tvg-id="sundancetv.pt" tvg-name="PT: Sundance Channel HD" tvg-logo="http://neczbm.to/images/channels/SundanceTVHD.png" group-title="PT: | Filmes e Séries",PT: Sundance Channel HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891sNL12DPUsyT2nby4I90q0g/ts
+#EXTINF:-1 xui-id="13676" tvg-id="syfy.pt" tvg-name="PT: Syfy HD" tvg-logo="http://neczbm.to/images/channels/SyfyHD.png" group-title="PT: | Filmes e Séries",PT: Syfy HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891g7xZszmKnNhKzY3l05VAIw/ts
+#EXTINF:-1 xui-id="15587" tvg-id="tcvinternational.pt" tvg-name="PT: TCV Internacional" tvg-logo="http://neczbm.to/images/channels/TCV.png" group-title="PT: | Generalistas Internacionais",PT: TCV Internacional
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891hhYi1uTdz3NwlsaKeprANA/ts
+#EXTINF:-1 xui-id="13708" tvg-id="tlc.pt" tvg-name="PT: TLC" tvg-logo="http://neczbm.to/images/channels/TLC.png" group-title="PT: | Lifestyle",PT: TLC
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891cLlQ5FrjmR4OdmzbWch6_g/ts
+#EXTINF:-1 xui-id="13701" tvg-id="toros.pt" tvg-name="PT: Toros TV HD" tvg-logo="http://neczbm.to/images/channels/TorosTV.png" group-title="PT: | Desporto",PT: Toros TV HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891CgE1MmS0URXtafSdLdM2jw/ts
+#EXTINF:-1 xui-id="15561" tvg-id="tpainternational.pt" tvg-name="PT: TPA Internacional" tvg-logo="http://neczbm.to/images/channels/TPAInternacional.png" group-title="PT: | Generalistas Internacionais",PT: TPA Internacional
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891CgAB4S6XbxM0D09rrPzIdQ/ts
+#EXTINF:-1 xui-id="15580" tvg-id="" tvg-name="PT: Trace Brazuca HD" tvg-logo="http://neczbm.to/images/channels/TraceBrazuca.png" group-title="PT: | Música",PT: Trace Brazuca HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp8916DvWvoQCsmTHb779h9L6pQ/ts
+#EXTINF:-1 xui-id="15552" tvg-id="tracetoca.pt" tvg-name="PT: Trace Toca HD" tvg-logo="http://neczbm.to/images/channels/TraceToca.png" group-title="PT: | Música",PT: Trace Toca HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891pW2hGEhVCWtzBH3YY2x-GQ/ts
+#EXTINF:-1 xui-id="13724" tvg-id="travelchannel.pt" tvg-name="PT: Travel Channel HD" tvg-logo="http://neczbm.to/images/channels/TravelChannel.png" group-title="PT: | Lifestyle",PT: Travel Channel HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891xIatYz2Z-GMX0jWNDKKn1w/ts
+#EXTINF:-1 xui-id="15546" tvg-id="" tvg-name="PT: TV5MONDE Europe HD" tvg-logo="http://neczbm.to/images/channels/TV5MONDEEurope.png" group-title="PT: | Generalistas Internacionais",PT: TV5MONDE Europe HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891QoTZ0dQjcB1_nrIzVOteBw/ts
+#EXTINF:-1 xui-id="13663" tvg-id="tvcineaction.pt" tvg-name="PT: TVCine Action HD" tvg-logo="http://neczbm.to/images/channels/TVCineAction.png" group-title="PT: | Filmes e Séries",PT: TVCine Action HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp8917YIrlF1sydMb_cWCPYfOqQ/ts
+#EXTINF:-1 xui-id="13661" tvg-id="tvcineedition.pt" tvg-name="PT: TVCine Edition HD" tvg-logo="http://neczbm.to/images/channels/TVCineEdition.png" group-title="PT: | Filmes e Séries",PT: TVCine Edition HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891GjJNH2WtHs_Isr8S49FUoQ/ts
+#EXTINF:-1 xui-id="13662" tvg-id="tvcineemotion.pt" tvg-name="PT: TVCine Emotion HD" tvg-logo="http://neczbm.to/images/channels/TVCineEmotion.png" group-title="PT: | Filmes e Séries",PT: TVCine Emotion HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891cPFW7dph6kALw53Uq-VNLA/ts
+#EXTINF:-1 xui-id="13660" tvg-id="tvcinetop.pt" tvg-name="PT: TVCine Top HD" tvg-logo="http://neczbm.to/images/channels/TVCineTop.png" group-title="PT: | Filmes e Séries",PT: TVCine Top HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891rGBN8C0rbQeeOsvQU3QL9w/ts
+#EXTINF:-1 xui-id="13713" tvg-id="TVEi.nws" tvg-name="PT: TVE Internacional HD" tvg-logo="http://neczbm.to/images/channels/TVEInternacional.png" group-title="PT: | Generalistas Internacionais",PT: TVE Internacional HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891bbqiwQBqTCAnMVBp3q-vng/ts
+#EXTINF:-1 xui-id="13648" tvg-id="tvi.pt" tvg-name="PT: TVI HD" tvg-logo="http://neczbm.to/images/channels/TVI.png" group-title="PT: | Generalistas",PT: TVI HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891lDDaV4ACEnxc3NeAau2vOQ/ts
+#EXTINF:-1 xui-id="13651" tvg-id="tvi24.pt" tvg-name="PT: TVI 24 HD" tvg-logo="http://neczbm.to/images/channels/TVI24.png" group-title="PT: | Informação",PT: TVI 24 HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891FDCBifJWy1zebHfQxXXOVg/ts
+#EXTINF:-1 xui-id="15545" tvg-id="tvificcao.pt" tvg-name="PT: TVI Ficção HD" tvg-logo="http://neczbm.to/images/channels/TVIFiccao.png" group-title="PT: | Entretenimento",PT: TVI Ficção HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891T5QE3601D0ni59iGfGRuzQ/ts
+#EXTINF:-1 xui-id="13658" tvg-id="tvireality.pt" tvg-name="PT: TVI Reality HD" tvg-logo="http://neczbm.to/images/channels/TVIReality.png" group-title="PT: | Entretenimento",PT: TVI Reality HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891A-kR-ITbNExeaOKjo-8E9g/ts
+#EXTINF:-1 xui-id="15570" tvg-id="" tvg-name="PT: TV Verdade HD" tvg-logo="http://neczbm.to/images/channels/TVVerdade.png" group-title="PT: | Lifestyle",PT: TV Verdade HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891zLtSy0sffjdzy9olbLfj0w/ts
+#EXTINF:-1 xui-id="15585" tvg-id="" tvg-name="PT: UM Europa" tvg-logo="http://neczbm.to/images/channels/UMEuropa.png" group-title="PT: | Lifestyle",PT: UM Europa
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891SU5StR2ZI72V0gd3Ut9PdA/ts
+#EXTINF:-1 xui-id="13735" tvg-id="vh1.pt" tvg-name="PT: VH1" tvg-logo="http://neczbm.to/images/channels/VH1.png" group-title="PT: | Música",PT: VH1
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891r5Oduh_f3pwvTLU3xVKaRw/ts
+#EXTINF:-1 xui-id="13712" tvg-id="zapvivahd.pt" tvg-name="PT: ZAP Viva HD" tvg-logo="http://neczbm.to/images/channels/ZAPViva.png" group-title="PT: | Generalistas Internacionais",PT: ZAP Viva HD
+http://neczbm.to:80/play/rm9auj-mBHEgZL_bZkatstcYg9GXsdRvWQ2rwFr_Dvv-D6lBr7W9Llbh-UgFp891l9-pQM6c3J28EBjiPBESwg/ts
 
 
 
