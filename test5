@@ -1,419 +1,403 @@
 #EXTM3U
 
-#EXTINF:-1 xui-id="4679" tvg-id="canalq.pt" tvg-name="|PT| Canal Q" tvg-logo="http://static.golemflixer.com:8080/logos/canalq.default.png" group-title="PORTUGAL - GENERALISTAS",|PT| Canal Q
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denpg4WDAhXhrq2Xb24cDRHnX/ts
-#EXTINF:-1 xui-id="76086" tvg-id="porto.pt" tvg-name="|PT| Porto Canal FHD" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| Porto Canal FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFq0FuFU8lq2OTsr5mk_ZQJn/ts
-#EXTINF:-1 xui-id="4955" tvg-id="porto.pt" tvg-name="|PT| Porto Canal" tvg-logo="http://static.golemflixer.com:8080/logos/portocanal.default.png" group-title="PORTUGAL - GENERALISTAS",|PT| Porto Canal
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCExqzWdpv21rq5xtJLMyvZeFuKeBN7U3UYDYs4MnL1icJ/ts
-#EXTINF:-1 xui-id="76087" tvg-id="sic.pt" tvg-name="|PT| SIC" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| SIC
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFpXDx2B07QL0cPbOHoiLLNw/ts
-#EXTINF:-1 xui-id="905" tvg-id="SICCAB" tvg-name="|PT| Sic HD" tvg-logo="http://space.golemflixer.com:8080/images/63f8c34e3340b02718f2cf3e37603051.png" group-title="PORTUGAL - GENERALISTAS",|PT| Sic HD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE7B5HcWTPrmyjXnRy-oy1Ikc4NX_7yYUeznineuhBAab/ts
-#EXTINF:-1 xui-id="76089" tvg-id="sicmulher.pt" tvg-name="|PT| SIC Mulher FHD" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| SIC Mulher FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFqWZaEC3rppYXt-6KU0LVtq/ts
-#EXTINF:-1 xui-id="392" tvg-id="sicmulher.pt" tvg-name="|PT| SIC Mulher" tvg-logo="http://static.golemflixer.com:8080/logos/sicmulher.default.png" group-title="PORTUGAL - GENERALISTAS",|PT| SIC Mulher
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE9Q2zEUBTekjmrtBywloR6V9PQfPEbryB5xzAvjoHeV0/ts
-#EXTINF:-1 xui-id="76090" tvg-id="sicradical.pt" tvg-name="|PT| SIC Radical FHD" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| SIC Radical FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFofurL3bA75nCKSjsw6RW6t/ts
-#EXTINF:-1 xui-id="390" tvg-id="sicradical.pt" tvg-name="|PT| SIC Radical" tvg-logo="http://static.golemflixer.com:8080/logos/sicradical.default.png" group-title="PORTUGAL - GENERALISTAS",|PT| SIC Radical
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE9Q2zEUBTekjmrtBywloR6WMO46_9awe1bQ9g5s3C4sO/ts
-#EXTINF:-1 xui-id="63304" tvg-id="SicCaras.pt" tvg-name="|PT| SIC CARAS FHD" tvg-logo="http://static.golemflixer.com:8080/logos/siccaras.white.png" group-title="PORTUGAL - GENERALISTAS",|PT| SIC CARAS FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE7nEW0bn-XRL579IUqy0PgMl7IqM1kO6crYaAPpoSddX/ts
-#EXTINF:-1 xui-id="76088" tvg-id="siccaras.pt" tvg-name="|PT| SIC Caras" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| SIC Caras
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFp97q2qkPkkYTswCEmt--fn/ts
-#EXTINF:-1 xui-id="63305" tvg-id="pt.SIC K" tvg-name="|PT| SIC K HD" tvg-logo="http://static.golemflixer.com:8080/logos/sick.default.png" group-title="PORTUGAL - INFANTIL",|PT| SIC K HD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE7nEW0bn-XRL579IUqy0PgPlmy8-npjJsn9PCEDYgpVP/ts
-#EXTINF:-1 xui-id="63306" tvg-id="" tvg-name="|PT| SIC KIDS FHD" tvg-logo="" group-title="PORTUGAL - INFANTIL",|PT| SIC KIDS FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE7nEW0bn-XRL579IUqy0PgPVjJLQb2RIzXpjED4v3Gos/ts
-#EXTINF:-1 xui-id="1807" tvg-id="tvi.pt" tvg-name="|PT| TVI" tvg-logo="http://static.golemflixer.com:8080/logos/tvi.light.png" group-title="PORTUGAL - GENERALISTAS",|PT| TVI
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE59pAgYY6jgszhpG79uhfuOXBv6oNqm6gg0B2Nqb7Jke/ts
-#EXTINF:-1 xui-id="14010" tvg-id="pt.TVI" tvg-name="|PT| TVI FHD" tvg-logo="http://space.golemflixer.com:8080/images/ef7610936594ace142d46912b5fc145a.png" group-title="PORTUGAL - GENERALISTAS",|PT| TVI FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE4nLEiQIb4iWt739uHb-n9yn3IR7MQyOuX33tdraj541/ts
-#EXTINF:-1 xui-id="4666" tvg-id="tvireality.pt" tvg-name="|PT| TVI Reality" tvg-logo="http://static.golemflixer.com:8080/logos/tvireality.light.png" group-title="PORTUGAL - GENERALISTAS",|PT| TVI Reality
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denpp4UQ8w4OqGD9T9H5N360t/ts
-#EXTINF:-1 xui-id="76091" tvg-id="" tvg-name="|PT| TVI Reality - CÐmara 1" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| TVI Reality - CÐmara 1
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFoJqallpTevy56siqniN31S/ts
-#EXTINF:-1 xui-id="76092" tvg-id="" tvg-name="|PT| TVI Reality - CÐmara 2" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| TVI Reality - CÐmara 2
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFofrqKduKDpNunMXKwWXE51/ts
-#EXTINF:-1 xui-id="76093" tvg-id="" tvg-name="|PT| TVI Reality - CÐmara 3" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| TVI Reality - CÐmara 3
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFqfKq7bICb6XioVrrns8riz/ts
-#EXTINF:-1 xui-id="76094" tvg-id="" tvg-name="|PT| TVI Reality - CÐmara 4" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| TVI Reality - CÐmara 4
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFrk9ElY6pkoVRAyJ4T3h7IH/ts
-#EXTINF:-1 xui-id="76095" tvg-id="tvireality.pt" tvg-name="|PT| TVI Reality - Mosaico" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| TVI Reality - Mosaico
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFp-VJxgQEeBjtTy6_Oi_y0T/ts
-#EXTINF:-1 xui-id="76096" tvg-id="" tvg-name="|PT| TVI Reality FHD" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| TVI Reality FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFqd2R9tRLg8wfzNH7zAFUMk/ts
-#EXTINF:-1 xui-id="904" tvg-id="RTPACO" tvg-name="|PT| RTP Acores" tvg-logo="http://static.golemflixer.com:8080/logos/rtpacores.white.png" group-title="PORTUGAL - GENERALISTAS",|PT| RTP Acores
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE7B5HcWTPrmyjXnRy-oy1IkcR2OQIYQGK6Wj0liclsqB/ts
-#EXTINF:-1 xui-id="63300" tvg-id="TVIFiccao.pt" tvg-name="|PT| TVI FICCAO FHD" tvg-logo="http://static.golemflixer.com:8080/logos/tvificcao.light.png" group-title="PORTUGAL - GENERALISTAS",|PT| TVI FICCAO FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE7nEW0bn-XRL579IUqy0PgMiD-yPnQEv9FZ49TnPGJPr/ts
-#EXTINF:-1 xui-id="63301" tvg-id="tvificcao.pt" tvg-name="|PT| TVI Ficqo tv" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| TVI Ficqo tv
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE7nEW0bn-XRL579IUqy0PgOZ5rYE7In4oDxJZzr7rHXb/ts
-#EXTINF:-1 xui-id="63302" tvg-id="tvificcao.pt" tvg-name="|PT| TVI Fic" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| TVI Fic
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE7nEW0bn-XRL579IUqy0PgMOOIZ0Cc_ICL94GsgFn569/ts
-#EXTINF:-1 xui-id="898" tvg-id="rtpHD" tvg-name="|PT| RTP 1" tvg-logo="http://static.golemflixer.com:8080/logos/rtp1.white.png" group-title="PORTUGAL - GENERALISTAS",|PT| RTP 1
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE6ihSK67w6ZmpkWDxPmmIo2_YnX_KjidltClUb-ROPJE/ts
-#EXTINF:-1 xui-id="76098" tvg-id="rtp1.pt" tvg-name="|PT| RTP 1 FHD" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| RTP 1 FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFqyUGVEJk4Ax6-V-iLJ7sJQ/ts
-#EXTINF:-1 xui-id="899" tvg-id="rtp2.pt" tvg-name="|PT| RTP 2 FHD" tvg-logo="http://static.golemflixer.com:8080/logos/rtp2.white.png" group-title="PORTUGAL - GENERALISTAS",|PT| RTP 2 FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE6ihSK67w6ZmpkWDxPmmIo30zN3UMhzeq7ifDFUXLdtz/ts
-#EXTINF:-1 xui-id="76097" tvg-id="rtp2.pt" tvg-name="|PT| RTP 2" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| RTP 2
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFrL2zeWwD26gd_zSip04Csp/ts
-#EXTINF:-1 xui-id="903" tvg-id="rtpafrica.pt" tvg-name="|PT| RTP Africa" tvg-logo="http://static.golemflixer.com:8080/logos/rtpafrica.white.png" group-title="PORTUGAL - GENERALISTAS",|PT| RTP Africa
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE7B5HcWTPrmyjXnRy-oy1IkR23VtnApNL2yVpK-OCU7c/ts
-#EXTINF:-1 xui-id="902" tvg-id="RTP Madeira" tvg-name="|PT| RTP Madeira" tvg-logo="http://static.golemflixer.com:8080/logos/rtpmadeira.white.png" group-title="PORTUGAL - GENERALISTAS",|PT| RTP Madeira
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE7B5HcWTPrmyjXnRy-oy1IllsA2no0a-RiGGiC6IM4nJ/ts
-#EXTINF:-1 xui-id="901" tvg-id="RTPM" tvg-name="|PT| RTP Memoria" tvg-logo="http://static.golemflixer.com:8080/logos/rtpmemoria.white.png" group-title="PORTUGAL - GENERALISTAS",|PT| RTP Memoria
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE7B5HcWTPrmyjXnRy-oy1InKBO0ucYKRhpQjFf4qGJSa/ts
-#EXTINF:-1 xui-id="4678" tvg-id="pt.Canção Nova" tvg-name="|PT| Cancao Nova" tvg-logo="http://static.golemflixer.com:8080/logos/cancaonova.white.png" group-title="PORTUGAL - GENERALISTAS",|PT| Cancao Nova
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denrh6l7m7soCmdXBTI1NJpKg/ts
-#EXTINF:-1 xui-id="76099" tvg-id="cancaonova.pt" tvg-name="|PT| Cancao Nova FHD" tvg-logo="" group-title="PORTUGAL - GENERALISTAS",|PT| Cancao Nova FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFqKVlUmiqGj4aCrkBIWbXei/ts
-#EXTINF:-1 xui-id="4664" tvg-id="" tvg-name="|PT| TV FAtima" tvg-logo="http://static.golemflixer.com:8080/logos/tvfatima.default.png" group-title="PORTUGAL - GENERALISTAS",|PT| TV FAtima
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denpUcEwVBuyIE3zBh1lfecWZ/ts
-#EXTINF:-1 xui-id="5939" tvg-id="" tvg-name="•----• Noticias •----•" tvg-logo="" group-title="PORTUGAL - NOTICIAS",•----• Noticias •----•
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE2cnMgMFJCxyYQi0aeN-H_wsS25rAoDrFqfvL2H-WGn6/ts
-#EXTINF:-1 xui-id="76100" tvg-id="sicnoticias.pt" tvg-name="|PT| SIC Noticias FHD" tvg-logo="" group-title="PORTUGAL - NOTICIAS",|PT| SIC Noticias FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFqo-KhgG61eVng6sgHYi97J/ts
-#EXTINF:-1 xui-id="391" tvg-id="sicnoticias.pt" tvg-name="|PT| SIC NOTICIAS" tvg-logo="http://static.golemflixer.com:8080/logos/sicnoticias.light.png" group-title="PORTUGAL - NOTICIAS",|PT| SIC NOTICIAS
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE9Q2zEUBTekjmrtBywloR6XavGwZkPBf4luho8tqmc3H/ts
-#EXTINF:-1 xui-id="900" tvg-id="RTP3.pt" tvg-name="|PT| RTP 3" tvg-logo="http://static.golemflixer.com:8080/logos/rtp3.white.png" group-title="PORTUGAL - NOTICIAS",|PT| RTP 3
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE7B5HcWTPrmyjXnRy-oy1IkSkxqaq0eseYzOeoRPWN_W/ts
-#EXTINF:-1 xui-id="906" tvg-id="pt.TVI 24" tvg-name="|PT| Tvi 24 FHD" tvg-logo="http://static.golemflixer.com:8080/logos/tvi24.light.png" group-title="PORTUGAL - NOTICIAS",|PT| Tvi 24 FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE7B5HcWTPrmyjXnRy-oy1ImsLWtLRQ9Fz_OHlniLw0jI/ts
-#EXTINF:-1 xui-id="76101" tvg-id="" tvg-name="|PT| TVI 24" tvg-logo="" group-title="PORTUGAL - NOTICIAS",|PT| TVI 24
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFqCwvNHlO9Qg5ZKKuoGipQr/ts
-#EXTINF:-1 xui-id="329" tvg-id="PT| CM TV" tvg-name="|PT| CMTV FHD" tvg-logo="http://static.golemflixer.com:8080/logos/cmtv.light.png" group-title="PORTUGAL - NOTICIAS",|PT| CMTV FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE015Yoq0ScSdqHu63b3b1eYexclBJei7S_GiBOqDFNTW/ts
-#EXTINF:-1 xui-id="76102" tvg-id="cmtv.pt" tvg-name="|PT| CMTV" tvg-logo="" group-title="PORTUGAL - NOTICIAS",|PT| CMTV
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFo00Ut6-cCVEb5qBzkbIi3x/ts
-#EXTINF:-1 xui-id="5938" tvg-id="" tvg-name="•----• Desporto •----•" tvg-logo="" group-title="PORTUGAL - DESPORTO",•----• Desporto •----•
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE2cnMgMFJCxyYQi0aeN-H_y2JvVBS4OGLPPopp4Nq4KV/ts
-#EXTINF:-1 xui-id="76143" tvg-id="canal11.pt" tvg-name="|PT| Canal 11 FHD" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| Canal 11 FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFqTNcr8Sgslg117tp57v4BH/ts
-#EXTINF:-1 xui-id="76144" tvg-id="abolatv.pt" tvg-name="|PT| A Bola TV FHD" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| A Bola TV FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFoq5GLdR6sXms3P7BmOdTel/ts
-#EXTINF:-1 xui-id="4962" tvg-id="ABolaTV.pt" tvg-name="|PT| A Bola TV" tvg-logo="http://static.golemflixer.com:8080/logos/abolatv.default.png" group-title="PORTUGAL - MUSICA",|PT| A Bola TV
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCExqzWdpv21rq5xtJLMyvZeFDsokCNqyPpiz8lLJhSe1a/ts
-#EXTINF:-1 xui-id="33399" tvg-id="" tvg-name="|PT| Eleven Sports 1 FHD (back up)" tvg-logo="http://space.golemflixer.com:8080/images/79b8997c026d95b019edaad52b0dd4ca.png" group-title="PORTUGAL - DESPORTO",|PT| Eleven Sports 1 FHD (back up)
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE8ZF2SHn3fJSAUokFEAQQpxrDAApNdb6X0V11IPC9KDw/ts
-#EXTINF:-1 xui-id="21530" tvg-id="elevensports1.pt" tvg-name="|PT| Eleven Sports 1 FHD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports1.default.png" group-title="PORTUGAL - DESPORTO",|PT| Eleven Sports 1 FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE5TlNMe8wBIphe073vuhPQ-d-3F4c9tT7vH7-gbdreHn/ts
-#EXTINF:-1 xui-id="14024" tvg-id="PT| ELEVEN SPORTS 1 FHD" tvg-name="|PT| Eleven Sports 1 HD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports1.default.png" group-title="PORTUGAL - DESPORTO",|PT| Eleven Sports 1 HD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE4nLEiQIb4iWt739uHb-n9wna1HjecfDZLJYlcjV8XcS/ts
-#EXTINF:-1 xui-id="21524" tvg-id="ELEVEN SPORTS 1" tvg-name="|PT| Eleven Sports 1 SD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports1.default.png" group-title="PORTUGAL - DESPORTO",|PT| Eleven Sports 1 SD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE5TlNMe8wBIphe073vuhPQ8XSJ2DKE8Fun991illjdOJ/ts
-#EXTINF:-1 xui-id="33398" tvg-id="elevensports2.pt" tvg-name="|PT| Eleven Sports 2 FHD (back up)" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports2.default.png" group-title="PORTUGAL - DESPORTO",|PT| Eleven Sports 2 FHD (back up)
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE8ZF2SHn3fJSAUokFEAQQpzW_YqYaL7LzybhtI4o4N_p/ts
-#EXTINF:-1 xui-id="21529" tvg-id="elevensports2.pt" tvg-name="|PT| Eleven Sports 2 FHD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports2.default.png" group-title="PORTUGAL - DESPORTO",|PT| Eleven Sports 2 FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE5TlNMe8wBIphe073vuhPQ_fHePbPvaU5Xz-wJjRQ4aU/ts
-#EXTINF:-1 xui-id="14023" tvg-id="PT| ELEVEN SPORTS 2 FHD" tvg-name="|PT| Eleven Sports 2 HD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports2.default.png" group-title="PORTUGAL - DESPORTO",|PT| Eleven Sports 2 HD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE4nLEiQIb4iWt739uHb-n9y1gb1g9mNLigk0bNIXggVZ/ts
-#EXTINF:-1 xui-id="21523" tvg-id="ELEVEN SPORTS 2" tvg-name="|PT| Eleven Sports 2 SD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports2.default.png" group-title="PORTUGAL - DESPORTO",|PT| Eleven Sports 2 SD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE5TlNMe8wBIphe073vuhPQ9GN_hk-xbzVl_cAcDLQ1C1/ts
-#EXTINF:-1 xui-id="21528" tvg-id="elevensports3.pt" tvg-name="|PT| Eleven Sports 3 FHD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports3.default.png" group-title="PORTUGAL - DESPORTO",|PT| Eleven Sports 3 FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE5TlNMe8wBIphe073vuhPQ9RK4lvJoJWJMNNtIs8ecLL/ts
-#EXTINF:-1 xui-id="14022" tvg-id="ELEVEN SPORTS 3" tvg-name="|PT| Eleven Sports 3 HD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports3.default.png" group-title="PORTUGAL - DESPORTO",|PT| Eleven Sports 3 HD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE4nLEiQIb4iWt739uHb-n9ya0vOcs9vtYbYISjid0oN3/ts
-#EXTINF:-1 xui-id="21522" tvg-id="elevensports3.pt" tvg-name="|PT| Eleven Sports 3 SD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports3.default.png" group-title="PORTUGAL - DESPORTO",|PT| Eleven Sports 3 SD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE5TlNMe8wBIphe073vuhPQ9IyP9RNDVsnfkEWliCKPuH/ts
-#EXTINF:-1 xui-id="33397" tvg-id="elevensports3.pt" tvg-name="|PT| Eleven Sports 3 SD (back up)" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| Eleven Sports 3 SD (back up)
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE8ZF2SHn3fJSAUokFEAQQpyUPsOvBIMKWjgOQ1A_Tz24/ts
-#EXTINF:-1 xui-id="21527" tvg-id="elevensports4.pt" tvg-name="|PT| Eleven Sports 4 FHD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports4.default.png" group-title="PORTUGAL - DESPORTO",|PT| Eleven Sports 4 FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE5TlNMe8wBIphe073vuhPQ-Gd3KRLoOSr17cQd8XMcw-/ts
-#EXTINF:-1 xui-id="14021" tvg-id="pt.ELEVEN SPORTS 4" tvg-name="|PT| Eleven Sports 4 HD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports4.default.png" group-title="PORTUGAL - DESPORTO",|PT| Eleven Sports 4 HD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE4nLEiQIb4iWt739uHb-n9xl0Z8ec7XTQ82ftmwPW_zF/ts
-#EXTINF:-1 xui-id="21521" tvg-id="elevensports4.pt" tvg-name="|PT| Eleven Sports 4 SD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports4.default.png" group-title="PORTUGAL - DESPORTO",|PT| Eleven Sports 4 SD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE5TlNMe8wBIphe073vuhPQ8JhwdNymTKBHbMp17vGmiF/ts
-#EXTINF:-1 xui-id="33396" tvg-id="elevensports4.pt" tvg-name="|PT| Eleven Sports 4 SD (back up)" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| Eleven Sports 4 SD (back up)
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE8ZF2SHn3fJSAUokFEAQQpwSIfG0NFOAI2yNYU4kDFis/ts
-#EXTINF:-1 xui-id="21526" tvg-id="elevensports5.pt" tvg-name="|PT| Eleven Sports 5 FHD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports5.default.png" group-title="PORTUGAL - DESPORTO",|PT| Eleven Sports 5 FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE5TlNMe8wBIphe073vuhPQ_9SJucUMX_NZrPDilRCMVM/ts
-#EXTINF:-1 xui-id="14020" tvg-id="pt.ELEVEN SPORTS 5" tvg-name="|PT| Eleven Sports 5 HD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports5.default.png" group-title="PORTUGAL - DESPORTO",|PT| Eleven Sports 5 HD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE4nLEiQIb4iWt739uHb-n9y3gTWG4tek2Gd1tZaP6UQE/ts
-#EXTINF:-1 xui-id="21520" tvg-id="elevensports5.pt" tvg-name="|PT| Eleven Sports 5 SD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports5.default.png" group-title="PORTUGAL - DESPORTO",|PT| Eleven Sports 5 SD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE5TlNMe8wBIphe073vuhPQ8c0UrDuVqeyBOvRrh6v_US/ts
-#EXTINF:-1 xui-id="21525" tvg-id="elevensports6.pt" tvg-name="|PT| Eleven Sports 6 FHD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports6.default.png" group-title="PORTUGAL - DESPORTO",|PT| Eleven Sports 6 FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE5TlNMe8wBIphe073vuhPQ_qGtDe0BicJG8_FLWaOWzY/ts
-#EXTINF:-1 xui-id="14019" tvg-id="pt.ELEVEN SPORTS 6" tvg-name="|PT| Eleven Sports 6 HD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports6.default.png" group-title="PORTUGAL - DESPORTO",|PT| Eleven Sports 6 HD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE4nLEiQIb4iWt739uHb-n9xmM3hvNxFjF9E_eZMfTYCx/ts
-#EXTINF:-1 xui-id="21519" tvg-id="elevensports6.pt" tvg-name="|PT| Eleven Sports 6 SD" tvg-logo="http://static.golemflixer.com:8080/logos/elevensports6.default.png" group-title="PORTUGAL - DESPORTO",|PT| Eleven Sports 6 SD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE5TlNMe8wBIphe073vuhPQ9iWtqC6gGU-W_PDtR1VLtU/ts
-#EXTINF:-1 xui-id="1729" tvg-id="pt.Eurosport 1" tvg-name="|PT| EUROSPORT 1" tvg-logo="http://static.golemflixer.com:8080/logos/eurosport1.white.png" group-title="PORTUGAL - DESPORTO",|PT| EUROSPORT 1
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE6WAjWCtm5C7jS7c8nAEmqqkVceDZWAffSmTtFMn70xm/ts
-#EXTINF:-1 xui-id="4698" tvg-id="pt.Eurosport 1" tvg-name="|PT| Eurosport 1 FHD" tvg-logo="http://static.golemflixer.com:8080/logos/eurosport1.white.png" group-title="PORTUGAL - DESPORTO",|PT| Eurosport 1 FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denpkQWtROfvhDzPSS4Od8c87/ts
-#EXTINF:-1 xui-id="1730" tvg-id="eurosport2.pt" tvg-name="|PT| EUROSPORT 2" tvg-logo="http://static.golemflixer.com:8080/logos/eurosport2.light.png" group-title="PORTUGAL - DESPORTO",|PT| EUROSPORT 2
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE6WAjWCtm5C7jS7c8nAEmqpaQ7KyhrJeaL8cyZ66A1fR/ts
-#EXTINF:-1 xui-id="76103" tvg-id="eurosport2.pt" tvg-name="|PT| Eurosport 2 FHD" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| Eurosport 2 FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFp4N_Pdj0w0y-cOIeIMKhsd/ts
-#EXTINF:-1 xui-id="397" tvg-id="eurosport1.pt" tvg-name="|PT| Eurosport" tvg-logo="http://static.golemflixer.com:8080/logos/eurosport.light.png" group-title="PORTUGAL - DESPORTO",|PT| Eurosport
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE9Q2zEUBTekjmrtBywloR6WxBl5TlgWip4nLdDMSPMX_/ts
-#EXTINF:-1 xui-id="76155" tvg-id="" tvg-name="|PT| Fight Network FHD" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| Fight Network FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFquuHTSnYKW5JuFAosuBBwk/ts
-#EXTINF:-1 xui-id="4690" tvg-id="pt.Kombat Sport" tvg-name="|PT| Kombat Sport" tvg-logo="http://static.golemflixer.com:8080/logos/kombatsport.default.png" group-title="PORTUGAL - DESPORTO",|PT| Kombat Sport
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denokfMeIwI4nSfxpu_z6RFEH/ts
-#EXTINF:-1 xui-id="4686" tvg-id="Motorvision HD" tvg-name="|PT| Motorsport.tv" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| Motorsport.tv
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denounl9JeKAWQsAob2-BL6so/ts
-#EXTINF:-1 xui-id="76104" tvg-id="" tvg-name="|PT| Motorvision FHD" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| Motorvision FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFqfxwCbCLWjamVXnLqA78mH/ts
-#EXTINF:-1 xui-id="4685" tvg-id="pt.Motorvision HD" tvg-name="|PT| Motorvision" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| Motorvision
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denrudPt1urT1J2yCigtQCX1u/ts
-#EXTINF:-1 xui-id="76105" tvg-id="sporttvnba.pt" tvg-name="|PT| NBA FHD" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| NBA FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFpKF7N-qGuyMJUW1Qrhx_hV/ts
-#EXTINF:-1 xui-id="4697" tvg-id="Sport TV NBA" tvg-name="|PT| NBA TV" tvg-logo="http://static.golemflixer.com:8080/logos/nbatv.default.png" group-title="PORTUGAL - DESPORTO",|PT| NBA TV
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denp6Mn4rKykeYuwsguLsrYHa/ts
-#EXTINF:-1 xui-id="4956" tvg-id="pfc.pt" tvg-name="|PT| PFC HD" tvg-logo="http://static.golemflixer.com:8080/logos/pfc.default.png" group-title="PORTUGAL - DESPORTO",|PT| PFC HD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCExqzWdpv21rq5xtJLMyvZeEgYWs4y2DaQ1X0qVzHa5hP/ts
-#EXTINF:-1 xui-id="4954" tvg-id="Real Madrid TV" tvg-name="|PT| Real Madrid TV" tvg-logo="http://static.golemflixer.com:8080/logos/realmadridtv.default.png" group-title="PORTUGAL - DESPORTO",|PT| Real Madrid TV
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCExqzWdpv21rq5xtJLMyvZeF7lWXDfBtL6KeGKDH07nqy/ts
-#EXTINF:-1 xui-id="4706" tvg-id="sporttv1.pt" tvg-name="|PT| Sport TV 1" tvg-logo="http://space.golemflixer.com:8080/images/89010ba7469dee2f710486ba243c6df2.png" group-title="PORTUGAL - DESPORTO",|PT| Sport TV 1
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE71PiWOFMVUuOOgmYG4jbkHYP9M_pi9wrTUM5PW_3Vnf/ts
-#EXTINF:-1 xui-id="4705" tvg-id="SPTV_1" tvg-name="|PT| Sport TV 1 FHD" tvg-logo="http://space.golemflixer.com:8080/images/89010ba7469dee2f710486ba243c6df2.png" group-title="PORTUGAL - DESPORTO",|PT| Sport TV 1 FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE71PiWOFMVUuOOgmYG4jbkH88yA6Fq0iv9JlIbISuvPs/ts
-#EXTINF:-1 xui-id="29979" tvg-id="sporttv1.pt" tvg-name="|PT| SPORT TV 1 HD" tvg-logo="http://space.golemflixer.com:8080/images/89010ba7469dee2f710486ba243c6df2.png" group-title="PORTUGAL - DESPORTO",|PT| SPORT TV 1 HD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCEzHeGlXZGkXbW8ypNqlt7Lhtlq_r_Zsdwqu_P7afSWJq/ts
-#EXTINF:-1 xui-id="4703" tvg-id="SPTV_2" tvg-name="|PT| Sport TV 2 FHD" tvg-logo="http://static.golemflixer.com:8080/logos/sporttv2.light.png" group-title="PORTUGAL - DESPORTO",|PT| Sport TV 2 FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE71PiWOFMVUuOOgmYG4jbkGXsS6L_xfY7n2iEemYceOk/ts
-#EXTINF:-1 xui-id="4704" tvg-id="SPTV_2" tvg-name="|PT| Sport TV 2" tvg-logo="http://space.golemflixer.com:8080/images/418c925c24cd80ada209ea9f7b8dba42.png" group-title="PORTUGAL - DESPORTO",|PT| Sport TV 2
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE71PiWOFMVUuOOgmYG4jbkG2OE0EQJ8vDQ4MlcNs8iiX/ts
-#EXTINF:-1 xui-id="4701" tvg-id="pt.SPORT TV3 HD" tvg-name="|PT| Sport TV 3 FHD" tvg-logo="http://space.golemflixer.com:8080/images/3187c4c9073a039502d5ba94dc495fcb.png" group-title="PORTUGAL - DESPORTO",|PT| Sport TV 3 FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE71PiWOFMVUuOOgmYG4jbkGklr4S4Hc2Vc9-P7tedKHf/ts
-#EXTINF:-1 xui-id="4702" tvg-id="sporttv3.pt" tvg-name="|PT| Sport TV 3" tvg-logo="http://static.golemflixer.com:8080/logos/sporttv3.light.png" group-title="PORTUGAL - DESPORTO",|PT| Sport TV 3
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE71PiWOFMVUuOOgmYG4jbkG1N14gP_Jhl-3lFoUWw_r6/ts
-#EXTINF:-1 xui-id="76153" tvg-id="sporttv4.pt" tvg-name="|PT| Sport TV 4 FHD" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| Sport TV 4 FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFqbLmQiFG_ILO5BSdarb-Qe/ts
-#EXTINF:-1 xui-id="4700" tvg-id="pt.SPORT TV4 HD" tvg-name="|PT| Sport TV 4" tvg-logo="http://static.golemflixer.com:8080/logos/sporttv4.light.png" group-title="PORTUGAL - DESPORTO",|PT| Sport TV 4
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE71PiWOFMVUuOOgmYG4jbkHiN_on21pyvL7CwoZg_An8/ts
-#EXTINF:-1 xui-id="76154" tvg-id="sporttv5.pt" tvg-name="|PT| Sport TV 5 FHD" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| Sport TV 5 FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFqTpxq4hlEHeoa5LDheKNRC/ts
-#EXTINF:-1 xui-id="4699" tvg-id="pt.SPORT TV5 HD" tvg-name="|PT| Sport TV 5" tvg-logo="http://static.golemflixer.com:8080/logos/sporttv5.light.png" group-title="PORTUGAL - DESPORTO",|PT| Sport TV 5
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denoqv6Fl4G8O7y3FzCVqktiB/ts
-#EXTINF:-1 xui-id="3601" tvg-id="SportTVplus.pt" tvg-name="|PT| SPORT TV+  HD" tvg-logo="http://static.golemflixer.com:8080/logos/sporttvplus.light.png" group-title="PORTUGAL - DESPORTO",|PT| SPORT TV+  HD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE92Q-rbSGNeH5BoomWs5aEUQI45sH7o_W4qd9ssCJcwD/ts
-#EXTINF:-1 xui-id="4957" tvg-id="sportingtv.pt" tvg-name="|PT| Sporting TV HD" tvg-logo="http://static.golemflixer.com:8080/logos/sportingtv.light.png" group-title="PORTUGAL - DESPORTO",|PT| Sporting TV HD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCExqzWdpv21rq5xtJLMyvZeHbZ-2HbtmijyjVN5smkRG4/ts
-#EXTINF:-1 xui-id="326" tvg-id="benficatv1.pt" tvg-name="|PT| BENFICA TV 1 FHD" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| BENFICA TV 1 FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE015Yoq0ScSdqHu63b3b1eZoBKRbZEqd2m7XVHOHzaxC/ts
-#EXTINF:-1 xui-id="76106" tvg-id="benficatv1.pt" tvg-name="|PT| BTV 1" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| BTV 1
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFqSFd-dHbGRvYI3VgTZgwsq/ts
-#EXTINF:-1 xui-id="4676" tvg-id="toros.pt" tvg-name="|PT| Toros TV" tvg-logo="http://static.golemflixer.com:8080/logos/torostv.light.png" group-title="PORTUGAL - DESPORTO",|PT| Toros TV
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denqKTHf88POrVhO6y-RTjWd5/ts
-#EXTINF:-1 xui-id="76107" tvg-id="toros.pt" tvg-name="|PT| Toros TV FHD" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| Toros TV FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFqc9Qa0ecbNXmf9XMaD1Rpu/ts
-#EXTINF:-1 xui-id="76108" tvg-id="fueltv.pt" tvg-name="|PT| Fuel TV FHD" tvg-logo="" group-title="PORTUGAL - DESPORTO",|PT| Fuel TV FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFqGUe8v0LHgqmM2M_lp9jDY/ts
-#EXTINF:-1 xui-id="63311" tvg-id="fueltv.pt" tvg-name="|PT| Fuel TV" tvg-logo="http://static.golemflixer.com:8080/logos/fueltv.default.png" group-title="PORTUGAL - DESPORTO",|PT| Fuel TV
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE7nEW0bn-XRL579IUqy0PgOVvwKPWWlaSc5nirLfuea9/ts
-#EXTINF:-1 xui-id="5937" tvg-id="" tvg-name="•----• Series & Movies •----•" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",•----• Series & Movies •----•
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE2cnMgMFJCxyYQi0aeN-H_wkhtT6NMuo-EyGLRCziPjj/ts
-#EXTINF:-1 xui-id="76146" tvg-id="amchd.pt" tvg-name="|PT| AMC FHD" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| AMC FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFoqgdmV19wtuwidoTixUyVb/ts
-#EXTINF:-1 xui-id="76147" tvg-id="amchd.pt" tvg-name="|PT| AMC" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| AMC
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFo21dfnaxTDqyw_ydCpXfVh/ts
-#EXTINF:-1 xui-id="396" tvg-id="AXN Black HD" tvg-name="|PT| AXN Movies FHD" tvg-logo="http://static.golemflixer.com:8080/logos/axnblack.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| AXN Movies FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE9Q2zEUBTekjmrtBywloR6X9QHpYk-zPjyHhGlOErZ1c/ts
-#EXTINF:-1 xui-id="76109" tvg-id="axnblack.pt" tvg-name="|PT| AXN Movies" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| AXN Movies
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFoA5M9UrH6Qj-iq1MCjcnvV/ts
-#EXTINF:-1 xui-id="319" tvg-id="pt.AXN" tvg-name="|PT| AXN FHD" tvg-logo="http://static.golemflixer.com:8080/logos/axn.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| AXN FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE6-HWGtjVc3g97M9UOYXaUzUbk519gjjQDKfNPM5-_-u/ts
-#EXTINF:-1 xui-id="76110" tvg-id="axn.pt" tvg-name="|PT| AXN" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| AXN
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFriu78cAmDYfz3ulBDx23-1/ts
-#EXTINF:-1 xui-id="320" tvg-id="pt.AXN White" tvg-name="|PT| AXN WHITE FHD" tvg-logo="http://static.golemflixer.com:8080/logos/axnwhite.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| AXN WHITE FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE015Yoq0ScSdqHu63b3b1eZ5kqEOaC07tLwVOXuTXE9y/ts
-#EXTINF:-1 xui-id="76111" tvg-id="axnwhite.pt" tvg-name="|PT| AXN White" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| AXN White
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFrGxeDP3PrybMg-av4rIEkk/ts
-#EXTINF:-1 xui-id="76113" tvg-id="" tvg-name="|PT| FOX Comedy FHD" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| FOX Comedy FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFo8VxF8DkCxwgkd9fH9NMk-/ts
-#EXTINF:-1 xui-id="1727" tvg-id="foxcomedy.pt" tvg-name="|PT| FOX COMEDY" tvg-logo="http://static.golemflixer.com:8080/logos/foxcomedy.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| FOX COMEDY
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE6WAjWCtm5C7jS7c8nAEmqoFeUK-57m0edSUXZ7ZbspZ/ts
-#EXTINF:-1 xui-id="76114" tvg-id="foxcrime.pt" tvg-name="|PT| FOX Crime FHD" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| FOX Crime FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFqPP4RpXnuziIiOrs2lYfw0/ts
-#EXTINF:-1 xui-id="317" tvg-id="foxcrime.pt" tvg-name="|PT| FOX CRIME" tvg-logo="http://static.golemflixer.com:8080/logos/foxcrime.default.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| FOX CRIME
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE6-HWGtjVc3g97M9UOYXaUz22gfPqC_9U0M8pPJV4yng/ts
-#EXTINF:-1 xui-id="909" tvg-id="foxlife.pt" tvg-name="|PT| Fox Life FHD" tvg-logo="http://static.golemflixer.com:8080/logos/foxlife.default.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| Fox Life FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE7B5HcWTPrmyjXnRy-oy1IljYxWSvIMQGIbUAFGrIV-R/ts
-#EXTINF:-1 xui-id="76115" tvg-id="" tvg-name="|PT| FOX Life" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| FOX Life
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFp4wM6GUT-kj_TEQ_NFcNcj/ts
-#EXTINF:-1 xui-id="318" tvg-id="PT| FOX" tvg-name="|PT| FOX FHD" tvg-logo="http://static.golemflixer.com:8080/logos/fox.default.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| FOX FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE6-HWGtjVc3g97M9UOYXaUzHtcVwzuzFWHAtUnvL5jQ7/ts
-#EXTINF:-1 xui-id="76116" tvg-id="fox.pt" tvg-name="|PT| FOX" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| FOX
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFov8cQzHzFoPyGb3j1KWb5X/ts
-#EXTINF:-1 xui-id="76112" tvg-id="foxmovies.pt" tvg-name="|PT| FOX Movies FHD" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| FOX Movies FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFo8ln-WiO4DvwvGYiLGrK2p/ts
-#EXTINF:-1 xui-id="1726" tvg-id="FoxMovies.pt" tvg-name="|PT| FOX MOVIES" tvg-logo="http://static.golemflixer.com:8080/logos/foxmovies.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| FOX MOVIES
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE6WAjWCtm5C7jS7c8nAEmqqIWLFHClLogTbgxetiwB1C/ts
-#EXTINF:-1 xui-id="76118" tvg-id="syfy.pt" tvg-name="|PT| syfy FHD" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| syfy FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFrIbgwkO6XicIBv2vw-7XkA/ts
-#EXTINF:-1 xui-id="389" tvg-id="syfy.pt" tvg-name="|PT| SYFY" tvg-logo="http://static.golemflixer.com:8080/logos/syfy.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| SYFY
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_wx7rZ36XZ3NJklGLvnFU-Gls46RVI6i52JXYe7wV2o/ts
-#EXTINF:-1 xui-id="4665" tvg-id="pt.TVSéries" tvg-name="|PT| TV Series FHD" tvg-logo="http://static.golemflixer.com:8080/logos/tvseries.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| TV Series FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denqww2Dxh63iUgepqZJWLbR7/ts
-#EXTINF:-1 xui-id="4673" tvg-id="pt.TVCine 1" tvg-name="|PT| TVCine Edition FHD" tvg-logo="http://static.golemflixer.com:8080/logos/tvcine1.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| TVCine Edition FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denqCiX_IUwtEMeamJ_dg6TQF/ts
-#EXTINF:-1 xui-id="4672" tvg-id="tvc2.pt" tvg-name="|PT| TVCine Emotion" tvg-logo="http://static.golemflixer.com:8080/logos/tvcine2.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| TVCine Emotion
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denrA7kCnYuJl-O8FKsYoxaQj/ts
-#EXTINF:-1 xui-id="4671" tvg-id="tvc3.pt" tvg-name="|PT| TVCine Emotion FHD" tvg-logo="http://static.golemflixer.com:8080/logos/tvcine2.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| TVCine Emotion FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denrDg08N9Ugc3z1R271CPbkm/ts
-#EXTINF:-1 xui-id="4670" tvg-id="tvc1.pt" tvg-name="|PT| TVCine Top FHD" tvg-logo="http://static.golemflixer.com:8080/logos/tvcine3.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| TVCine Top FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denoEDIeq-UWmZ-76UsGx95t2/ts
-#EXTINF:-1 xui-id="4669" tvg-id="tvc4.pt" tvg-name="|PT| TVCine Action FHD" tvg-logo="http://static.golemflixer.com:8080/logos/tvcine4.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| TVCine Action FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denp4QyRNwpuu6IxJvPha9CYS/ts
-#EXTINF:-1 xui-id="4709" tvg-id="tvcineaction.pt" tvg-name="|PT| TVCine Action SD" tvg-logo="http://static.golemflixer.com:8080/logos/tvcine4.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| TVCine Action SD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE71PiWOFMVUuOOgmYG4jbkGtiCz4Hh7XKjyKeRS57NDO/ts
-#EXTINF:-1 xui-id="76119" tvg-id="eentertainment.pt" tvg-name="|PT| E! ENTERTAINMENT FHD" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| E! ENTERTAINMENT FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFq3Eho0fjF7szs4TPXwHHb1/ts
-#EXTINF:-1 xui-id="1734" tvg-id="eentertainment.pt" tvg-name="|PT| E! ENTERTAINMENT" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| E! ENTERTAINMENT
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE6WAjWCtm5C7jS7c8nAEmqqzc8dB57bOCMhA6_lxPqci/ts
-#EXTINF:-1 xui-id="4680" tvg-id="NOS Studios  HD" tvg-name="|PT| Nos Studio FHD" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| Nos Studio FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denqySdWfS_GU5udKDVlGIwx5/ts
-#EXTINF:-1 xui-id="76120" tvg-id="nosstudioshd.pt" tvg-name="|PT| NOS Studios" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| NOS Studios
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFru2keGntNeS59MYK8FQOkq/ts
-#EXTINF:-1 xui-id="4693" tvg-id="canalhollywood.pt" tvg-name="|PT| Hollywood FHD" tvg-logo="http://static.golemflixer.com:8080/logos/hollywood.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| Hollywood FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denrbeZRCI_8GdoseEZIjdXsH/ts
-#EXTINF:-1 xui-id="76117" tvg-id="canalhollywood.pt" tvg-name="|PT| Hollywood" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| Hollywood
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFp19OjAC5HqSyDjGmdEgjiI/ts
-#EXTINF:-1 xui-id="4677" tvg-id="pt.TLC" tvg-name="|PT| TLC" tvg-logo="http://static.golemflixer.com:8080/logos/tlc.white.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| TLC
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denpP7H7Gjml2dzPcSxJmg4Pa/ts
-#EXTINF:-1 xui-id="76141" tvg-id="cinemundo.pt" tvg-name="|PT| Cinemundo FHD" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",|PT| Cinemundo FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFqinIXGBKoU1wPteloxZDcW/ts
-#EXTINF:-1 xui-id="328" tvg-id="Cinemundo" tvg-name="|PT| CINE MUNDO" tvg-logo="http://static.golemflixer.com:8080/logos/cinemundo.light.png" group-title="PORTUGAL - SERIE & MOVIE",|PT| CINE MUNDO
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE015Yoq0ScSdqHu63b3b1eaT42lSJeZZSYli9FWzWHP1/ts
-#EXTINF:-1 xui-id="5936" tvg-id="" tvg-name="•----• Infantil •----•" tvg-logo="" group-title="PORTUGAL - INFANTIL",•----• Infantil •----•
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE2cnMgMFJCxyYQi0aeN-H_w-OsKhm6r2__Xy6VeRa5om/ts
-#EXTINF:-1 xui-id="63303" tvg-id="BabyTV.pt" tvg-name="|PT| BABY TV" tvg-logo="http://static.golemflixer.com:8080/logos/babytv.default.png" group-title="PORTUGAL - INFANTIL",|PT| BABY TV
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE7nEW0bn-XRL579IUqy0PgPVKg53OyJgeotjX97P4gUt/ts
-#EXTINF:-1 xui-id="63308" tvg-id="biggs.pt" tvg-name="|PT| BIGGS" tvg-logo="" group-title="PORTUGAL - INFANTIL",|PT| BIGGS
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE7nEW0bn-XRL579IUqy0PgP84OcIb4QO_XKR-2BVAPS6/ts
-#EXTINF:-1 xui-id="63309" tvg-id="canalpanda.pt" tvg-name="|PT| PANDA" tvg-logo="" group-title="PORTUGAL - INFANTIL",|PT| PANDA
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE7nEW0bn-XRL579IUqy0PgOUTh_zS9OeX-DvUnuD4wUR/ts
-#EXTINF:-1 xui-id="63310" tvg-id="NickJr.pt" tvg-name="|PT| Nick Junior" tvg-logo="" group-title="PORTUGAL - INFANTIL",|PT| Nick Junior
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE7nEW0bn-XRL579IUqy0PgNcDv4uLqqIly1xiCQdj6_H/ts
-#EXTINF:-1 xui-id="915" tvg-id="pt.Canal Panda" tvg-name="|PT| Canal Panda" tvg-logo="http://static.golemflixer.com:8080/logos/canalpanda.light.png" group-title="PORTUGAL - INFANTIL",|PT| Canal Panda
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE5xl46W0pOLvW6sG-uC3n_R_mfCMUKxAFFelPs_mtK8e/ts
-#EXTINF:-1 xui-id="912" tvg-id="cartoon.pt" tvg-name="|PT| Cartoon Network" tvg-logo="" group-title="PORTUGAL - INFANTIL",|PT| Cartoon Network
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE5xl46W0pOLvW6sG-uC3n_SC1B7foHqaLEp4bnEchkIN/ts
-#EXTINF:-1 xui-id="913" tvg-id="disneychannel.pt" tvg-name="|PT| Disney Channel" tvg-logo="http://static.golemflixer.com:8080/logos/disneychannel.white.png" group-title="PORTUGAL - INFANTIL",|PT| Disney Channel
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE5xl46W0pOLvW6sG-uC3n_TkLsKBvJ0nfV9w5cNor6g9/ts
-#EXTINF:-1 xui-id="914" tvg-id="DisneyJunior.pt" tvg-name="|PT| Disney Junior" tvg-logo="http://static.golemflixer.com:8080/logos/disneyjunior.light.png" group-title="PORTUGAL - INFANTIL",|PT| Disney Junior
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE5xl46W0pOLvW6sG-uC3n_S6f1NpoaxKgrud1Lo83QQZ/ts
-#EXTINF:-1 xui-id="395" tvg-id="nickelodeon.pt" tvg-name="|PT| NICKELODEON" tvg-logo="http://static.golemflixer.com:8080/logos/nickelodeon.white.png" group-title="PORTUGAL - INFANTIL",|PT| NICKELODEON
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE9Q2zEUBTekjmrtBywloR6WAwaC2v6hE5VqS_k6JO-uP/ts
-#EXTINF:-1 xui-id="4691" tvg-id="pt.JimJam" tvg-name="|PT| Jim Jam" tvg-logo="http://static.golemflixer.com:8080/logos/jimjam.default.png" group-title="PORTUGAL - INFANTIL",|PT| Jim Jam
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denoiqR2PxPxa6X-5CEWFxk7G/ts
-#EXTINF:-1 xui-id="5935" tvg-id="" tvg-name="•----• Cultura •----•" tvg-logo="" group-title="PORTUGAL - CULTURA",•----• Cultura •----•
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE2cnMgMFJCxyYQi0aeN-H_ztHNjxZ-LE6ygluDHejlgD/ts
-#EXTINF:-1 xui-id="4660" tvg-id="24Kitchen.pt" tvg-name="|PT| 24 Kitchen FHD" tvg-logo="http://static.golemflixer.com:8080/logos/24kitchen.default.png" group-title="PORTUGAL - CULTURA",|PT| 24 Kitchen FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denr5lHJL76p7U48dMzxP-CKL/ts
-#EXTINF:-1 xui-id="76121" tvg-id="cacaepesca.pt" tvg-name="|PT| Caça e Pesca FHD" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| Caça e Pesca FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFpE9xYbHhBYvcD9HAf0Sl3w/ts
-#EXTINF:-1 xui-id="5044" tvg-id="cazaepesca.pt" tvg-name="|PT| Caça e Pesca" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| Caça e Pesca
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE8roSFwhwx9LNhtDjmjCklR4jqvvMI3RxE5-QaOSAuL9/ts
-#EXTINF:-1 xui-id="5043" tvg-id="Cubavision.pt" tvg-name="|PT| Caçavision" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| Caçavision
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE8roSFwhwx9LNhtDjmjCklRv7zlFBFgb2JGoRH4wlABC/ts
-#EXTINF:-1 xui-id="76158" tvg-id="" tvg-name="|PT| Casa e Cozinha FHD" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| Casa e Cozinha FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFprCv94sPCC44oDgYxllCqn/ts
-#EXTINF:-1 xui-id="76122" tvg-id="discoverychannelhd.pt" tvg-name="|PT| Discovery FHD" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| Discovery FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFpZ81uJd0DdWh2M94kmP3IR/ts
-#EXTINF:-1 xui-id="1733" tvg-id="discoverychannel.pt" tvg-name="|PT| DISCOVERY CHANNEL" tvg-logo="http://static.golemflixer.com:8080/logos/discoverychannel.light.png" group-title="PORTUGAL - CULTURA",|PT| DISCOVERY CHANNEL
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE6WAjWCtm5C7jS7c8nAEmqr1fdyFHC_rtDNR-YUhMRKK/ts
-#EXTINF:-1 xui-id="76157" tvg-id="dogtv.pt" tvg-name="|PT| DogTV" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| DogTV
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFpHcO0TbDSpehOWRg_Q1m_9/ts
-#EXTINF:-1 xui-id="76123" tvg-id="historia.pt" tvg-name="|PT| Historia FHD" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| Historia FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFriyql8mPOFQzFcQrUjrtG8/ts
-#EXTINF:-1 xui-id="908" tvg-id="HistoryChannel.pt" tvg-name="|PT| Historia" tvg-logo="http://static.golemflixer.com:8080/logos/historia.light.png" group-title="PORTUGAL - CULTURA",|PT| Historia
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE7B5HcWTPrmyjXnRy-oy1Imx6v5eIyVnawBmBXOOH_xn/ts
-#EXTINF:-1 xui-id="1732" tvg-id="nationalgeographic.pt" tvg-name="|PT| NAT GEO HD" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| NAT GEO HD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE6WAjWCtm5C7jS7c8nAEmqqtmnPbKezKC_9Cl53gy8YM/ts
-#EXTINF:-1 xui-id="76124" tvg-id="nationalgeographic.pt" tvg-name="|PT| National Geographic" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| National Geographic
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFqP_bHZHmEFLlPPeap5lhCf/ts
-#EXTINF:-1 xui-id="76142" tvg-id="nationalgeographicwild.pt" tvg-name="|PT| National Geographic WILD FHD" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| National Geographic WILD FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFqW-XTcvp7NoB32Q3vGgnNH/ts
-#EXTINF:-1 xui-id="910" tvg-id="nationalgeographicwild.pt" tvg-name="|PT| Nat Geo Wild" tvg-logo="http://static.golemflixer.com:8080/logos/natgeowild.light.png" group-title="PORTUGAL - CULTURA",|PT| Nat Geo Wild
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE5xl46W0pOLvW6sG-uC3n_TrzlgYKDC_IgXTFT5uYIhV/ts
-#EXTINF:-1 xui-id="76125" tvg-id="odisseia.pt" tvg-name="|PT| Odisseia FHD" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| Odisseia FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFrVhYS51FGX-larJqJIv-b0/ts
-#EXTINF:-1 xui-id="394" tvg-id="odisseia.pt" tvg-name="|PT| ODISSEIA" tvg-logo="http://static.golemflixer.com:8080/logos/odisseia.white.png" group-title="PORTUGAL - CULTURA",|PT| ODISSEIA
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE9Q2zEUBTekjmrtBywloR6XhLCW8eZKXfwI3otjNEk-P/ts
-#EXTINF:-1 xui-id="76156" tvg-id="" tvg-name="|PT| S+ FHD" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| S+ FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFpwpetaz_EVkMwlw1DOM9ld/ts
-#EXTINF:-1 xui-id="4674" tvg-id="travelchannel.pt" tvg-name="|PT| Travel Channel FHD" tvg-logo="http://static.golemflixer.com:8080/logos/travelchannel.default.png" group-title="PORTUGAL - CULTURA",|PT| Travel Channel FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denrJLgQO9DIHw17jDtyxXtzk/ts
-#EXTINF:-1 xui-id="76126" tvg-id="" tvg-name="|PT| Travel Channel" tvg-logo="" group-title="PORTUGAL - CULTURA",|PT| Travel Channel
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFpXq6HwIkQcS3k1_yP3faFr/ts
-#EXTINF:-1 xui-id="5934" tvg-id="" tvg-name="•----• Musica •----•" tvg-logo="" group-title="PORTUGAL - MUSICA",•----• Musica •----•
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE2cnMgMFJCxyYQi0aeN-H_yyv0YKKdMf9SYzO9wI30yy/ts
-#EXTINF:-1 xui-id="4958" tvg-id="Afro Music Channel" tvg-name="|PT| Afro Music" tvg-logo="http://static.golemflixer.com:8080/logos/afromusic.default.png" group-title="PORTUGAL - MUSICA",|PT| Afro Music
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCExqzWdpv21rq5xtJLMyvZeGCxMoh3J-p1aQSt1dVyfCi/ts
-#EXTINF:-1 xui-id="76130" tvg-id="" tvg-name="|PT| MCM Top" tvg-logo="" group-title="PORTUGAL - MUSICA",|PT| MCM Top
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFpS-EOvatI1X0K6noM6CkpQ/ts
-#EXTINF:-1 xui-id="4688" tvg-id="pt.MCM Pop" tvg-name="|PT| MCM Pop" tvg-logo="http://static.golemflixer.com:8080/logos/mcmpop.default.png" group-title="PORTUGAL - MUSICA",|PT| MCM Pop
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denp5o6ROzGtk_uos65nZNHGC/ts
-#EXTINF:-1 xui-id="4687" tvg-id="pt.Mezzo" tvg-name="|PT| Mezzo" tvg-logo="http://static.golemflixer.com:8080/logos/mezzo.default.png" group-title="PORTUGAL - MUSICA",|PT| Mezzo
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denoSxV5FFPx_hQCbwmNHU-rg/ts
-#EXTINF:-1 xui-id="4675" tvg-id="pt.Trace Urban HD" tvg-name="|PT| Trace Urban" tvg-logo="http://static.golemflixer.com:8080/logos/traceurban.default.png" group-title="PORTUGAL - MUSICA",|PT| Trace Urban
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denr65qiwXBkGNzpayKAEtwjQ/ts
-#EXTINF:-1 xui-id="4662" tvg-id="pt.VH1" tvg-name="|PT| VH1" tvg-logo="http://static.golemflixer.com:8080/logos/vh1.default.png" group-title="PORTUGAL - MUSICA",|PT| VH1
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denp9G1-8CGPkg-o2PBcUkd3g/ts
-#EXTINF:-1 xui-id="4661" tvg-id="" tvg-name="|PT| VH1 Classic" tvg-logo="http://static.golemflixer.com:8080/logos/vh1classic.light.png" group-title="PORTUGAL - MUSICA",|PT| VH1 Classic
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denpyD6AmrCpGa92ayhpWkA4C/ts
-#EXTINF:-1 xui-id="76128" tvg-id="" tvg-name="|PT| MTV Portugal FHD" tvg-logo="" group-title="PORTUGAL - MUSICA",|PT| MTV Portugal FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFo14cQuqh7HHHiOVCerNtwQ/ts
-#EXTINF:-1 xui-id="911" tvg-id="MTV Portugal" tvg-name="|PT| MTV Portugal" tvg-logo="" group-title="PORTUGAL - MUSICA",|PT| MTV Portugal
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE5xl46W0pOLvW6sG-uC3n_Q_iGVQc12Ii6SbPJNv0DBM/ts
-#EXTINF:-1 xui-id="76127" tvg-id="" tvg-name="|PT| MTV Live FHD" tvg-logo="" group-title="PORTUGAL - MUSICA",|PT| MTV Live FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFpJYtkCq5Ju4o8JHq-CDcr9/ts
-#EXTINF:-1 xui-id="76129" tvg-id="" tvg-name="|PT| Trace Toca" tvg-logo="" group-title="PORTUGAL - MUSICA",|PT| Trace Toca
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFp6jTUoxIy7WUMn0NmsXpDl/ts
-#EXTINF:-1 xui-id="5933" tvg-id="" tvg-name="•----• Internacionais •----•" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",•----• Internacionais •----•
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE2cnMgMFJCxyYQi0aeN-H_w3mZ2LViqY-Fue27i6krdB/ts
-#EXTINF:-1 xui-id="4683" tvg-id="pt.Bloomberg" tvg-name="|PT| Bloomberg" tvg-logo="http://static.golemflixer.com:8080/logos/bloomberg.light.png" group-title="PORTUGAL - INTERNACIONAIS",|PT| Bloomberg
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denr485GpFGOHOEE8ZjYCAwtT/ts
-#EXTINF:-1 xui-id="907" tvg-id="pt.Euronews" tvg-name="|PT| Euronews" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| Euronews
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE7B5HcWTPrmyjXnRy-oy1IkzckSkiY-ZdDRC8gTE3hge/ts
-#EXTINF:-1 xui-id="4961" tvg-id="pt.Globo" tvg-name="|PT| TV Globo FHD" tvg-logo="http://static.golemflixer.com:8080/logos/tvglobo.default.png" group-title="PORTUGAL - INTERNACIONAIS",|PT| TV Globo FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCExqzWdpv21rq5xtJLMyvZeFrz4hjhk7Cj-K9pXYn3q9L/ts
-#EXTINF:-1 xui-id="4960" tvg-id="pt.Globo" tvg-name="|PT| TV Globo" tvg-logo="http://static.golemflixer.com:8080/logos/tvglobo.default.png" group-title="PORTUGAL - INTERNACIONAIS",|PT| TV Globo
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCExqzWdpv21rq5xtJLMyvZeEDqgY4pavU7lF8lOzrM_db/ts
-#EXTINF:-1 xui-id="1728" tvg-id="pt.Record TV HD" tvg-name="|PT| TV RECORD" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| TV RECORD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE6WAjWCtm5C7jS7c8nAEmqqkMlXVt-G7oSBgXZLngdZ8/ts
-#EXTINF:-1 xui-id="4668" tvg-id="pt.TVE 24h" tvg-name="|PT| TVE 24h" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| TVE 24h
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denrQ0vbfXEejXHFGiUjXUsCu/ts
-#EXTINF:-1 xui-id="4667" tvg-id="" tvg-name="|PT| TVE Internacional" tvg-logo="http://static.golemflixer.com:8080/logos/tveinternacional.default.png" group-title="PORTUGAL - INTERNACIONAIS",|PT| TVE Internacional
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denri5VI1xMDpr5dmuSEgiAUr/ts
-#EXTINF:-1 xui-id="4959" tvg-id="GloboNow.pt" tvg-name="|PT|TV Globo now" tvg-logo="http://static.golemflixer.com:8080/logos/globopremium.default.png" group-title="PORTUGAL - INTERNACIONAIS",|PT|TV Globo now
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCExqzWdpv21rq5xtJLMyvZeHqFLYObyK-K2uKz5f5aU_x/ts
-#EXTINF:-1 xui-id="63307" tvg-id="pt.CBS Reality" tvg-name="|PT| CBS REALITY FHD" tvg-logo="http://static.golemflixer.com:8080/logos/cbsreality.default.png" group-title="PORTUGAL - INTERNACIONAIS",|PT| CBS REALITY FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE7nEW0bn-XRL579IUqy0PgNLpjIEJIFvF7ofGAzF0INY/ts
-#EXTINF:-1 xui-id="64508" tvg-id="" tvg-name="|PT| TCV CABO VERDE AFRICA" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| TCV CABO VERDE AFRICA
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE7fnRDg4bewC8TCQa7MIIkY8U0ReXGYrRuQVnk4r3afC/ts
-#EXTINF:-1 xui-id="26085" tvg-id="" tvg-name="|PT| TCV CABO VERDE" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| TCV CABO VERDE
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE5eoBcHpdvbbmu09mTfY1JCBqwzIOPEVoXWsz-t6B2Ri/ts
-#EXTINF:-1 xui-id="76131" tvg-id="" tvg-name="|PT| France 24 (I)" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| France 24 (I)
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFrnBK4HUpLarsxPI25A2uDz/ts
-#EXTINF:-1 xui-id="76132" tvg-id="" tvg-name="|PT| Cubavision Internacional" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| Cubavision Internacional
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFruKm46k1m0dtWGUF4NQt6t/ts
-#EXTINF:-1 xui-id="76133" tvg-id="" tvg-name="|PT| KBS World (1080p)" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| KBS World (1080p)
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFoqY2aChshMX7I4Vs-cGggj/ts
-#EXTINF:-1 xui-id="76134" tvg-id="" tvg-name="|PT| NHK World TV" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| NHK World TV
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFqaaxeuJ9LQkAZlEc57PyA1/ts
-#EXTINF:-1 xui-id="76135" tvg-id="" tvg-name="|PT| ZAP Viva FHD" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| ZAP Viva FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFoCcvK3zl1x_9hlg1XWXNaG/ts
-#EXTINF:-1 xui-id="76136" tvg-id="" tvg-name="|PT| BBC Entertainment" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| BBC Entertainment
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFqr1jECS3wcmR-LLRcWKV9F/ts
-#EXTINF:-1 xui-id="76137" tvg-id="" tvg-name="|PT| BBC World News" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| BBC World News
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFr4dVws1KL3Gr47soCIYooc/ts
-#EXTINF:-1 xui-id="76138" tvg-id="" tvg-name="|PT| Channel 1 Russia" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| Channel 1 Russia
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFriHtz5ohEkVxgFJEewuURP/ts
-#EXTINF:-1 xui-id="76139" tvg-id="" tvg-name="|PT| CNBC" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| CNBC
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1094
-#EXTINF:-1 xui-id="76140" tvg-id="" tvg-name="|PT| CNBC Europe" tvg-logo="" group-title="PORTUGAL - INTERNACIONAIS",|PT| CNBC Europe
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE_sysogej2IYASDn6SMaUFqU3O8LS1DKKeEOL_iYAFsw/ts
-#EXTINF:-1 xui-id="4682" tvg-id="pt.BTV1 HD" tvg-name="|PT| BTV 1 FHD" tvg-logo="http://static.golemflixer.com:8080/logos/btv1.light.png" group-title="PORTUGAL - DESPORTO",|PT| BTV 1 FHD
-http://trial.myinstanttv.com:8080/play/XXgJH0GQKRgQpl0cZmDCE3OZqSXx0LsXJLGBr26denoOTP_ugIFK-JrdwSzgPWhy/ts
-
-
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| RTP 1 HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| RTP 1 HD
+http://rv.flysat.live:80/307244101607/307244101607/81832
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| RTP 2 HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| RTP 2 HD
+http://rv.flysat.live:80/307244101607/307244101607/81831
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| RTP 3 HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| RTP 3 HD
+http://rv.flysat.live:80/307244101607/307244101607/81830
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| SIC HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| SIC HD
+http://rv.flysat.live:80/307244101607/307244101607/81829
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| SIC MULHER HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| SIC MULHER HD
+http://rv.flysat.live:80/307244101607/307244101607/81828
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| SIC NOTICIAS HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| SIC NOTICIAS HD
+http://rv.flysat.live:80/307244101607/307244101607/81827
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| SIC RADICAL HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| SIC RADICAL HD
+http://rv.flysat.live:80/307244101607/307244101607/81826
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| SIC CARAS HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| SIC CARAS HD
+http://rv.flysat.live:80/307244101607/307244101607/81825
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| TVI FICCAO HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| TVI FICCAO HD
+http://rv.flysat.live:80/307244101607/307244101607/81824
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| TVI HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| TVI HD
+http://rv.flysat.live:80/307244101607/307244101607/81823
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| TVI24 HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| TVI24 HD
+http://rv.flysat.live:80/307244101607/307244101607/81822
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| PORTO CANAL HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| PORTO CANAL HD
+http://rv.flysat.live:80/307244101607/307244101607/81821
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| GLOBO PORTUGAL HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| GLOBO PORTUGAL HD
+http://rv.flysat.live:80/307244101607/307244101607/81820
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| ZAP VIVA HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| ZAP VIVA HD
+http://rv.flysat.live:80/307244101607/307244101607/81819
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| E! ENTERTAINMENT HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| E! ENTERTAINMENT HD
+http://rv.flysat.live:80/307244101607/307244101607/81818
+#EXTINF:-1 tvg-id="" tvg-name="##### |PT|HEVC| FILMES #####" tvg-logo="" group-title="PORTUGAL H265",##### |PT|HEVC| FILMES #####
+http://rv.flysat.live:80/307244101607/307244101607/81817
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| AMC HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| AMC HD
+http://rv.flysat.live:80/307244101607/307244101607/81816
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| AXN HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| AXN HD
+http://rv.flysat.live:80/307244101607/307244101607/81815
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| AXN WHITE HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| AXN WHITE HD
+http://rv.flysat.live:80/307244101607/307244101607/81814
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| AXN MOVIES HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| AXN MOVIES HD
+http://rv.flysat.live:80/307244101607/307244101607/81813
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| TV CINE TOP HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| TV CINE TOP HD
+http://rv.flysat.live:80/307244101607/307244101607/81812
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| TV CINE EDITION HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| TV CINE EDITION HD
+http://rv.flysat.live:80/307244101607/307244101607/81811
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| TV CINE EMOTION HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| TV CINE EMOTION HD
+http://rv.flysat.live:80/307244101607/307244101607/81810
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| TV CINE ACTION HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| TV CINE ACTION HD
+http://rv.flysat.live:80/307244101607/307244101607/81809
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| FOX HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| FOX HD
+http://rv.flysat.live:80/307244101607/307244101607/81808
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| FOX MOVIES HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| FOX MOVIES HD
+http://rv.flysat.live:80/307244101607/307244101607/81807
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| FOX CRIME HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| FOX CRIME HD
+http://rv.flysat.live:80/307244101607/307244101607/81806
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| FOX LIFE HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| FOX LIFE HD
+http://rv.flysat.live:80/307244101607/307244101607/81805
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| SYFY HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| SYFY HD
+http://rv.flysat.live:80/307244101607/307244101607/81804
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| BLAZE TV HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| BLAZE TV HD
+http://rv.flysat.live:80/307244101607/307244101607/81803
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| NOS STUDIO HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| NOS STUDIO HD
+http://rv.flysat.live:80/307244101607/307244101607/81802
+#EXTINF:-1 tvg-id="" tvg-name="##### |PT|HEVC| SERIES #####" tvg-logo="" group-title="PORTUGAL H265",##### |PT|HEVC| SERIES #####
+http://rv.flysat.live:80/307244101607/307244101607/81801
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| HOLLYWOOD HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| HOLLYWOOD HD
+http://rv.flysat.live:80/307244101607/307244101607/81800
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| CINEMUNDO HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| CINEMUNDO HD
+http://rv.flysat.live:80/307244101607/307244101607/81799
+#EXTINF:-1 tvg-id="" tvg-name="##### |PT|HEVC| CULTURA #####" tvg-logo="" group-title="PORTUGAL H265",##### |PT|HEVC| CULTURA #####
+http://rv.flysat.live:80/307244101607/307244101607/81798
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| NATIONAL GEOGRAPHIC HD
+http://rv.flysat.live:80/307244101607/307244101607/81797
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| NAT GEO WILD HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| NAT GEO WILD HD
+http://rv.flysat.live:80/307244101607/307244101607/81796
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| ID INVESTIGATION DISCOVERY HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| ID INVESTIGATION DISCOVERY HD
+http://rv.flysat.live:80/307244101607/307244101607/81795
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| TRAVEL CHANNEL HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| TRAVEL CHANNEL HD
+http://rv.flysat.live:80/307244101607/307244101607/81794
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| HISTORIA HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| HISTORIA HD
+http://rv.flysat.live:80/307244101607/307244101607/81793
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| FINE LIVING NETWORK HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| FINE LIVING NETWORK HD
+http://rv.flysat.live:80/307244101607/307244101607/81792
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| DOG TV HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| DOG TV HD
+http://rv.flysat.live:80/307244101607/307244101607/81791
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| ODISSEIA HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| ODISSEIA HD
+http://rv.flysat.live:80/307244101607/307244101607/81790
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| 24 KITCHEN HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| 24 KITCHEN HD
+http://rv.flysat.live:80/307244101607/307244101607/81789
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| CASA E COZINHA HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| CASA E COZINHA HD
+http://rv.flysat.live:80/307244101607/307244101607/81788
+#EXTINF:-1 tvg-id="" tvg-name="##### |PT|HEVC| DESPORTO #####" tvg-logo="" group-title="PORTUGAL H265",##### |PT|HEVC| DESPORTO #####
+http://rv.flysat.live:80/307244101607/307244101607/81787
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| BTV 1 HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| BTV 1 HD
+http://rv.flysat.live:80/307244101607/307244101607/81786
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| A BOLA TV HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| A BOLA TV HD
+http://rv.flysat.live:80/307244101607/307244101607/81785
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| SPORTING TV HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| SPORTING TV HD
+http://rv.flysat.live:80/307244101607/307244101607/81784
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| EUROSPORT 1 HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| EUROSPORT 1 HD
+http://rv.flysat.live:80/307244101607/307244101607/81783
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| SPORT TV + HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| SPORT TV + HD
+http://rv.flysat.live:80/307244101607/307244101607/81782
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| SPORT TV 1 HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| SPORT TV 1 HD
+http://rv.flysat.live:80/307244101607/307244101607/81781
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| SPORT TV 2 HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| SPORT TV 2 HD
+http://rv.flysat.live:80/307244101607/307244101607/81780
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| SPORT TV 3 HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| SPORT TV 3 HD
+http://rv.flysat.live:80/307244101607/307244101607/81779
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| SPORT TV NBA HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| SPORT TV NBA HD
+http://rv.flysat.live:80/307244101607/307244101607/81778
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| ELEVEN SPORTS 1 HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| ELEVEN SPORTS 1 HD
+http://rv.flysat.live:80/307244101607/307244101607/81777
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| ELEVEN SPORTS 2 HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| ELEVEN SPORTS 2 HD
+http://rv.flysat.live:80/307244101607/307244101607/81776
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| ELEVEN SPORTS  3 HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| ELEVEN SPORTS  3 HD
+http://rv.flysat.live:80/307244101607/307244101607/81775
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| ELEVEN SPORTS 4 HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| ELEVEN SPORTS 4 HD
+http://rv.flysat.live:80/307244101607/307244101607/81774
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| ELEVEN SPORTS 5 HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| ELEVEN SPORTS 5 HD
+http://rv.flysat.live:80/307244101607/307244101607/81773
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| ELEVEN SPORTS 6 HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| ELEVEN SPORTS 6 HD
+http://rv.flysat.live:80/307244101607/307244101607/81772
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| FIGHT NETWORK HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| FIGHT NETWORK HD
+http://rv.flysat.live:80/307244101607/307244101607/81771
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| CANAL 11 HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| CANAL 11 HD
+http://rv.flysat.live:80/307244101607/307244101607/81770
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| CMTV HD" tvg-logo="" group-title="PORTUGAL H265",|PT|HEVC| CMTV HD
+http://rv.flysat.live:80/307244101607/307244101607/81769
+#EXTINF:-1 tvg-id="" tvg-name="##### |PT| PORTUGAL #####" tvg-logo="https://cdn.countryflags.com/thumbs/portugal/flag-wave-250.png" group-title="PORTUGAL",##### |PT| PORTUGAL #####
+http://rv.flysat.live:80/307244101607/307244101607/81768
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CORONA VIRUS INFO" tvg-logo="https://cdn.countryflags.com/thumbs/portugal/flag-wave-250.png" group-title="PORTUGAL",|PT| CORONA VIRUS INFO
+http://rv.flysat.live:80/307244101607/307244101607/81767
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1 HD" tvg-logo="" group-title="PORTUGAL",|PT| RTP 1 HD
+http://rv.flysat.live:80/307244101607/307244101607/81766
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 2 HD" tvg-logo="" group-title="PORTUGAL",|PT| RTP 2 HD
+http://rv.flysat.live:80/307244101607/307244101607/81765
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="" group-title="PORTUGAL",|PT| RTP 1
+http://rv.flysat.live:80/307244101607/307244101607/81764
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 2" tvg-logo="" group-title="PORTUGAL",|PT| RTP 2
+http://rv.flysat.live:80/307244101607/307244101607/81763
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 3" tvg-logo="" group-title="PORTUGAL",|PT| RTP 3
+http://rv.flysat.live:80/307244101607/307244101607/81762
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP INTERNATIONAL" tvg-logo="" group-title="PORTUGAL",|PT| RTP INTERNATIONAL
+http://rv.flysat.live:80/307244101607/307244101607/81761
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP ACORES" tvg-logo="" group-title="PORTUGAL",|PT| RTP ACORES
+http://rv.flysat.live:80/307244101607/307244101607/81760
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP AFRICA" tvg-logo="" group-title="PORTUGAL",|PT| RTP AFRICA
+http://rv.flysat.live:80/307244101607/307244101607/81759
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP MADEIRA" tvg-logo="" group-title="PORTUGAL",|PT| RTP MADEIRA
+http://rv.flysat.live:80/307244101607/307244101607/81758
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP MEMORIA" tvg-logo="" group-title="PORTUGAL",|PT| RTP MEMORIA
+http://rv.flysat.live:80/307244101607/307244101607/81757
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC" tvg-logo="" group-title="PORTUGAL",|PT| SIC
+http://rv.flysat.live:80/307244101607/307244101607/81756
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC MULHER" tvg-logo="" group-title="PORTUGAL",|PT| SIC MULHER
+http://rv.flysat.live:80/307244101607/307244101607/81755
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC NOTICIAS" tvg-logo="" group-title="PORTUGAL",|PT| SIC NOTICIAS
+http://rv.flysat.live:80/307244101607/307244101607/81754
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC RADICAL" tvg-logo="" group-title="PORTUGAL",|PT| SIC RADICAL
+http://rv.flysat.live:80/307244101607/307244101607/81753
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC CARAS" tvg-logo="" group-title="PORTUGAL",|PT| SIC CARAS
+http://rv.flysat.live:80/307244101607/307244101607/81752
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC K" tvg-logo="" group-title="PORTUGAL",|PT| SIC K
+http://rv.flysat.live:80/307244101607/307244101607/81751
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CANAL Q" tvg-logo="" group-title="PORTUGAL",|PT| CANAL Q
+http://rv.flysat.live:80/307244101607/307244101607/81750
+#EXTINF:-1 tvg-id="" tvg-name="|PT| PORTO CANAL" tvg-logo="" group-title="PORTUGAL",|PT| PORTO CANAL
+http://rv.flysat.live:80/307244101607/307244101607/81749
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVE 24H" tvg-logo="" group-title="PORTUGAL",|PT| TVE 24H
+http://rv.flysat.live:80/307244101607/307244101607/81748
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI" tvg-logo="" group-title="PORTUGAL",|PT| TVI
+http://rv.flysat.live:80/307244101607/307244101607/81747
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI 24" tvg-logo="" group-title="PORTUGAL",|PT| TVI 24
+http://rv.flysat.live:80/307244101607/307244101607/81746
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI FICCAO" tvg-logo="" group-title="PORTUGAL",|PT| TVI FICCAO
+http://rv.flysat.live:80/307244101607/307244101607/81745
+#EXTINF:-1 tvg-id="" tvg-name="|PT| MCS EXTREME" tvg-logo="" group-title="PORTUGAL",|PT| MCS EXTREME
+http://rv.flysat.live:80/307244101607/307244101607/81744
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI REALITY" tvg-logo="" group-title="PORTUGAL",|PT| TVI REALITY
+http://rv.flysat.live:80/307244101607/307244101607/81743
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TV RECORD" tvg-logo="" group-title="PORTUGAL",|PT| TV RECORD
+http://rv.flysat.live:80/307244101607/307244101607/81742
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ZAP VIVA HD" tvg-logo="" group-title="PORTUGAL",|PT| ZAP VIVA HD
+http://rv.flysat.live:80/307244101607/307244101607/81741
+#EXTINF:-1 tvg-id="" tvg-name="|PT| KURIAKOS TV" tvg-logo="" group-title="PORTUGAL",|PT| KURIAKOS TV
+http://rv.flysat.live:80/307244101607/307244101607/81740
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TCV CABO" tvg-logo="" group-title="PORTUGAL",|PT| TCV CABO
+http://rv.flysat.live:80/307244101607/307244101607/81739
+#EXTINF:-1 tvg-id="" tvg-name="##### |PT| INFANTIL #####" tvg-logo="" group-title="PORTUGAL",##### |PT| INFANTIL #####
+http://rv.flysat.live:80/307244101607/307244101607/81738
+#EXTINF:-1 tvg-id="" tvg-name="|PT| BABY TV" tvg-logo="" group-title="PORTUGAL",|PT| BABY TV
+http://rv.flysat.live:80/307244101607/307244101607/81737
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CANAL PANDA" tvg-logo="" group-title="PORTUGAL",|PT| CANAL PANDA
+http://rv.flysat.live:80/307244101607/307244101607/81736
+#EXTINF:-1 tvg-id="" tvg-name="|PT| DISNEY CHANNEL" tvg-logo="" group-title="PORTUGAL",|PT| DISNEY CHANNEL
+http://rv.flysat.live:80/307244101607/307244101607/81735
+#EXTINF:-1 tvg-id="" tvg-name="|PT| DISNEY JUNIOR" tvg-logo="" group-title="PORTUGAL",|PT| DISNEY JUNIOR
+http://rv.flysat.live:80/307244101607/307244101607/81734
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CARTOON NETWORK" tvg-logo="" group-title="PORTUGAL",|PT| CARTOON NETWORK
+http://rv.flysat.live:80/307244101607/307244101607/81733
+#EXTINF:-1 tvg-id="" tvg-name="|PT| JIM JAM" tvg-logo="" group-title="PORTUGAL",|PT| JIM JAM
+http://rv.flysat.live:80/307244101607/307244101607/81732
+#EXTINF:-1 tvg-id="" tvg-name="|PT| BIGGS" tvg-logo="" group-title="PORTUGAL",|PT| BIGGS
+http://rv.flysat.live:80/307244101607/307244101607/81731
+#EXTINF:-1 tvg-id="" tvg-name="|PT| NICKELODEON" tvg-logo="" group-title="PORTUGAL",|PT| NICKELODEON
+http://rv.flysat.live:80/307244101607/307244101607/81730
+#EXTINF:-1 tvg-id="" tvg-name="|PT| NICK JR." tvg-logo="" group-title="PORTUGAL",|PT| NICK JR.
+http://rv.flysat.live:80/307244101607/307244101607/81729
+#EXTINF:-1 tvg-id="" tvg-name="##### |PT| ENTRETENIMENTO #####" tvg-logo="" group-title="PORTUGAL",##### |PT| ENTRETENIMENTO #####
+http://rv.flysat.live:80/307244101607/307244101607/81728
+#EXTINF:-1 tvg-id="" tvg-name="|PT| E! ENTERTAINMENT" tvg-logo="" group-title="PORTUGAL",|PT| E! ENTERTAINMENT
+http://rv.flysat.live:80/307244101607/307244101607/81727
+#EXTINF:-1 tvg-id="" tvg-name="##### |PT| FILMES #####" tvg-logo="" group-title="PORTUGAL",##### |PT| FILMES #####
+http://rv.flysat.live:80/307244101607/307244101607/81726
+#EXTINF:-1 tvg-id="" tvg-name="|PT| AMC HD" tvg-logo="" group-title="PORTUGAL",|PT| AMC HD
+http://rv.flysat.live:80/307244101607/307244101607/81725
+#EXTINF:-1 tvg-id="" tvg-name="|PT| AMC" tvg-logo="" group-title="PORTUGAL",|PT| AMC
+http://rv.flysat.live:80/307244101607/307244101607/81724
+#EXTINF:-1 tvg-id="" tvg-name="|PT| AXN HD" tvg-logo="" group-title="PORTUGAL",|PT| AXN HD
+http://rv.flysat.live:80/307244101607/307244101607/81723
+#EXTINF:-1 tvg-id="" tvg-name="|PT| AXN WHITE HD" tvg-logo="" group-title="PORTUGAL",|PT| AXN WHITE HD
+http://rv.flysat.live:80/307244101607/307244101607/81722
+#EXTINF:-1 tvg-id="" tvg-name="|PT| AXN MOVIES HD" tvg-logo="" group-title="PORTUGAL",|PT| AXN MOVIES HD
+http://rv.flysat.live:80/307244101607/307244101607/81721
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE TOP HD" tvg-logo="" group-title="PORTUGAL",|PT| TVCINE TOP HD
+http://rv.flysat.live:80/307244101607/307244101607/81720
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE EDITION HD" tvg-logo="" group-title="PORTUGAL",|PT| TVCINE EDITION HD
+http://rv.flysat.live:80/307244101607/307244101607/81719
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE EMOTION HD" tvg-logo="" group-title="PORTUGAL",|PT| TVCINE EMOTION HD
+http://rv.flysat.live:80/307244101607/307244101607/81718
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE ACTION HD" tvg-logo="" group-title="PORTUGAL",|PT| TVCINE ACTION HD
+http://rv.flysat.live:80/307244101607/307244101607/81717
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE EDITION" tvg-logo="" group-title="PORTUGAL",|PT| TVCINE EDITION
+http://rv.flysat.live:80/307244101607/307244101607/81716
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE ACTION" tvg-logo="" group-title="PORTUGAL",|PT| TVCINE ACTION
+http://rv.flysat.live:80/307244101607/307244101607/81715
+#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX HD" tvg-logo="" group-title="PORTUGAL",|PT| FOX HD
+http://rv.flysat.live:80/307244101607/307244101607/81714
+#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX MOVIES" tvg-logo="" group-title="PORTUGAL",|PT| FOX MOVIES
+http://rv.flysat.live:80/307244101607/307244101607/81713
+#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX COMEDY" tvg-logo="" group-title="PORTUGAL",|PT| FOX COMEDY
+http://rv.flysat.live:80/307244101607/307244101607/81712
+#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX CRIME HD" tvg-logo="" group-title="PORTUGAL",|PT| FOX CRIME HD
+http://rv.flysat.live:80/307244101607/307244101607/81711
+#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX LIFE HD" tvg-logo="" group-title="PORTUGAL",|PT| FOX LIFE HD
+http://rv.flysat.live:80/307244101607/307244101607/81710
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SYFY" tvg-logo="" group-title="PORTUGAL",|PT| SYFY
+http://rv.flysat.live:80/307244101607/307244101607/81709
+#EXTINF:-1 tvg-id="" tvg-name="|PT| NOS STUDIO HD" tvg-logo="" group-title="PORTUGAL",|PT| NOS STUDIO HD
+http://rv.flysat.live:80/307244101607/307244101607/81708
+#EXTINF:-1 tvg-id="" tvg-name="|PT| NOS STUDIOS HD" tvg-logo="" group-title="PORTUGAL",|PT| NOS STUDIOS HD
+http://rv.flysat.live:80/307244101607/307244101607/81707
+#EXTINF:-1 tvg-id="" tvg-name="##### |PT| INTERNACIONAIS #####" tvg-logo="" group-title="PORTUGAL",##### |PT| INTERNACIONAIS #####
+http://rv.flysat.live:80/307244101607/307244101607/81706
+#EXTINF:-1 tvg-id="" tvg-name="|PT| GLOBO HD" tvg-logo="" group-title="PORTUGAL",|PT| GLOBO HD
+http://rv.flysat.live:80/307244101607/307244101607/81705
+#EXTINF:-1 tvg-id="" tvg-name="|PT| GLOBO PREMIUM" tvg-logo="" group-title="PORTUGAL",|PT| GLOBO PREMIUM
+http://rv.flysat.live:80/307244101607/307244101607/81704
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TV GALICIA" tvg-logo="" group-title="PORTUGAL",|PT| TV GALICIA
+http://rv.flysat.live:80/307244101607/307244101607/81703
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CNN" tvg-logo="" group-title="PORTUGAL",|PT| CNN
+http://rv.flysat.live:80/307244101607/307244101607/81702
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SKY NEWS" tvg-logo="" group-title="PORTUGAL",|PT| SKY NEWS
+http://rv.flysat.live:80/307244101607/307244101607/81701
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CNBC" tvg-logo="" group-title="PORTUGAL",|PT| CNBC
+http://rv.flysat.live:80/307244101607/307244101607/81700
+#EXTINF:-1 tvg-id="" tvg-name="|PT| EURONEWS" tvg-logo="" group-title="PORTUGAL",|PT| EURONEWS
+http://rv.flysat.live:80/307244101607/307244101607/81699
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TV5 MONDE" tvg-logo="" group-title="PORTUGAL",|PT| TV5 MONDE
+http://rv.flysat.live:80/307244101607/307244101607/81698
+#EXTINF:-1 tvg-id="" tvg-name="|PT| BBC WORLD NEWS" tvg-logo="" group-title="PORTUGAL",|PT| BBC WORLD NEWS
+http://rv.flysat.live:80/307244101607/307244101607/81697
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CBS REALITY" tvg-logo="" group-title="PORTUGAL",|PT| CBS REALITY
+http://rv.flysat.live:80/307244101607/307244101607/81696
+#EXTINF:-1 tvg-id="" tvg-name="|PT| BLOOMBERG" tvg-logo="" group-title="PORTUGAL",|PT| BLOOMBERG
+http://rv.flysat.live:80/307244101607/307244101607/81695
+#EXTINF:-1 tvg-id="" tvg-name="|PT| FTV" tvg-logo="" group-title="PORTUGAL",|PT| FTV
+http://rv.flysat.live:80/307244101607/307244101607/81694
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CANACAO NOVA" tvg-logo="" group-title="PORTUGAL",|PT| CANACAO NOVA
+http://rv.flysat.live:80/307244101607/307244101607/81693
+#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX NEWS" tvg-logo="" group-title="PORTUGAL",|PT| FOX NEWS
+http://rv.flysat.live:80/307244101607/307244101607/81692
+#EXTINF:-1 tvg-id="" tvg-name="##### |PT| MUSICA #####" tvg-logo="" group-title="PORTUGAL",##### |PT| MUSICA #####
+http://rv.flysat.live:80/307244101607/307244101607/81691
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TRACE URBAN" tvg-logo="" group-title="PORTUGAL",|PT| TRACE URBAN
+http://rv.flysat.live:80/307244101607/307244101607/81690
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TRACE TOCA" tvg-logo="" group-title="PORTUGAL",|PT| TRACE TOCA
+http://rv.flysat.live:80/307244101607/307244101607/81689
+#EXTINF:-1 tvg-id="" tvg-name="|PT| VH1" tvg-logo="" group-title="PORTUGAL",|PT| VH1
+http://rv.flysat.live:80/307244101607/307244101607/81688
+#EXTINF:-1 tvg-id="" tvg-name="|PT| VH1 CLASSIC" tvg-logo="" group-title="PORTUGAL",|PT| VH1 CLASSIC
+http://rv.flysat.live:80/307244101607/307244101607/81687
+#EXTINF:-1 tvg-id="" tvg-name="|PT| AFRO MUSIC" tvg-logo="" group-title="PORTUGAL",|PT| AFRO MUSIC
+http://rv.flysat.live:80/307244101607/307244101607/81686
+#EXTINF:-1 tvg-id="" tvg-name="|PT| MTV PORTUGAL" tvg-logo="" group-title="PORTUGAL",|PT| MTV PORTUGAL
+http://rv.flysat.live:80/307244101607/307244101607/81685
+#EXTINF:-1 tvg-id="" tvg-name="|PT| MCM POP" tvg-logo="" group-title="PORTUGAL",|PT| MCM POP
+http://rv.flysat.live:80/307244101607/307244101607/81684
+#EXTINF:-1 tvg-id="" tvg-name="|PT| MEZZO" tvg-logo="" group-title="PORTUGAL",|PT| MEZZO
+http://rv.flysat.live:80/307244101607/307244101607/81683
+#EXTINF:-1 tvg-id="" tvg-name="##### |PT| SERIES  #####" tvg-logo="" group-title="PORTUGAL",##### |PT| SERIES  #####
+http://rv.flysat.live:80/307244101607/307244101607/81682
+#EXTINF:-1 tvg-id="" tvg-name="|PT| HOLLYWOOD HD" tvg-logo="" group-title="PORTUGAL",|PT| HOLLYWOOD HD
+http://rv.flysat.live:80/307244101607/307244101607/81681
+#EXTINF:-1 tvg-id="" tvg-name="|PT| HOLLYWOOD" tvg-logo="" group-title="PORTUGAL",|PT| HOLLYWOOD
+http://rv.flysat.live:80/307244101607/307244101607/81680
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CINEMUNDO" tvg-logo="" group-title="PORTUGAL",|PT| CINEMUNDO
+http://rv.flysat.live:80/307244101607/307244101607/81679
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TV SERIES HD" tvg-logo="" group-title="PORTUGAL",|PT| TV SERIES HD
+http://rv.flysat.live:80/307244101607/307244101607/81678
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TV SERIES" tvg-logo="" group-title="PORTUGAL",|PT| TV SERIES
+http://rv.flysat.live:80/307244101607/307244101607/81677
+#EXTINF:-1 tvg-id="" tvg-name="##### |PT| CULTURA #####" tvg-logo="" group-title="PORTUGAL",##### |PT| CULTURA #####
+http://rv.flysat.live:80/307244101607/307244101607/81676
+#EXTINF:-1 tvg-id="" tvg-name="|PT| DISCOVERY CHANNEL" tvg-logo="" group-title="PORTUGAL",|PT| DISCOVERY CHANNEL
+http://rv.flysat.live:80/307244101607/307244101607/81675
+#EXTINF:-1 tvg-id="" tvg-name="|PT| DISCOVERY HD SHOWCASE" tvg-logo="" group-title="PORTUGAL",|PT| DISCOVERY HD SHOWCASE
+http://rv.flysat.live:80/307244101607/307244101607/81674
+#EXTINF:-1 tvg-id="" tvg-name="|PT| NAT GEO GEOGRAPHIC HD" tvg-logo="" group-title="PORTUGAL",|PT| NAT GEO GEOGRAPHIC HD
+http://rv.flysat.live:80/307244101607/307244101607/81673
+#EXTINF:-1 tvg-id="" tvg-name="|PT| NAT GEO WILD" tvg-logo="" group-title="PORTUGAL",|PT| NAT GEO WILD
+http://rv.flysat.live:80/307244101607/307244101607/81672
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CRIME INVESTIGATION" tvg-logo="" group-title="PORTUGAL",|PT| CRIME INVESTIGATION
+http://rv.flysat.live:80/307244101607/307244101607/81671
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TRAVEL CHANNEL HD" tvg-logo="" group-title="PORTUGAL",|PT| TRAVEL CHANNEL HD
+http://rv.flysat.live:80/307244101607/307244101607/81670
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ODISSEIA" tvg-logo="" group-title="PORTUGAL",|PT| ODISSEIA
+http://rv.flysat.live:80/307244101607/307244101607/81669
+#EXTINF:-1 tvg-id="" tvg-name="|PT| 24 KITCHEN HD" tvg-logo="" group-title="PORTUGAL",|PT| 24 KITCHEN HD
+http://rv.flysat.live:80/307244101607/307244101607/81668
+#EXTINF:-1 tvg-id="" tvg-name="|PT| HISTORIA" tvg-logo="" group-title="PORTUGAL",|PT| HISTORIA
+http://rv.flysat.live:80/307244101607/307244101607/81667
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TLC" tvg-logo="" group-title="PORTUGAL",|PT| TLC
+http://rv.flysat.live:80/307244101607/307244101607/81666
+#EXTINF:-1 tvg-id="" tvg-name="##### |PT| DESPORTO #####" tvg-logo="" group-title="PORTUGAL",##### |PT| DESPORTO #####
+http://rv.flysat.live:80/307244101607/307244101607/81665
+#EXTINF:-1 tvg-id="" tvg-name="|PT| BTV 1 HD" tvg-logo="" group-title="PORTUGAL",|PT| BTV 1 HD
+http://rv.flysat.live:80/307244101607/307244101607/81664
+#EXTINF:-1 tvg-id="" tvg-name="|PT| A BOLA TV" tvg-logo="" group-title="PORTUGAL",|PT| A BOLA TV
+http://rv.flysat.live:80/307244101607/307244101607/81663
+#EXTINF:-1 tvg-id="" tvg-name="|PT| KOMBAT SPORT" tvg-logo="" group-title="PORTUGAL",|PT| KOMBAT SPORT
+http://rv.flysat.live:80/307244101607/307244101607/81662
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORTING TV" tvg-logo="" group-title="PORTUGAL",|PT| SPORTING TV
+http://rv.flysat.live:80/307244101607/307244101607/81661
+#EXTINF:-1 tvg-id="" tvg-name="|PT| FUEL TV" tvg-logo="" group-title="PORTUGAL",|PT| FUEL TV
+http://rv.flysat.live:80/307244101607/307244101607/81660
+#EXTINF:-1 tvg-id="" tvg-name="|PT| EUROSPORT 1 HD" tvg-logo="" group-title="PORTUGAL",|PT| EUROSPORT 1 HD
+http://rv.flysat.live:80/307244101607/307244101607/81659
+#EXTINF:-1 tvg-id="" tvg-name="|PT| EUROSPORT 1" tvg-logo="" group-title="PORTUGAL",|PT| EUROSPORT 1
+http://rv.flysat.live:80/307244101607/307244101607/81658
+#EXTINF:-1 tvg-id="" tvg-name="|PT| EUROSPORT 2" tvg-logo="" group-title="PORTUGAL",|PT| EUROSPORT 2
+http://rv.flysat.live:80/307244101607/307244101607/81657
+#EXTINF:-1 tvg-id="" tvg-name="|PT| PFC" tvg-logo="" group-title="PORTUGAL",|PT| PFC
+http://rv.flysat.live:80/307244101607/307244101607/81656
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CMTV" tvg-logo="" group-title="PORTUGAL",|PT| CMTV
+http://rv.flysat.live:80/307244101607/307244101607/81655
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TOROS TV" tvg-logo="" group-title="PORTUGAL",|PT| TOROS TV
+http://rv.flysat.live:80/307244101607/307244101607/81654
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV" tvg-logo="" group-title="PORTUGAL",|PT| SPORT TV
+http://rv.flysat.live:80/307244101607/307244101607/81653
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 1 HD" tvg-logo="" group-title="PORTUGAL",|PT| SPORT TV 1 HD
+http://rv.flysat.live:80/307244101607/307244101607/81652
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 1 HD NOS" tvg-logo="" group-title="PORTUGAL",|PT| SPORT TV 1 HD NOS
+http://rv.flysat.live:80/307244101607/307244101607/81651
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 1" tvg-logo="" group-title="PORTUGAL",|PT| SPORT TV 1
+http://rv.flysat.live:80/307244101607/307244101607/81650
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 2 HD" tvg-logo="" group-title="PORTUGAL",|PT| SPORT TV 2 HD
+http://rv.flysat.live:80/307244101607/307244101607/81649
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 2" tvg-logo="" group-title="PORTUGAL",|PT| SPORT TV 2
+http://rv.flysat.live:80/307244101607/307244101607/81648
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 3 HD" tvg-logo="" group-title="PORTUGAL",|PT| SPORT TV 3 HD
+http://rv.flysat.live:80/307244101607/307244101607/81647
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 3" tvg-logo="" group-title="PORTUGAL",|PT| SPORT TV 3
+http://rv.flysat.live:80/307244101607/307244101607/81646
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 4" tvg-logo="" group-title="PORTUGAL",|PT| SPORT TV 4
+http://rv.flysat.live:80/307244101607/307244101607/81645
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 5" tvg-logo="" group-title="PORTUGAL",|PT| SPORT TV 5
+http://rv.flysat.live:80/307244101607/307244101607/81644
+#EXTINF:-1 tvg-id="" tvg-name="|PT| NBA TV" tvg-logo="" group-title="PORTUGAL",|PT| NBA TV
+http://rv.flysat.live:80/307244101607/307244101607/81643
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 1 HD" tvg-logo="" group-title="PORTUGAL",|PT| ELEVEN SPORTS 1 HD
+http://rv.flysat.live:80/307244101607/307244101607/81642
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 2 HD" tvg-logo="" group-title="PORTUGAL",|PT| ELEVEN SPORTS 2 HD
+http://rv.flysat.live:80/307244101607/307244101607/81641
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 3 HD" tvg-logo="" group-title="PORTUGAL",|PT| ELEVEN SPORTS 3 HD
+http://rv.flysat.live:80/307244101607/307244101607/81640
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 4 HD" tvg-logo="" group-title="PORTUGAL",|PT| ELEVEN SPORTS 4 HD
+http://rv.flysat.live:80/307244101607/307244101607/81639
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 5 HD" tvg-logo="" group-title="PORTUGAL",|PT| ELEVEN SPORTS 5 HD
+http://rv.flysat.live:80/307244101607/307244101607/81638
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 6 HD" tvg-logo="" group-title="PORTUGAL",|PT| ELEVEN SPORTS 6 HD
+http://rv.flysat.live:80/307244101607/307244101607/81637
+#EXTINF:-1 tvg-id="" tvg-name="|PT| MOTORVISION" tvg-logo="" group-title="PORTUGAL",|PT| MOTORVISION
+http://rv.flysat.live:80/307244101607/307244101607/81636
+#EXTINF:-1 tvg-id="" tvg-name="|PT| REAL MADRID TV" tvg-logo="" group-title="PORTUGAL",|PT| REAL MADRID TV
+http://rv.flysat.live:80/307244101607/307244101607/81635
+#EXTINF:-1 tvg-id="" tvg-name="|PT| CANAL 11" tvg-logo="" group-title="PORTUGAL",|PT| CANAL 11
+http://rv.flysat.live:80/307244101607/307244101607/81634
 
 
 
