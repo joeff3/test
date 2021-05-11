@@ -1,278 +1,292 @@
 #EXTM3U
 
-#EXTINF:0 type="stream" channelId="-1" name="PT:24KITCHEN SD" logo="https://1.bp.blogspot.com/-JcWNRkJr_vE/WjGUtVIS-LI/AAAAAAAABvk/9rKoYlBTAwYewvsiykqI-y6z06NLILlKACLcBGAs/s1600/24kitchen.png" tvg-country="pt", 24KITCHEN SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7152.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:ABOLA TV SD" logo="https://4.bp.blogspot.com/-BF1agtWy1xE/WjGUuVHX7_I/AAAAAAAABv0/zu6mD5RxZWwTHQ6TY8jkSKbJ6jLVWD-TgCLcBGAs/s1600/abolatv.png" tvg-country="pt", ABOLA TV SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/1647.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:AMC FHD" logo="https://vignette.wikia.nocookie.net/logopedia/images/3/36/AMC_2016.svg/revision/latest/scale-to-width-down/200?cb=20170323142601" tvg-country="pt", AMC FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7088.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:AMC SD" logo="https://vignette.wikia.nocookie.net/logopedia/images/3/36/AMC_2016.svg/revision/latest/scale-to-width-down/200?cb=20170323142601" tvg-country="pt", AMC SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/1648.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:AXN FHD" logo="https://1.bp.blogspot.com/-k3fq6E0RKJc/WjGUvrAYgwI/AAAAAAAABwA/PwLgFwPx4DQzmaMzF7V9s8eRODJFtUUgQCLcBGAs/s1600/axn.png" tvg-country="pt", AXN FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7086.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:AXN HD" logo="https://1.bp.blogspot.com/-k3fq6E0RKJc/WjGUvrAYgwI/AAAAAAAABwA/PwLgFwPx4DQzmaMzF7V9s8eRODJFtUUgQCLcBGAs/s1600/axn.png" tvg-country="pt", AXN HD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7085.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:AXN SD" logo="https://1.bp.blogspot.com/-k3fq6E0RKJc/WjGUvrAYgwI/AAAAAAAABwA/PwLgFwPx4DQzmaMzF7V9s8eRODJFtUUgQCLcBGAs/s1600/axn.png" tvg-country="pt", AXN SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7358.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:AXN BLACK FHD" logo="https://2.bp.blogspot.com/-2uV8qmZDjJQ/WjGUwP-3TuI/AAAAAAAABwE/XI_3q-7fRcIOQUBFt8fmZi0qrHFzVRWzgCLcBGAs/s1600/axnblack.png" tvg-country="pt", AXN BLACK FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/3172.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:AXN BLACK SD" logo="https://2.bp.blogspot.com/-2uV8qmZDjJQ/WjGUwP-3TuI/AAAAAAAABwE/XI_3q-7fRcIOQUBFt8fmZi0qrHFzVRWzgCLcBGAs/s1600/axnblack.png" tvg-country="pt", AXN BLACK SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7087.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:AXN WHITE FHD" logo="https://1.bp.blogspot.com/-uDoSXsOkvgM/WjGUwYYk8QI/AAAAAAAABwM/TUipDXhCU0QoKSuaiaTJiKMxawnnbGZIwCLcBGAs/s1600/axnwhite.png" tvg-country="pt", AXN WHITE FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7084.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:AXN WHITE HD" logo="https://1.bp.blogspot.com/-uDoSXsOkvgM/WjGUwYYk8QI/AAAAAAAABwM/TUipDXhCU0QoKSuaiaTJiKMxawnnbGZIwCLcBGAs/s1600/axnwhite.png" tvg-country="pt", AXN WHITE HD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7360.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:AXN WHITE SD" logo="https://1.bp.blogspot.com/-uDoSXsOkvgM/WjGUwYYk8QI/AAAAAAAABwM/TUipDXhCU0QoKSuaiaTJiKMxawnnbGZIwCLcBGAs/s1600/axnwhite.png" tvg-country="pt", AXN WHITE SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7083.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:BABY TV SD" logo="https://3.bp.blogspot.com/-ekjTZdUdPC0/WjGUxMg9y-I/AAAAAAAABwQ/KwIUje2Xp4Yzxoo-Uu_eJj--iatfzIGZgCLcBGAs/s320/babytv.png" tvg-country="pt", BABY TV SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7137.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:BENFICA TV FHD" logo="https://1.bp.blogspot.com/-8REDXseRtQ4/WjGUxMktSCI/AAAAAAAABwU/C1xkvOg_UNIX5olajVrUqmHBWV1rCSfMACLcBGAs/s1600/btv1.png" tvg-country="pt", BENFICA TV FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7082.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:BENFICA TV HD" logo="https://1.bp.blogspot.com/-8REDXseRtQ4/WjGUxMktSCI/AAAAAAAABwU/C1xkvOg_UNIX5olajVrUqmHBWV1rCSfMACLcBGAs/s1600/btv1.png" tvg-country="pt", BENFICA TV HD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7081.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:BENFICA TV SD" logo="https://1.bp.blogspot.com/-8REDXseRtQ4/WjGUxMktSCI/AAAAAAAABwU/C1xkvOg_UNIX5olajVrUqmHBWV1rCSfMACLcBGAs/s1600/btv1.png" tvg-country="pt", BENFICA TV SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7080.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:BIGGS SD" logo="https://3.bp.blogspot.com/-kekO21dBiUA/WjGU9sCd-MI/AAAAAAAAByU/E93sm8btY5cUrdmZeGw15prn-LB2VJ2YgCLcBGAs/s1600/pandabiggs.png" tvg-country="pt", BIGGS SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7058.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:BLAZE" logo="https://2.bp.blogspot.com/-o5xbVmyQt9w/Wv3kxtDz6nI/AAAAAAAACGw/6njG6vltCSoMh0AAvmZ602PzwZyEwN2iQCLcBGAs/s1600/Blaze.png" tvg-country="pt", BLAZE
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7352.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:CANAL PANDA SD" logo="https://2.bp.blogspot.com/-yBIRwJCkEz4/WjGUynQYE9I/AAAAAAAABwo/x2CkNII1BT0pvNUkNIk3O4PdyOFdRIGXQCLcBGAs/s1600/canalpanda.png" tvg-country="pt", CANAL PANDA SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7075.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:CANÇÃO NOVA SD" logo="https://1.bp.blogspot.com/-fUtkx5pUnkI/WjGVJrnRVmI/AAAAAAAAB0o/x8iJ14wHuBEkinWP21OKM_DKQKgm_kPcgCLcBGAs/s1600/cancao%2Bnova.png" tvg-country="pt", CANÇÃO NOVA SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7155.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:CARTOON  NETWORK SD" logo="https://4.bp.blogspot.com/-2Av7J-2xVGo/WjGUtSjlnvI/AAAAAAAABvc/3y-VEXtMZ14ytcaO3IyDv2o1KFQq_rFSgCLcBGAs/s1600/CartoonNetwork.png" tvg-country="pt", CARTOON  NETWORK SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7141.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:CBS REALITY SD" logo="https://3.bp.blogspot.com/-FRy14o6CP3k/WjGUzb3cH3I/AAAAAAAABww/RJ9iWdKXQTQVLavcVLb0DWmYkcU1FuZdwCLcBGAs/s1600/cbs_reality.png" tvg-country="pt", CBS REALITY SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7351.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:CAÇA E PESCA SD" logo="https://2.bp.blogspot.com/-ZKpnhOVY5h4/WjGUzHCY3zI/AAAAAAAABws/_f2Fg7zTyLEFS6WnpB6JsnGdYfuutLvRACLcBGAs/s1600/caza-y-pesca.png" tvg-country="pt", CAÇA E PESCA SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7138.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:CAÇAVISION SD" logo="https://2.bp.blogspot.com/-xiUHSJo-zSY/WjGUxcoLKII/AAAAAAAABwY/Q3qQl2NXaz4UHud3bvkfUvQxxlv15OdzgCLcBGAs/s1600/cacavision.png" tvg-country="pt", CAÇAVISION SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7140.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:CINEMUNDO SD" logo="https://3.bp.blogspot.com/-LP4UV4RzC0k/WjGUz6j6JyI/AAAAAAAABw0/OFeDwYpEGCwoX8eNQbOxgJ3RJ0_BLzCmQCLcBGAs/s1600/cinemundo.png" tvg-country="pt", CINEMUNDO SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7074.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:CMTV FHD" logo="https://1.bp.blogspot.com/-FqXia_saq0M/WjGU0LXjK_I/AAAAAAAABw4/tdx_W61JNJgbOqqGBag0_TbhV5MZ-gJJQCLcBGAs/s1600/cmtv.png" tvg-country="pt", CMTV FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7079.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:CMTV SD" logo="https://1.bp.blogspot.com/-FqXia_saq0M/WjGU0LXjK_I/AAAAAAAABw4/tdx_W61JNJgbOqqGBag0_TbhV5MZ-gJJQCLcBGAs/s1600/cmtv.png" tvg-country="pt", CMTV SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7073.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:DISCOVERY CHANNEL SD" logo="https://4.bp.blogspot.com/-80QOkBNuH4s/WjHJqssRkrI/AAAAAAAAB2s/q2u-ClH_pK00sdDa7sCgtCk4bCsmbSILQCLcBGAs/s1600/Discovery_Channel2.png" tvg-country="pt", DISCOVERY CHANNEL SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7142.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:DISCOVERY SHOWCASE SD" logo="https://1.bp.blogspot.com/-PJ6PEucDbwU/WjHJquWIuPI/AAAAAAAAB2o/45WdsM8ZR3ctWMDLocETNNlB7alZL_smwCLcBGAs/s1600/discoveryshowcase.png" tvg-country="pt", DISCOVERY SHOWCASE SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7143.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:DISNEY CHANNEL SD" logo="https://1.bp.blogspot.com/-IUaGZ02_EKA/WjGU0usGlaI/AAAAAAAABw8/NdQHLTxTK9g-Uy5niqx8vZI_rcke_t-oACLcBGAs/s1600/disneychannel.png" tvg-country="pt", DISNEY CHANNEL SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7144.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:DISNEY JUNIOR SD" logo="https://3.bp.blogspot.com/-Gx6hxUiK8Ig/WjGU1Nh7VfI/AAAAAAAABxE/7u6S011BR20YfCwG8IsDFwrTzUZUL4UbgCLcBGAs/s1600/disneyjr.png" tvg-country="pt", DISNEY JUNIOR SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7145.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:EUROSPORT 1 FHD" logo="https://2.bp.blogspot.com/-R_DvpsnY5hY/WjGU2GGvJvI/AAAAAAAABxI/Rt_P-5kxkH0fouEWnUxvIAOgrwq8ClaMQCLcBGAs/s1600/eurosport1.png" tvg-country="pt", EUROSPORT 1 FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7078.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:EUROSPORT 1 SD" logo="https://2.bp.blogspot.com/-R_DvpsnY5hY/WjGU2GGvJvI/AAAAAAAABxI/Rt_P-5kxkH0fouEWnUxvIAOgrwq8ClaMQCLcBGAs/s1600/eurosport1.png" tvg-country="pt", EUROSPORT 1 SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7077.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:EUROSPORT 2 SD" logo="https://2.bp.blogspot.com/-JpLIkHn8bVQ/WjGU2BhuvEI/AAAAAAAABxM/-a7hpPaBgHon_2CXpT9gczqUEHNDlFLtgCLcBGAs/s1600/eurosport2.png" tvg-country="pt", EUROSPORT 2 SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7076.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:FOOD NETWORK FHD" logo="https://1.bp.blogspot.com/-Z2fL1W6QYug/WhtCA91TO9I/AAAAAAAABa4/v2PTe-cJrAAcgRIUOha1qowJDegaaE2sgCLcBGAs/s1600/foodnetwork.png" tvg-country="pt", FOOD NETWORK FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7348.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:FOOD NETWORK SD" logo="https://1.bp.blogspot.com/-Z2fL1W6QYug/WhtCA91TO9I/AAAAAAAABa4/v2PTe-cJrAAcgRIUOha1qowJDegaaE2sgCLcBGAs/s1600/foodnetwork.png" tvg-country="pt", FOOD NETWORK SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7156.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:FOX FHD" logo="https://4.bp.blogspot.com/-ml1LoXuUlYg/WjGU3uWpTSI/AAAAAAAABxY/PBC32ipD_qEQqmgEzwb2w7cU-Aa2B-99wCLcBGAs/s1600/fox.png" tvg-country="pt", FOX FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7068.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:FOX SD" logo="https://4.bp.blogspot.com/-ml1LoXuUlYg/WjGU3uWpTSI/AAAAAAAABxY/PBC32ipD_qEQqmgEzwb2w7cU-Aa2B-99wCLcBGAs/s1600/fox.png" tvg-country="pt", FOX SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7067.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:FOX COMEDY SD" logo="https://3.bp.blogspot.com/-M0Rt7sQzlJY/WjGU38TpCbI/AAAAAAAABxc/V-WVJYxB3asWGRjBs6qOG4vsH8vlpIP6gCLcBGAs/s1600/foxcomedy.png" tvg-country="pt", FOX COMEDY SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7072.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:FOX CRIME FHD" logo="https://4.bp.blogspot.com/-axVewNmJqmE/WjG8K-1HQBI/AAAAAAAAB2A/PAKXYLX50j8UM57zwcbo-WpFG8YVwKF2QCLcBGAs/s1600/foxcrime.png" tvg-country="pt", FOX CRIME FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7071.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:FOX CRIME HD" logo="https://4.bp.blogspot.com/-axVewNmJqmE/WjG8K-1HQBI/AAAAAAAAB2A/PAKXYLX50j8UM57zwcbo-WpFG8YVwKF2QCLcBGAs/s1600/foxcrime.png" tvg-country="pt", FOX CRIME HD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7070.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:FOX CRIME SD" logo="https://4.bp.blogspot.com/-axVewNmJqmE/WjG8K-1HQBI/AAAAAAAAB2A/PAKXYLX50j8UM57zwcbo-WpFG8YVwKF2QCLcBGAs/s1600/foxcrime.png" tvg-country="pt", FOX CRIME SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7069.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:FOX LIFE FHD" logo="https://4.bp.blogspot.com/-0zWZquVWBlQ/WjGU4wNt84I/AAAAAAAABxk/VK4DVP3EiMEisbgWnlLC-mKAJThGwT6RwCLcBGAs/s1600/foxlife.png" tvg-country="pt", FOX LIFE FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7066.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:FOX LIFE HD" logo="https://4.bp.blogspot.com/-0zWZquVWBlQ/WjGU4wNt84I/AAAAAAAABxk/VK4DVP3EiMEisbgWnlLC-mKAJThGwT6RwCLcBGAs/s1600/foxlife.png" tvg-country="pt", FOX LIFE HD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7359.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:FOX LIFE SD" logo="https://4.bp.blogspot.com/-0zWZquVWBlQ/WjGU4wNt84I/AAAAAAAABxk/VK4DVP3EiMEisbgWnlLC-mKAJThGwT6RwCLcBGAs/s1600/foxlife.png" tvg-country="pt", FOX LIFE SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7065.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:FOX MOVIES FHD" logo="https://3.bp.blogspot.com/-Ucyqoa1UKs8/WjGU5LhT1rI/AAAAAAAABxo/12dMdSaShckyXF2lJjHvqDUJkPs4tYUUwCLcBGAs/s1600/foxmovies.png" tvg-country="pt", FOX MOVIES FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7064.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:FOX MOVIES SD" logo="https://3.bp.blogspot.com/-Ucyqoa1UKs8/WjGU5LhT1rI/AAAAAAAABxo/12dMdSaShckyXF2lJjHvqDUJkPs4tYUUwCLcBGAs/s1600/foxmovies.png" tvg-country="pt", FOX MOVIES SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7063.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:FUEL TV HD" logo="https://3.bp.blogspot.com/-ZHfFH_Ff7G8/WjGU5jp_TsI/AAAAAAAABxs/l4MqoX08yy4vrp-zCzjFVPnXX9v1HtcuACLcBGAs/s1600/fueltv.png" tvg-country="pt", FUEL TV HD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7157.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:GLOBO SD" logo="https://3.bp.blogspot.com/-Q4PJKb_V0x8/Wm99jx39jPI/AAAAAAAAB6k/-HHGz1CR4y0TED8UFbnV3c6gSm1z8lZSgCLcBGAs/s1600/globoportugal.png" tvg-country="pt", GLOBO SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7062.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:GLOBO NOW SD" logo="https://2.bp.blogspot.com/-CPtaQLmBulk/WupQZyCkWwI/AAAAAAAACDc/aKgDxyh64IgakOB58f1ClGh1sSlNIJV9gCLcBGAs/s1600/Globo_NoW.png" tvg-country="pt", GLOBO NOW SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7061.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:HISTÓRIA SD" logo="https://4.bp.blogspot.com/-0A6fbEYYuMA/WjGU6EKeXSI/AAAAAAAABxw/GAgk07NL0RMwN9l2xxvA8XSelabmuMrGgCLcBGAs/s1600/historia.png" tvg-country="pt", HISTÓRIA SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7158.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:HOLLYWOOD FHD" logo="https://4.bp.blogspot.com/-dDSlrbYDFS0/WjGUyOCwh_I/AAAAAAAABwg/t5vLLdtX6iwYyJcxGVI2lzNzBkX1lFc8QCLcBGAs/s1600/canalhollywood.png" tvg-country="pt", HOLLYWOOD FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7060.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:HOLLYWOOD SD" logo="https://4.bp.blogspot.com/-dDSlrbYDFS0/WjGUyOCwh_I/AAAAAAAABwg/t5vLLdtX6iwYyJcxGVI2lzNzBkX1lFc8QCLcBGAs/s1600/canalhollywood.png" tvg-country="pt", HOLLYWOOD SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7059.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:JIMJAM SD" logo="https://4.bp.blogspot.com/-FcU8BjCTaAE/WjGU60JHWBI/AAAAAAAABx0/ecu2HRPLIQcGn2KM5mu-YZR69wo4GUcPgCLcBGAs/s320/jimjam.png" tvg-country="pt", JIMJAM SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7159.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:KOMBAT SPORT SD" logo="https://1.bp.blogspot.com/-Qf9G3cUNrgE/Wv3nP2yyh3I/AAAAAAAACHE/7t9Lt0LvCbQrHUUfYx_JTldWhbXNH4FfgCLcBGAs/s1600/Kombat_sport.png" tvg-country="pt", KOMBAT SPORT SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7357.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:LOCALVISAO SD" logo="https://4.bp.blogspot.com/-zCE81gIZKjA/WvhV-Kal5XI/AAAAAAAACFE/6Scxm1rJ97kpdoXr-ITPs94eq2_x_TgzwCLcBGAs/s1600/localvisao.png" tvg-country="pt", LOCALVISAO SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7160.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:MCM TOP SD" logo="https://4.bp.blogspot.com/-GPKTQytDbdo/WjHEDMM496I/AAAAAAAAB2Q/LrirspsVfT0-u7czSoz27mlmGFc8CugTgCLcBGAs/s1600/mcmtop.png" tvg-country="pt", MCM TOP SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7161.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:MOTORSPORT TV SD" logo="https://4.bp.blogspot.com/-VzU4S7mimc0/WvhYL_8clGI/AAAAAAAACFQ/UUuabmLsWMM9OVyBVUM1WQ4fCSHHUbDcwCLcBGAs/s1600/Motorsport.tv.png" tvg-country="pt", MOTORSPORT TV SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7162.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:MOTORVISION SD" logo="https://2.bp.blogspot.com/-GCfqz_nyZeI/WjGU7C5HM1I/AAAAAAAABx8/7aPYbiztYUI3VOu1ke6kUyjf30_OWNaQgCLcBGAs/s1600/motorvision.png" tvg-country="pt", MOTORVISION SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7163.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:MTV SD" logo="https://1.bp.blogspot.com/-qEeSYmUTJjQ/WjGU8aMyq9I/AAAAAAAAByI/_FgIQvHQmPUGPYtLXtsf35cOmdT1fS5zQCLcBGAs/s1600/mtv.png" tvg-country="pt", MTV SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7153.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:MY CUISINE SD" logo="https://1.bp.blogspot.com/-9jD2tz3X3Zw/WjGU7wHYNsI/AAAAAAAAByE/HJfuUnKTCE4DHGaFL1XSzOeND8P1lI5dACLcBGAs/s320/mycuisine.png" tvg-country="pt", MY CUISINE SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7356.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:NATIONAL GEOGRAPHIC HD" logo="https://3.bp.blogspot.com/-fc0I8IL4v2Q/WjGUtkpTS8I/AAAAAAAABvo/uvQEi3nyfAEBwLQDz-0_r_3NMgWnLd5aQCLcBGAs/s1600/NatcionalGeographic.png" tvg-country="pt", NATIONAL GEOGRAPHIC HD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7165.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:NATIONAL GEOGRAPHIC SD" logo="https://3.bp.blogspot.com/-fc0I8IL4v2Q/WjGUtkpTS8I/AAAAAAAABvo/uvQEi3nyfAEBwLQDz-0_r_3NMgWnLd5aQCLcBGAs/s1600/NatcionalGeographic.png" tvg-country="pt", NATIONAL GEOGRAPHIC SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7164.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:NAT GEO WILD SD" logo="https://3.bp.blogspot.com/-N94dYHxKnPo/WjGUtWpyo_I/AAAAAAAABvg/KVEweU6WUSEmnKI40ft-duspO774otcpgCLcBGAs/s1600/NatGeo_Wild.png" tvg-country="pt", NAT GEO WILD SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7361.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:NICKELODEON SD" logo="https://3.bp.blogspot.com/-fA-zBNCN9ns/WjGU8pultmI/AAAAAAAAByM/4gLN8y5hQoEnybsK1tzJSG7Rp_nlJM4wACLcBGAs/s1600/nick.png" tvg-country="pt", NICKELODEON SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7154.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:ODISSEIA SD" logo="https://4.bp.blogspot.com/-b7ymI2Xzbv4/WjGU9EGq8qI/AAAAAAAAByQ/FVVE0DsMwigbv3OM9B1baYdLu3C_SAsEACLcBGAs/s1600/odisseia.png" tvg-country="pt", ODISSEIA SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7166.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:PFC SD" logo="https://2.bp.blogspot.com/-8pcv5onMYmI/WjGU-HvSK8I/AAAAAAAAByY/CuOa8g8lyxcUk5z_yiEBUZSZXD5ASIfHQCLcBGAs/s1600/pfc.png" tvg-country="pt", PFC SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7167.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:PORTO CANAL HD" logo="https://1.bp.blogspot.com/-PPIrXN19m2o/WjGUtx0LpOI/AAAAAAAABvs/SqaBP-18UhIHD9aeGo-snfdr75Mf_uPFwCLcBGAs/s1600/Porto%2BCanal%2Blogo.png" tvg-country="pt", PORTO CANAL HD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7150.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:PORTO CANAL SD" logo="https://1.bp.blogspot.com/-PPIrXN19m2o/WjGUtx0LpOI/AAAAAAAABvs/SqaBP-18UhIHD9aeGo-snfdr75Mf_uPFwCLcBGAs/s1600/Porto%2BCanal%2Blogo.png" tvg-country="pt", PORTO CANAL SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7149.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:RECORD FHD" logo="https://3.bp.blogspot.com/-pahl7Yb1dSQ/WjGU-xGIq1I/AAAAAAAAByg/6vIleG4Yn_ov2q4N455BeT7jMoZcGjXSgCLcBGAs/s1600/record.png" tvg-country="pt", RECORD FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7055.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:RECORD SD" logo="https://3.bp.blogspot.com/-pahl7Yb1dSQ/WjGU-xGIq1I/AAAAAAAAByg/6vIleG4Yn_ov2q4N455BeT7jMoZcGjXSgCLcBGAs/s1600/record.png" tvg-country="pt", RECORD SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7054.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:RECORD NEWS SD" logo="https://1.bp.blogspot.com/-uAn9aOIvZL4/WvhmSQEVFeI/AAAAAAAACFg/ebXBucGQ-408CsAPzz6v_ov6OFFE4yrSwCLcBGAs/s1600/recordnews.png" tvg-country="pt", RECORD NEWS SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7168.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:RTP 1 FHD" logo="https://2.bp.blogspot.com/-5M_7zeFyB0w/WjGU_QmJ5OI/AAAAAAAAByk/sNaQZYnc7DQL-KMMf8pnXfhGwdoTz7JOwCLcBGAs/s1600/rtp1.png" tvg-country="pt", RTP 1 FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7053.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:RTP 1 HD" logo="https://2.bp.blogspot.com/-5M_7zeFyB0w/WjGU_QmJ5OI/AAAAAAAAByk/sNaQZYnc7DQL-KMMf8pnXfhGwdoTz7JOwCLcBGAs/s1600/rtp1.png" tvg-country="pt", RTP 1 HD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7052.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:RTP 1 SD" logo="https://2.bp.blogspot.com/-5M_7zeFyB0w/WjGU_QmJ5OI/AAAAAAAAByk/sNaQZYnc7DQL-KMMf8pnXfhGwdoTz7JOwCLcBGAs/s1600/rtp1.png" tvg-country="pt", RTP 1 SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7051.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:RTP 2 SD" logo="https://1.bp.blogspot.com/-lQ3UpIC7Okg/WjGU_9AhsCI/AAAAAAAAByo/8yIwr5fou1co6QKCttMaBoZ-7n0Ng9vqwCLcBGAs/s1600/rtp2.png" tvg-country="pt", RTP 2 SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7050.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:RTP 3 HD" logo="https://3.bp.blogspot.com/-05hVH1UjY2I/WjGVAAx4XSI/AAAAAAAABys/Hy3ijsajdJUE2fc3PoPYc8LVt1thWDzPACLcBGAs/s1600/rtp3.png" tvg-country="pt", RTP 3 HD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7355.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:RTP 3 SD" logo="https://3.bp.blogspot.com/-05hVH1UjY2I/WjGVAAx4XSI/AAAAAAAABys/Hy3ijsajdJUE2fc3PoPYc8LVt1thWDzPACLcBGAs/s1600/rtp3.png" tvg-country="pt", RTP 3 SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7049.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:RTP AÇORES SD" logo="https://3.bp.blogspot.com/-ek_i-GYhZGU/WjQhsfRrYrI/AAAAAAAAB28/FtcvY5ooTZI6N5JYTACCtbFQhQwGOKlZwCLcBGAs/s1600/rtpacores.png" tvg-country="pt", RTP AÇORES SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/1693.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:RTP ÁFRICA SD" logo="https://2.bp.blogspot.com/-eEl_EqBvWxc/WjGVBRR-vZI/AAAAAAAABy4/HfjdXtmYfAQoNZi5TLkgIBm-yAgGAKl1wCLcBGAs/s1600/rtpafrica.png" tvg-country="pt", RTP ÁFRICA SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7136.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:RTP MADEIRA SD" logo="https://4.bp.blogspot.com/-zcAMwfe0lKA/WjGVBN4zQMI/AAAAAAAABy0/w_6z3cfMIUoIDtaMxcJbohKYyYFa5XDXgCLcBGAs/s1600/rtpmadeira.png" tvg-country="pt", RTP MADEIRA SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7048.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:RTP MEMORIA SD" logo="https://1.bp.blogspot.com/-7-ZLO2C2Ptk/WjGVBiqrgqI/AAAAAAAABy8/Z80dbs1HvGAnG8fb7zwuounqsX7RmJ_TACLcBGAs/s1600/rtpmemoria.png" tvg-country="pt", RTP MEMORIA SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7047.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SIC FHD" logo="https://4.bp.blogspot.com/-RTI4XEOYpM8/WjGVBkIj6pI/AAAAAAAABzE/-ByCaq1Q4L0E3OkxGNCSELOtmJQYu4hYwCLcBGAs/s1600/sic.png" tvg-country="pt", SIC FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7046.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SIC SD" logo="https://4.bp.blogspot.com/-RTI4XEOYpM8/WjGVBkIj6pI/AAAAAAAABzE/-ByCaq1Q4L0E3OkxGNCSELOtmJQYu4hYwCLcBGAs/s1600/sic.png" tvg-country="pt", SIC SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7045.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SIC CARAS SD" logo="https://4.bp.blogspot.com/-h77GqeZ65os/WjrUShAQR2I/AAAAAAAAB44/XBchWUvx8ggKiIamm7EftFMOhzwZXuyWwCLcBGAs/s1600/sic_caras.png" tvg-country="pt", SIC CARAS SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7044.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SIC K SD" logo="https://4.bp.blogspot.com/-QrhE0WPcIUQ/WjGVBweuJtI/AAAAAAAABzI/B2apMdLavd0Oa3h7AykNL-yS-rket8CywCLcBGAs/s1600/sic_k.png" tvg-country="pt", SIC K SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/3183.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SIC MULHER FHD" logo="https://2.bp.blogspot.com/-b01DX-sR8CI/WjGVCE6IHGI/AAAAAAAABzM/YTcYa8774n4zxkEdPM9_CelCD64OwCwqgCLcBGAs/s1600/sic_mulher.png" tvg-country="pt", SIC MULHER FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7043.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SIC MULHER SD" logo="https://2.bp.blogspot.com/-b01DX-sR8CI/WjGVCE6IHGI/AAAAAAAABzM/YTcYa8774n4zxkEdPM9_CelCD64OwCwqgCLcBGAs/s1600/sic_mulher.png" tvg-country="pt", SIC MULHER SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7042.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SIC NOTICIAS FHD" logo="https://4.bp.blogspot.com/-trYOro6WAp0/WjGVCUOgV4I/AAAAAAAABzQ/ZjTUhu3oCKQhZN3HOP_4-R5Fm3fqZlWtgCLcBGAs/s1600/sic_noticias.png" tvg-country="pt", SIC NOTICIAS FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7041.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SIC NOTICIAS SD" logo="https://4.bp.blogspot.com/-trYOro6WAp0/WjGVCUOgV4I/AAAAAAAABzQ/ZjTUhu3oCKQhZN3HOP_4-R5Fm3fqZlWtgCLcBGAs/s1600/sic_noticias.png" tvg-country="pt", SIC NOTICIAS SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7040.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SIC RADICAL FHD" logo="https://4.bp.blogspot.com/-9NMmJ1t3oL8/WjGVCv3VOPI/AAAAAAAABzU/bdpvRprOcAgLAWlg6WSV_SktSzljxAEYQCLcBGAs/s1600/sic_radical.png" tvg-country="pt", SIC RADICAL FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7039.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SIC RADICAL SD" logo="https://4.bp.blogspot.com/-9NMmJ1t3oL8/WjGVCv3VOPI/AAAAAAAABzU/bdpvRprOcAgLAWlg6WSV_SktSzljxAEYQCLcBGAs/s1600/sic_radical.png" tvg-country="pt", SIC RADICAL SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7038.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SPORT TV 1 FHD" logo="https://3.bp.blogspot.com/-Pun5s4QpLmk/WjGVDBB2e6I/AAAAAAAABzY/5lICM2oFK4cxyULM_LffOq_NvzHQlVcsgCLcBGAs/s1600/sport_tv1.png" tvg-country="pt", SPORT TV 1 FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7034.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SPORT TV 1 HD" logo="https://3.bp.blogspot.com/-Pun5s4QpLmk/WjGVDBB2e6I/AAAAAAAABzY/5lICM2oFK4cxyULM_LffOq_NvzHQlVcsgCLcBGAs/s1600/sport_tv1.png" tvg-country="pt", SPORT TV 1 HD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7033.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SPORT TV 1 SD" logo="https://3.bp.blogspot.com/-Pun5s4QpLmk/WjGVDBB2e6I/AAAAAAAABzY/5lICM2oFK4cxyULM_LffOq_NvzHQlVcsgCLcBGAs/s1600/sport_tv1.png" tvg-country="pt", SPORT TV 1 SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7032.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SPORT TV 2 FHD" logo="https://1.bp.blogspot.com/-aqRaORI6D_0/WjGVDkge0BI/AAAAAAAABzc/p9luNct5s-InEcu6KlCI3bkf7fgh6SBFgCLcBGAs/s1600/sport_tv2.png" tvg-country="pt", SPORT TV 2 FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7031.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SPORT TV 2 HD" logo="https://1.bp.blogspot.com/-aqRaORI6D_0/WjGVDkge0BI/AAAAAAAABzc/p9luNct5s-InEcu6KlCI3bkf7fgh6SBFgCLcBGAs/s1600/sport_tv2.png" tvg-country="pt", SPORT TV 2 HD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7030.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SPORT TV 2 SD" logo="https://1.bp.blogspot.com/-aqRaORI6D_0/WjGVDkge0BI/AAAAAAAABzc/p9luNct5s-InEcu6KlCI3bkf7fgh6SBFgCLcBGAs/s1600/sport_tv2.png" tvg-country="pt", SPORT TV 2 SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7029.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SPORT TV 3 FHD" logo="https://4.bp.blogspot.com/-PeaU8ERvW6s/WjGVD27HNZI/AAAAAAAABzg/gNNH81JmnM04x3Y-r6dYQZp0_ussYeT1QCLcBGAs/s1600/sport_tv3.png" tvg-country="pt", SPORT TV 3 FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7028.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SPORT TV 3 HD" logo="https://4.bp.blogspot.com/-PeaU8ERvW6s/WjGVD27HNZI/AAAAAAAABzg/gNNH81JmnM04x3Y-r6dYQZp0_ussYeT1QCLcBGAs/s1600/sport_tv3.png" tvg-country="pt", SPORT TV 3 HD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7027.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SPORT TV 3 SD" logo="https://4.bp.blogspot.com/-PeaU8ERvW6s/WjGVD27HNZI/AAAAAAAABzg/gNNH81JmnM04x3Y-r6dYQZp0_ussYeT1QCLcBGAs/s1600/sport_tv3.png" tvg-country="pt", SPORT TV 3 SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7026.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SPORT TV 4 FHD" logo="https://3.bp.blogspot.com/-TdWBhhGSjqw/WjGVEAbohDI/AAAAAAAABzo/ne2gnxX3Xe8K_Zpr_ZbTzt7M6Ch4alllACLcBGAs/s1600/sport_tv4.png" tvg-country="pt", SPORT TV 4 FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7025.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SPORT TV 4 HD" logo="https://3.bp.blogspot.com/-TdWBhhGSjqw/WjGVEAbohDI/AAAAAAAABzo/ne2gnxX3Xe8K_Zpr_ZbTzt7M6Ch4alllACLcBGAs/s1600/sport_tv4.png" tvg-country="pt", SPORT TV 4 HD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7024.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SPORT TV 4 SD" logo="https://3.bp.blogspot.com/-TdWBhhGSjqw/WjGVEAbohDI/AAAAAAAABzo/ne2gnxX3Xe8K_Zpr_ZbTzt7M6Ch4alllACLcBGAs/s1600/sport_tv4.png" tvg-country="pt", SPORT TV 4 SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7023.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SPORT TV 5 FHD" logo="https://2.bp.blogspot.com/-Z_wCnr5wPNg/WjQnb17ErhI/AAAAAAAAB3Q/yX2LgfEWRDIHJmBykYEtqm-MsX7Ab2vLACLcBGAs/s1600/sport_tv5.png" tvg-country="pt", SPORT TV 5 FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7022.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SPORT TV 5 HD" logo="https://2.bp.blogspot.com/-Z_wCnr5wPNg/WjQnb17ErhI/AAAAAAAAB3Q/yX2LgfEWRDIHJmBykYEtqm-MsX7Ab2vLACLcBGAs/s1600/sport_tv5.png" tvg-country="pt", SPORT TV 5 HD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7021.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SPORT TV 5 SD" logo="https://2.bp.blogspot.com/-Z_wCnr5wPNg/WjQnb17ErhI/AAAAAAAAB3Q/yX2LgfEWRDIHJmBykYEtqm-MsX7Ab2vLACLcBGAs/s1600/sport_tv5.png" tvg-country="pt", SPORT TV 5 SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7020.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SPORT TV+ FHD" logo="https://4.bp.blogspot.com/-6vYbHElF8V0/WjQ5uZ6fAKI/AAAAAAAAB3g/jRFS2lZA0KgIKQk3kJIRDd6mfvAueSJGACLcBGAs/s1600/Sport_tvmais.png" tvg-country="pt", SPORT TV+ FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7037.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SPORT TV+ HD" logo="https://4.bp.blogspot.com/-6vYbHElF8V0/WjQ5uZ6fAKI/AAAAAAAAB3g/jRFS2lZA0KgIKQk3kJIRDd6mfvAueSJGACLcBGAs/s1600/Sport_tvmais.png" tvg-country="pt", SPORT TV+ HD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7036.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SPORT TV+ SD" logo="https://4.bp.blogspot.com/-6vYbHElF8V0/WjQ5uZ6fAKI/AAAAAAAAB3g/jRFS2lZA0KgIKQk3kJIRDd6mfvAueSJGACLcBGAs/s1600/Sport_tvmais.png" tvg-country="pt", SPORT TV+ SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7035.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SPORTING TV FHD" logo="https://4.bp.blogspot.com/-TypYnPbsXeg/WjGVFZUkKII/AAAAAAAABzs/ipY2H1jjUWMIbDE_IotgzEzXSGTg9MvvACLcBGAs/s1600/sportingtv.png" tvg-country="pt", SPORTING TV FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7019.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SPORTING TV HD" logo="https://4.bp.blogspot.com/-TypYnPbsXeg/WjGVFZUkKII/AAAAAAAABzs/ipY2H1jjUWMIbDE_IotgzEzXSGTg9MvvACLcBGAs/s1600/sportingtv.png" tvg-country="pt", SPORTING TV HD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7018.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SPORTING TV SD" logo="https://4.bp.blogspot.com/-TypYnPbsXeg/WjGVFZUkKII/AAAAAAAABzs/ipY2H1jjUWMIbDE_IotgzEzXSGTg9MvvACLcBGAs/s1600/sportingtv.png" tvg-country="pt", SPORTING TV SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7017.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SYFY FHD" logo="https://3.bp.blogspot.com/-ueCxtO_Sh6o/WjGVF6zK0rI/AAAAAAAABz0/BC6wgpU11Zgm1WjubVdKIv9kIea1JbCVQCLcBGAs/s1600/syfy.png" tvg-country="pt", SYFY FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7016.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SYFY HD" logo="https://3.bp.blogspot.com/-ueCxtO_Sh6o/WjGVF6zK0rI/AAAAAAAABz0/BC6wgpU11Zgm1WjubVdKIv9kIea1JbCVQCLcBGAs/s1600/syfy.png" tvg-country="pt", SYFY HD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7015.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:SYFY SD" logo="https://3.bp.blogspot.com/-ueCxtO_Sh6o/WjGVF6zK0rI/AAAAAAAABz0/BC6wgpU11Zgm1WjubVdKIv9kIea1JbCVQCLcBGAs/s1600/syfy.png" tvg-country="pt", SYFY SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7014.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:TLC SD" logo="https://3.bp.blogspot.com/-ma4hhp1zHDI/WjGVFxugmJI/AAAAAAAABz4/9GVZzQWkyIoFzlKU9jTT4b_-R2wvtXc2ACLcBGAs/s1600/tlc.png" tvg-country="pt", TLC SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7170.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:TOROS TV SD" logo="https://2.bp.blogspot.com/-Ouz7PBlEOL8/WjGVGvS66pI/AAAAAAAABz8/r5J_L-XulLkGpA7eUnqHb_WIiR2kwNSJACLcBGAs/s1600/toros.png" tvg-country="pt", TOROS TV SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7089.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:TV SERIES FHD" logo="https://3.bp.blogspot.com/-iupb9ImB50w/WjGVI420-mI/AAAAAAAAB0g/rmtenlgCKNQfc-FUwDOaJ4zn8DS3vk3aACLcBGAs/s1600/tvseries.png" tvg-country="pt", TV SERIES FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7006.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:TV SERIES SD" logo="https://3.bp.blogspot.com/-iupb9ImB50w/WjGVI420-mI/AAAAAAAAB0g/rmtenlgCKNQfc-FUwDOaJ4zn8DS3vk3aACLcBGAs/s1600/tvseries.png" tvg-country="pt", TV SERIES SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7005.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:TVCINE 1 FHD" logo="https://2.bp.blogspot.com/-d8c3osFUj1g/WjGVHIY1p-I/AAAAAAAAB0E/xCOmMDfTasE8SC947UfmKB7KVjaFHVRKgCLcBGAs/s1600/tvc1.png" tvg-country="pt", TVCINE 1 FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/3131.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:TVCINE 1 HD" logo="https://2.bp.blogspot.com/-d8c3osFUj1g/WjGVHIY1p-I/AAAAAAAAB0E/xCOmMDfTasE8SC947UfmKB7KVjaFHVRKgCLcBGAs/s1600/tvc1.png" tvg-country="pt", TVCINE 1 HD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7135.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:TVCINE 1 SD" logo="https://2.bp.blogspot.com/-d8c3osFUj1g/WjGVHIY1p-I/AAAAAAAAB0E/xCOmMDfTasE8SC947UfmKB7KVjaFHVRKgCLcBGAs/s1600/tvc1.png" tvg-country="pt", TVCINE 1 SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7013.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:TVCINE 2 FHD" logo="https://1.bp.blogspot.com/-7JfK7PhgLtA/WjGVHGjdIXI/AAAAAAAAB0I/kJ4zrG42lv0yZaVGIehb-nMTD9LNrFyowCLcBGAs/s1600/tvc2.png" tvg-country="pt", TVCINE 2 FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7012.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:TVCINE 2 HD" logo="https://1.bp.blogspot.com/-7JfK7PhgLtA/WjGVHGjdIXI/AAAAAAAAB0I/kJ4zrG42lv0yZaVGIehb-nMTD9LNrFyowCLcBGAs/s1600/tvc2.png" tvg-country="pt", TVCINE 2 HD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7354.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:TVCINE 2 SD" logo="https://1.bp.blogspot.com/-7JfK7PhgLtA/WjGVHGjdIXI/AAAAAAAAB0I/kJ4zrG42lv0yZaVGIehb-nMTD9LNrFyowCLcBGAs/s1600/tvc2.png" tvg-country="pt", TVCINE 2 SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7011.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:TVCINE 3 FHD" logo="https://3.bp.blogspot.com/-6t4izMf0wYc/WjGVHu0VQ_I/AAAAAAAAB0Q/3X4AyXb6ROItN3MtdKfrgJ0SjUyjfpTNQCLcBGAs/s1600/tvc3.png" tvg-country="pt", TVCINE 3 FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7010.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:TVCINE 3 HD" logo="https://3.bp.blogspot.com/-6t4izMf0wYc/WjGVHu0VQ_I/AAAAAAAAB0Q/3X4AyXb6ROItN3MtdKfrgJ0SjUyjfpTNQCLcBGAs/s1600/tvc3.png" tvg-country="pt", TVCINE 3 HD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7353.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:TVCINE 3 SD" logo="https://3.bp.blogspot.com/-6t4izMf0wYc/WjGVHu0VQ_I/AAAAAAAAB0Q/3X4AyXb6ROItN3MtdKfrgJ0SjUyjfpTNQCLcBGAs/s1600/tvc3.png" tvg-country="pt", TVCINE 3 SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7009.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:TVCINE 4 FHD" logo="https://2.bp.blogspot.com/-gvPYqOtYhvY/WjGVIAzjimI/AAAAAAAAB0M/RvBlzI8HaFcbvtijoc9Rp-orDtqDrKhugCLcBGAs/s1600/tvc4.png" tvg-country="pt", TVCINE 4 FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7008.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:TVCINE 4 SD" logo="https://2.bp.blogspot.com/-gvPYqOtYhvY/WjGVIAzjimI/AAAAAAAAB0M/RvBlzI8HaFcbvtijoc9Rp-orDtqDrKhugCLcBGAs/s1600/tvc4.png" tvg-country="pt", TVCINE 4 SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7007.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:TVI FHD" logo="https://2.bp.blogspot.com/-USbi8UXZfdg/WjGVIeFc5lI/AAAAAAAAB0Y/7906PewTsUoUk3_epzJZBr8fi5NwHvMSgCLcBGAs/s1600/tvi.png" tvg-country="pt", TVI FHD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7001.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:TVI 24 SD" logo="https://2.bp.blogspot.com/-fOgPpCLm2gk/WjGVIc1sr0I/AAAAAAAAB0U/M-vr93alwmceE_1rKC2hPoN1DTJgInm7gCLcBGAs/s1600/tvi24.png" tvg-country="pt", TVI 24 SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7003.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:TVI FICCAO SD" logo="https://1.bp.blogspot.com/-tF9IRvLOW2I/WjGVIS5--pI/AAAAAAAAB0c/WsEQu0L0u9EwVmReRJ9peqCNYPH12BSpQCLcBGAs/s1600/tvificcao.png" tvg-country="pt", TVI FICCAO SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7002.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:TVI REALITY SD" logo="https://1.bp.blogspot.com/-Mo8HCBx_CqI/WjWO0IWhrjI/AAAAAAAAB3w/xDHVaJV_6-cC1fzGV8lEE1c1T2mcy2SbQCLcBGAs/s1600/tvireality.png" tvg-country="pt", TVI REALITY SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7000.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:TRAVEL CHANNEL SD" logo="https://4.bp.blogspot.com/-E7aT7duxIlk/WjGVGwiP7cI/AAAAAAAAB0A/HUiMwQnJ2GoCmbuGM4HEQxOFUE4RLpcDgCLcBGAs/s320/travelchannel.png" tvg-country="pt", TRAVEL CHANNEL SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7349.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:VH1 SD" logo="https://3.bp.blogspot.com/-9b9uGQDHAo0/WjWWf68mGrI/AAAAAAAAB4A/vAUrKA0LNSkW9d5WSKLWqXdgpsutM5DdwCLcBGAs/s1600/vh1hd.png" tvg-country="pt", VH1 SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7172.ts
-#EXTINF:0 type="stream" channelId="-1" name="PT:VH1 CLASSIC SD" logo="https://1.bp.blogspot.com/-tT66gxG4I30/WviBFeWkh0I/AAAAAAAACGA/GIfcYkRzYmEcH_VWCoaunMkQ8Xkt1ogfACLcBGAs/s1600/vh1classic.png" tvg-country="pt", VH1 CLASSIC SD
-http://srv.elitehdbr.vip:8880/live/Delbempaulo/hOE2bn1W5G/7173.ts
+#EXTINF:-1,PT: TV CINE TOP
+http://akamaizedx.com:80/ademir2021/ademir2021/10053046
+#EXTINF:-1,PT: TV CINE TOP HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053045
+#EXTINF:-1,PT: TV CINE TOP FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053044
+#EXTINF:-1,PT: TV CINE EDITION HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053042
+#EXTINF:-1,PT: TV CINE EDITION FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053041
+#EXTINF:-1,PT: TV CINE EMOTION
+http://akamaizedx.com:80/ademir2021/ademir2021/10053040
+#EXTINF:-1,PT: TV CINE EMOTION HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053039
+#EXTINF:-1,PT: TV CINE EMOTION FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053038
+#EXTINF:-1,PT: TV CINE ACTION HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053036
+#EXTINF:-1,PT: TV CINE ACTION FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053035
+#EXTINF:-1,PT: NOS STUDIOS
+http://akamaizedx.com:80/ademir2021/ademir2021/10053034
+#EXTINF:-1,PT: NOS STUDIO HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053033
+#EXTINF:-1,PT: NOS STUDIO FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053032
+#EXTINF:-1,PT: AMC
+http://akamaizedx.com:80/ademir2021/ademir2021/10053031
+#EXTINF:-1,PT: AMC HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053030
+#EXTINF:-1,PT: HOLLYWOOD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053028
+#EXTINF:-1,PT: HOLLYWOOD HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053027
+#EXTINF:-1,PT: HOLLYWOOD FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053026
+#EXTINF:-1,PT: CINEMUNDO
+http://akamaizedx.com:80/ademir2021/ademir2021/10053025
+#EXTINF:-1,PT: SYFY FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053022
+#EXTINF:-1,PT: AXN
+http://akamaizedx.com:80/ademir2021/ademir2021/10053021
+#EXTINF:-1,PT: AXN HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053020
+#EXTINF:-1,PT: AXN FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053019
+#EXTINF:-1,PT: AXN WHITE
+http://akamaizedx.com:80/ademir2021/ademir2021/10053018
+#EXTINF:-1,PT: AXN WHITE HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053017
+#EXTINF:-1,PT: AXN WHITE FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053016
+#EXTINF:-1,PT: AXN MOVIES
+http://akamaizedx.com:80/ademir2021/ademir2021/10053015
+#EXTINF:-1,PT: AXN MOVIES HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053014
+#EXTINF:-1,PT: AXN MOVIES FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053013
+#EXTINF:-1,PT: FOX
+http://akamaizedx.com:80/ademir2021/ademir2021/10053012
+#EXTINF:-1,PT: FOX HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053011
+#EXTINF:-1,PT: FOX FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053010
+#EXTINF:-1,PT: FOX MOVIES
+http://akamaizedx.com:80/ademir2021/ademir2021/10053009
+#EXTINF:-1,PT: FOX MOVIES FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053008
+#EXTINF:-1,PT: FOX LIFE
+http://akamaizedx.com:80/ademir2021/ademir2021/10053007
+#EXTINF:-1,PT: FOX LIFE HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053006
+#EXTINF:-1,PT: FOX CRIME
+http://akamaizedx.com:80/ademir2021/ademir2021/10053005
+#EXTINF:-1,PT: FOX CRIME HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053004
+#EXTINF:-1,PT: FOX CRIME FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10053003
+#EXTINF:-1,PT: FOX COMEDY
+http://akamaizedx.com:80/ademir2021/ademir2021/10053002
+#EXTINF:-1,PT: CANAL Q
+http://akamaizedx.com:80/ademir2021/ademir2021/10053000
+#EXTINF:-1,**************DESPORTO******************
+http://akamaizedx.com:80/ademir2021/ademir2021/10052999
+#EXTINF:-1,PT: CANAL 11
+http://akamaizedx.com:80/ademir2021/ademir2021/10052998
+#EXTINF:-1,PT: CANAL 11 HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052997
+#EXTINF:-1,PT: CANAL 11 FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052996
+#EXTINF:-1,PT: SPORT TV +
+http://akamaizedx.com:80/ademir2021/ademir2021/10052995
+#EXTINF:-1,PT: SPORT TV + FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052994
+#EXTINF:-1,PT: SPORT TV 1
+http://akamaizedx.com:80/ademir2021/ademir2021/10052993
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052992
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052991
+#EXTINF:-1,PT: SPORT TV 2
+http://akamaizedx.com:80/ademir2021/ademir2021/10052990
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052989
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052988
+#EXTINF:-1,PT: SPORT TV 3
+http://akamaizedx.com:80/ademir2021/ademir2021/10052987
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052986
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052985
+#EXTINF:-1,PT: SPORT TV 4
+http://akamaizedx.com:80/ademir2021/ademir2021/10052984
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052983
+#EXTINF:-1,PT: SPORT TV 5
+http://akamaizedx.com:80/ademir2021/ademir2021/10052982
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052981
+#EXTINF:-1,PT: SPORT TV NBA FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052980
+#EXTINF:-1,PT: ELEVEN SPORT 1 LOW
+http://akamaizedx.com:80/ademir2021/ademir2021/10052979
+#EXTINF:-1,PT: ELEVEN SPORT 1 HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052978
+#EXTINF:-1,PT: ELEVEN SPORT 1  FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052977
+#EXTINF:-1,PT: ELEVEN SPORT 2 LOW
+http://akamaizedx.com:80/ademir2021/ademir2021/10052976
+#EXTINF:-1,PT: ELEVEN SPORT 2 HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052975
+#EXTINF:-1,PT: ELEVEN SPORT 2  FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052974
+#EXTINF:-1,PT: ELEVEN SPORT 3 LOW
+http://akamaizedx.com:80/ademir2021/ademir2021/10052973
+#EXTINF:-1,PT: ELEVEN SPORT 3 HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052972
+#EXTINF:-1,PT: ELEVEN SPORT  3 FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052971
+#EXTINF:-1,PT: ELEVEN SPORT 4 HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052969
+#EXTINF:-1,PT: ELEVEN SPORT 4 FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052968
+#EXTINF:-1,PT: ELEVEN SPORT 5 HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052966
+#EXTINF:-1,PT: ELEVEN SPORT 5 FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052965
+#EXTINF:-1,PT: ELEVEN SPORT 6 HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052963
+#EXTINF:-1,PT: ELEVEN SPORT 6 FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052962
+#EXTINF:-1,PT: BTV 1
+http://akamaizedx.com:80/ademir2021/ademir2021/10052961
+#EXTINF:-1,PT: BTV 1 HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052960
+#EXTINF:-1,PT: BTV 1 FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052959
+#EXTINF:-1,PT: SPORTING TV
+http://akamaizedx.com:80/ademir2021/ademir2021/10052958
+#EXTINF:-1,PT: SPORTING TV FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052957
+#EXTINF:-1,PT: A BOLA TV
+http://akamaizedx.com:80/ademir2021/ademir2021/10052956
+#EXTINF:-1,PT: REAL MADRID
+http://akamaizedx.com:80/ademir2021/ademir2021/10052955
+#EXTINF:-1,PT: EUROSPORT 1
+http://akamaizedx.com:80/ademir2021/ademir2021/10052954
+#EXTINF:-1,PT: EUROSPORT 1 FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052953
+#EXTINF:-1,PT: EUROSPORT 2
+http://akamaizedx.com:80/ademir2021/ademir2021/10052952
+#EXTINF:-1,PT: PFC
+http://akamaizedx.com:80/ademir2021/ademir2021/10052951
+#EXTINF:-1,PT: NBA TV
+http://akamaizedx.com:80/ademir2021/ademir2021/10052950
+#EXTINF:-1,PT: MOTORVISION
+http://akamaizedx.com:80/ademir2021/ademir2021/10052949
+#EXTINF:-1,PT: CACA E PESCA
+http://akamaizedx.com:80/ademir2021/ademir2021/10052946
+#EXTINF:-1,PT: CACAVISION
+http://akamaizedx.com:80/ademir2021/ademir2021/10052945
+#EXTINF:-1,PT: TOROS TV
+http://akamaizedx.com:80/ademir2021/ademir2021/10052944
+#EXTINF:-1,************* CULTURA ************
+http://akamaizedx.com:80/ademir2021/ademir2021/10052943
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052942
+#EXTINF:-1,PT: NAT GEO WILD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052941
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+http://akamaizedx.com:80/ademir2021/ademir2021/10052940
+#EXTINF:-1,PT: DISCOVERY CHANNEL FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052939
+#EXTINF:-1,PT: ID INVESTIGATION DISCOVERY HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052938
+#EXTINF:-1,PT: ID INVESTIGATION DISCOVERY FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052937
+#EXTINF:-1,PT: TRAVEL CHANNEL FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052936
+#EXTINF:-1,PT: CRIME   INVESTIGATION
+http://akamaizedx.com:80/ademir2021/ademir2021/10052935
+#EXTINF:-1,PT: ODISSEIA
+http://akamaizedx.com:80/ademir2021/ademir2021/10052934
+#EXTINF:-1,PT: ODISSEIA FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052933
+#EXTINF:-1,PT: BLAZE TV
+http://akamaizedx.com:80/ademir2021/ademir2021/10052932
+#EXTINF:-1,PT: BLAZE TV FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052931
+#EXTINF:-1,PT: HISTORIA
+http://akamaizedx.com:80/ademir2021/ademir2021/10052930
+#EXTINF:-1,PT: TLC
+http://akamaizedx.com:80/ademir2021/ademir2021/10052925
+#EXTINF:-1,************* INFANTIL ************
+http://akamaizedx.com:80/ademir2021/ademir2021/10052923
+#EXTINF:-1,PT: SIC K
+http://akamaizedx.com:80/ademir2021/ademir2021/10052922
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://akamaizedx.com:80/ademir2021/ademir2021/10052921
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://akamaizedx.com:80/ademir2021/ademir2021/10052920
+#EXTINF:-1,PT: CARTOON NETWORK
+http://akamaizedx.com:80/ademir2021/ademir2021/10052919
+#EXTINF:-1,PT: CANAL PANDA
+http://akamaizedx.com:80/ademir2021/ademir2021/10052918
+#EXTINF:-1,PT: BIGGS
+http://akamaizedx.com:80/ademir2021/ademir2021/10052917
+#EXTINF:-1,PT: NICKELODEON
+http://akamaizedx.com:80/ademir2021/ademir2021/10052916
+#EXTINF:-1,PT: NICK JR.
+http://akamaizedx.com:80/ademir2021/ademir2021/10052915
+#EXTINF:-1,PT: BABY TV
+http://akamaizedx.com:80/ademir2021/ademir2021/10052914
+#EXTINF:-1,PT : DARTACAO ( EX)
+http://akamaizedx.com:80/ademir2021/ademir2021/10052911
+#EXTINF:-1,PT: BOOBA (EX)
+http://akamaizedx.com:80/ademir2021/ademir2021/10052906
+#EXTINF:-1,PT: CINEMA KIDS (EX)
+http://akamaizedx.com:80/ademir2021/ademir2021/10052905
+#EXTINF:-1,PT: MIRACULOUS LADY BUG (EX)
+http://akamaizedx.com:80/ademir2021/ademir2021/10052904
+#EXTINF:-1,PT: BARBIE (EX)
+http://akamaizedx.com:80/ademir2021/ademir2021/10052903
+#EXTINF:-1,PT: FOX KIDS (EX)
+http://akamaizedx.com:80/ademir2021/ademir2021/10052902
+#EXTINF:-1,PT: WB KIDS (EX)
+http://akamaizedx.com:80/ademir2021/ademir2021/10052901
+#EXTINF:-1,PT: TOM AND FRIENDS (EX)
+http://akamaizedx.com:80/ademir2021/ademir2021/10052900
+#EXTINF:-1,PT:  TOM HEROES (EX)
+http://akamaizedx.com:80/ademir2021/ademir2021/10052899
+#EXTINF:-1,************* MUSICA ************
+http://akamaizedx.com:80/ademir2021/ademir2021/10052898
+#EXTINF:-1,PT: VH1
+http://akamaizedx.com:80/ademir2021/ademir2021/10052897
+#EXTINF:-1,PT: MTV PORTUGAL
+http://akamaizedx.com:80/ademir2021/ademir2021/10052896
+#EXTINF:-1,PT: TRACE URBAN
+http://akamaizedx.com:80/ademir2021/ademir2021/10052895
+#EXTINF:-1,PT: AFRO MUSIC
+http://akamaizedx.com:80/ademir2021/ademir2021/10052894
+#EXTINF:-1,PT: TRACE TOCA
+http://akamaizedx.com:80/ademir2021/ademir2021/10052893
+#EXTINF:-1,PT: MCM POP
+http://akamaizedx.com:80/ademir2021/ademir2021/10052892
+#EXTINF:-1,PT: MEZZO
+http://akamaizedx.com:80/ademir2021/ademir2021/10052891
+#EXTINF:-1,***********INTERNACIONAIS**************
+http://akamaizedx.com:80/ademir2021/ademir2021/10052890
+#EXTINF:-1,PT: RTP INTERNACIONAL
+http://akamaizedx.com:80/ademir2021/ademir2021/10052889
+#EXTINF:-1,PT: TPA INTERNACIONAL
+http://akamaizedx.com:80/ademir2021/ademir2021/10052888
+#EXTINF:-1,PT: CANCAO NOVA
+http://akamaizedx.com:80/ademir2021/ademir2021/10052887
+#EXTINF:-1,PT: BBC WORLD NEWS
+http://akamaizedx.com:80/ademir2021/ademir2021/10052886
+#EXTINF:-1,PT: AR TV
+http://akamaizedx.com:80/ademir2021/ademir2021/10052885
+#EXTINF:-1,PT: CNN
+http://akamaizedx.com:80/ademir2021/ademir2021/10052884
+#EXTINF:-1,PT: TV RECORD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052883
+#EXTINF:-1,PT: ZAP VIVA FHD
+http://akamaizedx.com:80/ademir2021/ademir2021/10052882
+#EXTINF:-1,PT: KURIAKOS
+http://akamaizedx.com:80/ademir2021/ademir2021/10052881
+#EXTINF:-1,PT: FATIMA TV
+http://akamaizedx.com:80/ademir2021/ademir2021/10052879
