@@ -1,292 +1,424 @@
 #EXTM3U
 
-#EXTINF:-1,PT: TV CINE TOP
-http://akamaizedx.com:80/ademir2021/ademir2021/10053046
-#EXTINF:-1,PT: TV CINE TOP HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053045
-#EXTINF:-1,PT: TV CINE TOP FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053044
-#EXTINF:-1,PT: TV CINE EDITION HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053042
-#EXTINF:-1,PT: TV CINE EDITION FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053041
-#EXTINF:-1,PT: TV CINE EMOTION
-http://akamaizedx.com:80/ademir2021/ademir2021/10053040
-#EXTINF:-1,PT: TV CINE EMOTION HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053039
-#EXTINF:-1,PT: TV CINE EMOTION FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053038
-#EXTINF:-1,PT: TV CINE ACTION HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053036
-#EXTINF:-1,PT: TV CINE ACTION FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053035
-#EXTINF:-1,PT: NOS STUDIOS
-http://akamaizedx.com:80/ademir2021/ademir2021/10053034
-#EXTINF:-1,PT: NOS STUDIO HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053033
-#EXTINF:-1,PT: NOS STUDIO FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053032
-#EXTINF:-1,PT: AMC
-http://akamaizedx.com:80/ademir2021/ademir2021/10053031
-#EXTINF:-1,PT: AMC HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053030
-#EXTINF:-1,PT: HOLLYWOOD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053028
-#EXTINF:-1,PT: HOLLYWOOD HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053027
-#EXTINF:-1,PT: HOLLYWOOD FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053026
-#EXTINF:-1,PT: CINEMUNDO
-http://akamaizedx.com:80/ademir2021/ademir2021/10053025
-#EXTINF:-1,PT: SYFY FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053022
-#EXTINF:-1,PT: AXN
-http://akamaizedx.com:80/ademir2021/ademir2021/10053021
-#EXTINF:-1,PT: AXN HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053020
-#EXTINF:-1,PT: AXN FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053019
-#EXTINF:-1,PT: AXN WHITE
-http://akamaizedx.com:80/ademir2021/ademir2021/10053018
-#EXTINF:-1,PT: AXN WHITE HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053017
-#EXTINF:-1,PT: AXN WHITE FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053016
-#EXTINF:-1,PT: AXN MOVIES
-http://akamaizedx.com:80/ademir2021/ademir2021/10053015
-#EXTINF:-1,PT: AXN MOVIES HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053014
-#EXTINF:-1,PT: AXN MOVIES FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053013
-#EXTINF:-1,PT: FOX
-http://akamaizedx.com:80/ademir2021/ademir2021/10053012
-#EXTINF:-1,PT: FOX HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053011
-#EXTINF:-1,PT: FOX FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053010
-#EXTINF:-1,PT: FOX MOVIES
-http://akamaizedx.com:80/ademir2021/ademir2021/10053009
-#EXTINF:-1,PT: FOX MOVIES FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053008
-#EXTINF:-1,PT: FOX LIFE
-http://akamaizedx.com:80/ademir2021/ademir2021/10053007
-#EXTINF:-1,PT: FOX LIFE HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053006
-#EXTINF:-1,PT: FOX CRIME
-http://akamaizedx.com:80/ademir2021/ademir2021/10053005
-#EXTINF:-1,PT: FOX CRIME HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053004
-#EXTINF:-1,PT: FOX CRIME FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10053003
-#EXTINF:-1,PT: FOX COMEDY
-http://akamaizedx.com:80/ademir2021/ademir2021/10053002
-#EXTINF:-1,PT: CANAL Q
-http://akamaizedx.com:80/ademir2021/ademir2021/10053000
-#EXTINF:-1,**************DESPORTO******************
-http://akamaizedx.com:80/ademir2021/ademir2021/10052999
-#EXTINF:-1,PT: CANAL 11
-http://akamaizedx.com:80/ademir2021/ademir2021/10052998
-#EXTINF:-1,PT: CANAL 11 HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052997
-#EXTINF:-1,PT: CANAL 11 FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052996
-#EXTINF:-1,PT: SPORT TV +
-http://akamaizedx.com:80/ademir2021/ademir2021/10052995
-#EXTINF:-1,PT: SPORT TV + FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052994
-#EXTINF:-1,PT: SPORT TV 1
-http://akamaizedx.com:80/ademir2021/ademir2021/10052993
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052992
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052991
-#EXTINF:-1,PT: SPORT TV 2
-http://akamaizedx.com:80/ademir2021/ademir2021/10052990
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052989
-#EXTINF:-1,PT: SPORT TV 2 FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052988
-#EXTINF:-1,PT: SPORT TV 3
-http://akamaizedx.com:80/ademir2021/ademir2021/10052987
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052986
-#EXTINF:-1,PT: SPORT TV 3 FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052985
-#EXTINF:-1,PT: SPORT TV 4
-http://akamaizedx.com:80/ademir2021/ademir2021/10052984
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052983
-#EXTINF:-1,PT: SPORT TV 5
-http://akamaizedx.com:80/ademir2021/ademir2021/10052982
-#EXTINF:-1,PT: SPORT TV 5 FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052981
-#EXTINF:-1,PT: SPORT TV NBA FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052980
-#EXTINF:-1,PT: ELEVEN SPORT 1 LOW
-http://akamaizedx.com:80/ademir2021/ademir2021/10052979
-#EXTINF:-1,PT: ELEVEN SPORT 1 HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052978
-#EXTINF:-1,PT: ELEVEN SPORT 1  FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052977
-#EXTINF:-1,PT: ELEVEN SPORT 2 LOW
-http://akamaizedx.com:80/ademir2021/ademir2021/10052976
-#EXTINF:-1,PT: ELEVEN SPORT 2 HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052975
-#EXTINF:-1,PT: ELEVEN SPORT 2  FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052974
-#EXTINF:-1,PT: ELEVEN SPORT 3 LOW
-http://akamaizedx.com:80/ademir2021/ademir2021/10052973
-#EXTINF:-1,PT: ELEVEN SPORT 3 HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052972
-#EXTINF:-1,PT: ELEVEN SPORT  3 FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052971
-#EXTINF:-1,PT: ELEVEN SPORT 4 HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052969
-#EXTINF:-1,PT: ELEVEN SPORT 4 FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052968
-#EXTINF:-1,PT: ELEVEN SPORT 5 HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052966
-#EXTINF:-1,PT: ELEVEN SPORT 5 FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052965
-#EXTINF:-1,PT: ELEVEN SPORT 6 HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052963
-#EXTINF:-1,PT: ELEVEN SPORT 6 FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052962
-#EXTINF:-1,PT: BTV 1
-http://akamaizedx.com:80/ademir2021/ademir2021/10052961
-#EXTINF:-1,PT: BTV 1 HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052960
-#EXTINF:-1,PT: BTV 1 FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052959
-#EXTINF:-1,PT: SPORTING TV
-http://akamaizedx.com:80/ademir2021/ademir2021/10052958
-#EXTINF:-1,PT: SPORTING TV FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052957
-#EXTINF:-1,PT: A BOLA TV
-http://akamaizedx.com:80/ademir2021/ademir2021/10052956
-#EXTINF:-1,PT: REAL MADRID
-http://akamaizedx.com:80/ademir2021/ademir2021/10052955
-#EXTINF:-1,PT: EUROSPORT 1
-http://akamaizedx.com:80/ademir2021/ademir2021/10052954
-#EXTINF:-1,PT: EUROSPORT 1 FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052953
-#EXTINF:-1,PT: EUROSPORT 2
-http://akamaizedx.com:80/ademir2021/ademir2021/10052952
-#EXTINF:-1,PT: PFC
-http://akamaizedx.com:80/ademir2021/ademir2021/10052951
-#EXTINF:-1,PT: NBA TV
-http://akamaizedx.com:80/ademir2021/ademir2021/10052950
-#EXTINF:-1,PT: MOTORVISION
-http://akamaizedx.com:80/ademir2021/ademir2021/10052949
-#EXTINF:-1,PT: CACA E PESCA
-http://akamaizedx.com:80/ademir2021/ademir2021/10052946
-#EXTINF:-1,PT: CACAVISION
-http://akamaizedx.com:80/ademir2021/ademir2021/10052945
-#EXTINF:-1,PT: TOROS TV
-http://akamaizedx.com:80/ademir2021/ademir2021/10052944
-#EXTINF:-1,************* CULTURA ************
-http://akamaizedx.com:80/ademir2021/ademir2021/10052943
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052942
-#EXTINF:-1,PT: NAT GEO WILD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052941
-#EXTINF:-1,PT: DISCOVERY CHANNEL
-http://akamaizedx.com:80/ademir2021/ademir2021/10052940
-#EXTINF:-1,PT: DISCOVERY CHANNEL FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052939
-#EXTINF:-1,PT: ID INVESTIGATION DISCOVERY HD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052938
-#EXTINF:-1,PT: ID INVESTIGATION DISCOVERY FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052937
-#EXTINF:-1,PT: TRAVEL CHANNEL FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052936
-#EXTINF:-1,PT: CRIME   INVESTIGATION
-http://akamaizedx.com:80/ademir2021/ademir2021/10052935
-#EXTINF:-1,PT: ODISSEIA
-http://akamaizedx.com:80/ademir2021/ademir2021/10052934
-#EXTINF:-1,PT: ODISSEIA FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052933
-#EXTINF:-1,PT: BLAZE TV
-http://akamaizedx.com:80/ademir2021/ademir2021/10052932
-#EXTINF:-1,PT: BLAZE TV FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052931
-#EXTINF:-1,PT: HISTORIA
-http://akamaizedx.com:80/ademir2021/ademir2021/10052930
-#EXTINF:-1,PT: TLC
-http://akamaizedx.com:80/ademir2021/ademir2021/10052925
-#EXTINF:-1,************* INFANTIL ************
-http://akamaizedx.com:80/ademir2021/ademir2021/10052923
-#EXTINF:-1,PT: SIC K
-http://akamaizedx.com:80/ademir2021/ademir2021/10052922
-#EXTINF:-1,PT: DISNEY JUNIOR
-http://akamaizedx.com:80/ademir2021/ademir2021/10052921
-#EXTINF:-1,PT: DISNEY CHANNEL
-http://akamaizedx.com:80/ademir2021/ademir2021/10052920
-#EXTINF:-1,PT: CARTOON NETWORK
-http://akamaizedx.com:80/ademir2021/ademir2021/10052919
-#EXTINF:-1,PT: CANAL PANDA
-http://akamaizedx.com:80/ademir2021/ademir2021/10052918
-#EXTINF:-1,PT: BIGGS
-http://akamaizedx.com:80/ademir2021/ademir2021/10052917
-#EXTINF:-1,PT: NICKELODEON
-http://akamaizedx.com:80/ademir2021/ademir2021/10052916
-#EXTINF:-1,PT: NICK JR.
-http://akamaizedx.com:80/ademir2021/ademir2021/10052915
-#EXTINF:-1,PT: BABY TV
-http://akamaizedx.com:80/ademir2021/ademir2021/10052914
-#EXTINF:-1,PT : DARTACAO ( EX)
-http://akamaizedx.com:80/ademir2021/ademir2021/10052911
-#EXTINF:-1,PT: BOOBA (EX)
-http://akamaizedx.com:80/ademir2021/ademir2021/10052906
-#EXTINF:-1,PT: CINEMA KIDS (EX)
-http://akamaizedx.com:80/ademir2021/ademir2021/10052905
-#EXTINF:-1,PT: MIRACULOUS LADY BUG (EX)
-http://akamaizedx.com:80/ademir2021/ademir2021/10052904
-#EXTINF:-1,PT: BARBIE (EX)
-http://akamaizedx.com:80/ademir2021/ademir2021/10052903
-#EXTINF:-1,PT: FOX KIDS (EX)
-http://akamaizedx.com:80/ademir2021/ademir2021/10052902
-#EXTINF:-1,PT: WB KIDS (EX)
-http://akamaizedx.com:80/ademir2021/ademir2021/10052901
-#EXTINF:-1,PT: TOM AND FRIENDS (EX)
-http://akamaizedx.com:80/ademir2021/ademir2021/10052900
-#EXTINF:-1,PT:  TOM HEROES (EX)
-http://akamaizedx.com:80/ademir2021/ademir2021/10052899
-#EXTINF:-1,************* MUSICA ************
-http://akamaizedx.com:80/ademir2021/ademir2021/10052898
-#EXTINF:-1,PT: VH1
-http://akamaizedx.com:80/ademir2021/ademir2021/10052897
-#EXTINF:-1,PT: MTV PORTUGAL
-http://akamaizedx.com:80/ademir2021/ademir2021/10052896
-#EXTINF:-1,PT: TRACE URBAN
-http://akamaizedx.com:80/ademir2021/ademir2021/10052895
-#EXTINF:-1,PT: AFRO MUSIC
-http://akamaizedx.com:80/ademir2021/ademir2021/10052894
-#EXTINF:-1,PT: TRACE TOCA
-http://akamaizedx.com:80/ademir2021/ademir2021/10052893
-#EXTINF:-1,PT: MCM POP
-http://akamaizedx.com:80/ademir2021/ademir2021/10052892
-#EXTINF:-1,PT: MEZZO
-http://akamaizedx.com:80/ademir2021/ademir2021/10052891
-#EXTINF:-1,***********INTERNACIONAIS**************
-http://akamaizedx.com:80/ademir2021/ademir2021/10052890
-#EXTINF:-1,PT: RTP INTERNACIONAL
-http://akamaizedx.com:80/ademir2021/ademir2021/10052889
-#EXTINF:-1,PT: TPA INTERNACIONAL
-http://akamaizedx.com:80/ademir2021/ademir2021/10052888
-#EXTINF:-1,PT: CANCAO NOVA
-http://akamaizedx.com:80/ademir2021/ademir2021/10052887
-#EXTINF:-1,PT: BBC WORLD NEWS
-http://akamaizedx.com:80/ademir2021/ademir2021/10052886
-#EXTINF:-1,PT: AR TV
-http://akamaizedx.com:80/ademir2021/ademir2021/10052885
-#EXTINF:-1,PT: CNN
-http://akamaizedx.com:80/ademir2021/ademir2021/10052884
-#EXTINF:-1,PT: TV RECORD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052883
-#EXTINF:-1,PT: ZAP VIVA FHD
-http://akamaizedx.com:80/ademir2021/ademir2021/10052882
-#EXTINF:-1,PT: KURIAKOS
-http://akamaizedx.com:80/ademir2021/ademir2021/10052881
-#EXTINF:-1,PT: FATIMA TV
-http://akamaizedx.com:80/ademir2021/ademir2021/10052879
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: RTP 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/17804697521.png" group-title="PORTUGAL+",PT: RTP 1 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590060.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: RTP 1 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/43939679791.png" group-title="PORTUGAL+",PT: RTP 1 FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590061.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: RTP 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/13414514141.png" group-title="PORTUGAL+",PT: RTP 2 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590062.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: RTP 2 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/22211805931.png" group-title="PORTUGAL+",PT: RTP 2 FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590063.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: RTP 3 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/23418126101.png" group-title="PORTUGAL+",PT: RTP 3 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590064.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: SIC HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/81407902831.png" group-title="PORTUGAL+",PT: SIC HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590065.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: SIC FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/86644693631.png" group-title="PORTUGAL+",PT: SIC FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590066.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TVI HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/42512950521.png" group-title="PORTUGAL+",PT: TVI HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590067.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TVI FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/22170395081.png" group-title="PORTUGAL+",PT: TVI FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590068.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: SIC Noticias FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/16448639021.png" group-title="PORTUGAL+",PT: SIC Noticias FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590069.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: CNN FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/53676356811.png" group-title="PORTUGAL+",PT: CNN FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590070.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: CMTV FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/60915977351.png" group-title="PORTUGAL+",PT: CMTV FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590071.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT : CMTV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/761261e7dfcaab6a1e835a2cdf8ee1b9.png" group-title="PORTUGAL+",PT : CMTV HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590072.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: CMTV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/60915977351.png" group-title="PORTUGAL+",PT: CMTV HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590073.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: SIC Mulher FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/74059577701.png" group-title="PORTUGAL+",PT: SIC Mulher FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590074.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TV Globo FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/5cf47c581bc47e54c8ad60eb36905077.png" group-title="PORTUGAL+",PT: TV Globo FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590075.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Canal 11 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/11509750541.png" group-title="PORTUGAL+",PT: Canal 11 FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590076.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TVI Ficcao HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/46248373441.png" group-title="PORTUGAL+",PT: TVI Ficcao HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590077.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: A BOLA TV FHD" tvg-logo="https://curl.pk/img/u/0e8830e4c62496128e0838113279ec021465.jpg" group-title="PORTUGAL+",PT: A BOLA TV FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590078.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Porto Canal FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/73667824231.png" group-title="PORTUGAL+",PT: Porto Canal FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590079.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: RTP Memoria HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/15079158191.png" group-title="PORTUGAL+",PT: RTP Memoria HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590080.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: RTP Memoria FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/41006834241.png" group-title="PORTUGAL+",PT: RTP Memoria FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590081.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: RTP Acores HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/26661114841.png" group-title="PORTUGAL+",PT: RTP Acores HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590082.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: RTP Madeira HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/22947880041.png" group-title="PORTUGAL+",PT: RTP Madeira HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590083.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: RTP Africa HD" tvg-logo="http://3.bp.blogspot.com/-kH1ArIrLYQk/Tyu5Y2UGmZI/AAAAAAAAECA/oYAkmG4Xts8/s500/RTP+%C3%81frica+logo+2012.png" group-title="PORTUGAL+",PT: RTP Africa HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590084.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Sporting TV FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/96737784111.png" group-title="PORTUGAL+",PT: Sporting TV FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590085.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Sporting TV SD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/59ba22a4244f72869277ae7371bd000c.png" group-title="PORTUGAL+",PT: Sporting TV SD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590086.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Sport TV + FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/37029653971.png" group-title="PORTUGAL+",PT: Sport TV + FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590087.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Sport TV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/a19c3293f80d9e4e49058c3c345d23be.png" group-title="PORTUGAL+",PT: Sport TV HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590088.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Sport TV 1 SD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/63958668851.png" group-title="PORTUGAL+",PT: Sport TV 1 SD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590089.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Sport TV 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/99548243601.png" group-title="PORTUGAL+",PT: Sport TV 1 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590090.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Sport TV 1 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/42194239471.png" group-title="PORTUGAL+",PT: Sport TV 1 FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590091.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Sport TV 2 SD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/58849997341.png" group-title="PORTUGAL+",PT: Sport TV 2 SD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590092.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Sport TV 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/60781612131.png" group-title="PORTUGAL+",PT: Sport TV 2 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590093.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Sport TV 2 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/73219314261.png" group-title="PORTUGAL+",PT: Sport TV 2 FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590094.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Sport TV 3 SD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/30700435421.png" group-title="PORTUGAL+",PT: Sport TV 3 SD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590095.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Sport TV 3 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/71272654001.png" group-title="PORTUGAL+",PT: Sport TV 3 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590096.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Sport TV 3 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/94780071621.png" group-title="PORTUGAL+",PT: Sport TV 3 FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590097.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Sport TV 4 SD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/98962157641.png" group-title="PORTUGAL+",PT: Sport TV 4 SD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590098.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Sport TV 4 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/93955074211.png" group-title="PORTUGAL+",PT: Sport TV 4 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590099.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Sport TV 4 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/92632581301.png" group-title="PORTUGAL+",PT: Sport TV 4 FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590100.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Sport TV 5 SD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/13350691591.png" group-title="PORTUGAL+",PT: Sport TV 5 SD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590101.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Sport TV 5 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/28051143461.png" group-title="PORTUGAL+",PT: Sport TV 5 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590102.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Sport TV 5 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/32589196211.png" group-title="PORTUGAL+",PT: Sport TV 5 FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590103.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Sport TV 6 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/62783331421.png" group-title="PORTUGAL+",PT: Sport TV 6 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590104.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Sport TV 6 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/41422634401.png" group-title="PORTUGAL+",PT: Sport TV 6 FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590105.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Sport TV 7" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/f018dd0275253a2b90f2cecb014c94e8.png" group-title="PORTUGAL+",PT: Sport TV 7
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590106.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Sport TV NBA HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/15105191281.png" group-title="PORTUGAL+",PT: Sport TV NBA HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590107.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: NBA TV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/15105191281.png" group-title="PORTUGAL+",PT: NBA TV HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590108.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: BTV HD" tvg-logo="https://curl.pk/img/u/223787d64eb754b15c80b04558a11332452.png" group-title="PORTUGAL+",PT: BTV HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590109.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: BTV FHD" tvg-logo="https://curl.pk/img/u/223787d64eb754b15c80b04558a11332452.png" group-title="PORTUGAL+",PT: BTV FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590110.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Eleven Sports 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/90921186001.png" group-title="PORTUGAL+",PT: Eleven Sports 1 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590111.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Eleven Sports 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/35068844511.png" group-title="PORTUGAL+",PT: Eleven Sports 1 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590112.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Eleven Sports 1 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/90929690281.png" group-title="PORTUGAL+",PT: Eleven Sports 1 FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590113.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Eleven Sports 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/59228469501.png" group-title="PORTUGAL+",PT: Eleven Sports 2 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590114.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Eleven Sports 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/66406572981.png" group-title="PORTUGAL+",PT: Eleven Sports 2 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590115.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Eleven Sports 2 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/26437584021.png" group-title="PORTUGAL+",PT: Eleven Sports 2 FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590116.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Eleven Sports 3 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/21480419701.png" group-title="PORTUGAL+",PT: Eleven Sports 3 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590117.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Eleven Sports 3 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/80528221451.png" group-title="PORTUGAL+",PT: Eleven Sports 3 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590118.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Eleven Sports 3 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/92758271991.png" group-title="PORTUGAL+",PT: Eleven Sports 3 FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590119.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Eleven Sports 4 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/55246952831.png" group-title="PORTUGAL+",PT: Eleven Sports 4 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590120.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Eleven Sports 4 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/33447846561.png" group-title="PORTUGAL+",PT: Eleven Sports 4 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590121.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Eleven Sports 4 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/55288435571.png" group-title="PORTUGAL+",PT: Eleven Sports 4 FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590122.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Eleven Sports 5 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/80858478501.png" group-title="PORTUGAL+",PT: Eleven Sports 5 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590123.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Eleven Sports 5 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/47038704951.png" group-title="PORTUGAL+",PT: Eleven Sports 5 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590124.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Eleven Sports 5 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/13816943561.png" group-title="PORTUGAL+",PT: Eleven Sports 5 FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590125.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Eleven Sports 6 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/75473299161.png" group-title="PORTUGAL+",PT: Eleven Sports 6 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590126.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Eleven Sports 6 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/36475233501.png" group-title="PORTUGAL+",PT: Eleven Sports 6 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590127.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Eleven Sports 6 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/56263321141.png" group-title="PORTUGAL+",PT: Eleven Sports 6 FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590128.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: D4ZN 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="PORTUGAL+",PT: D4ZN 1 FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590129.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: D4ZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="PORTUGAL+",PT: D4ZN 1 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590130.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: D4ZN 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="PORTUGAL+",PT: D4ZN 2 FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590131.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: D4ZN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="PORTUGAL+",PT: D4ZN 2 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590132.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: D4ZN 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="PORTUGAL+",PT: D4ZN 3 FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590133.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: D4ZN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="PORTUGAL+",PT: D4ZN 3 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590134.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: D4ZN 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="PORTUGAL+",PT: D4ZN 4 FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590135.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: D4ZN 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="PORTUGAL+",PT: D4ZN 4 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590136.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: D4ZN 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="PORTUGAL+",PT: D4ZN 5 FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590137.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: D4ZN 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="PORTUGAL+",PT: D4ZN 5 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590138.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: D4ZN F1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="PORTUGAL+",PT: D4ZN F1 FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590139.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/84682087451.png" group-title="PORTUGAL+",PT: EUROSPORT 1 FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590140.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Eurosport 2 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/457497f7d8869c8d09fc430c2ca424cb.png" group-title="PORTUGAL+",PT: Eurosport 2 FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590141.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Eurosports 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/29719204421.png" group-title="PORTUGAL+",PT: Eurosports 2 HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590142.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: MOTORVISION HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/80a7efec17836d87c38b89cc2853480a.png" group-title="PORTUGAL+",PT: MOTORVISION HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590143.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Motorvision FHD" tvg-logo="https://curl.pk/img/u/1e770b9d24c77bdf5f69209093b609888701.png" group-title="PORTUGAL+",PT: Motorvision FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590144.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: W Sport FHD" tvg-logo="https://www.w-sport.com/wp-content/uploads/2022/09/logo2nd.svg" group-title="PORTUGAL+",PT: W Sport FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590145.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="⭐⭐⭐ PT -  Movies & Series ⭐⭐⭐" tvg-logo="http://img-cdn.curl.pk:8880/countries/pt.png" group-title="PORTUGAL+",⭐⭐⭐ PT -  Movies & Series ⭐⭐⭐
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590146.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: PFC HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/71471791891.png" group-title="PORTUGAL+",PT: PFC HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590147.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Combat FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/67073602011.png" group-title="PORTUGAL+",PT: Combat FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590148.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: FUEL TV FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/90469150681.png" group-title="PORTUGAL+",PT: FUEL TV FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590149.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TVcine TOP FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/61630460641.png" group-title="PORTUGAL+",PT: TVcine TOP FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590150.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TVcine Edition FHD" tvg-logo="https://curl.pk/img/u/ca3d39221ad40dfc004455a4b786d7fc5314.png" group-title="PORTUGAL+",PT: TVcine Edition FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590151.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TVCINE EDITION HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/60a57df547024188f80dfe2bc0ae5ae9.png" group-title="PORTUGAL+",PT: TVCINE EDITION HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590152.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TVcine Emotion FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/82230613441.png" group-title="PORTUGAL+",PT: TVcine Emotion FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590153.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TVcine Action FHD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/tvdd.jpg" group-title="PORTUGAL+",PT: TVcine Action FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590154.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TVCINE Action HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/884f8d2a11beb963c5693b06a0453c71.png" group-title="PORTUGAL+",PT: TVCINE Action HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590155.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: NOS Studio HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/78918101611.png" group-title="PORTUGAL+",PT: NOS Studio HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590156.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: NOS Studios HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/59575645571.png" group-title="PORTUGAL+",PT: NOS Studios HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590157.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Cinemundo FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/16246815381.png" group-title="PORTUGAL+",PT: Cinemundo FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590158.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Hollywood FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/a159a2bd1828754d6e03b75c363af433.png" group-title="PORTUGAL+",PT: Hollywood FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590159.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: AMC FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/40666549701.png" group-title="PORTUGAL+",PT: AMC FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590160.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: FOX Movies SD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/73d7ce9d5b0fb9565dd1d047d6299f05.png" group-title="PORTUGAL+",PT: FOX Movies SD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590161.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: FOX Movies FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/408f7e979f699607d01d30b767a1f3b8.png" group-title="PORTUGAL+",PT: FOX Movies FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590162.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: FOX FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/3c9564c934cfdbd187b177fa92ba0e48.png" group-title="PORTUGAL+",PT: FOX FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590163.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: FOX LIFE FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/89653555961.png" group-title="PORTUGAL+",PT: FOX LIFE FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590164.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: FOX LIFE HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/4bb419d358d222209a8a85a1d7e2ec63.png" group-title="PORTUGAL+",PT: FOX LIFE HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590165.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: FOX Crime FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/84144423851.png" group-title="PORTUGAL+",PT: FOX Crime FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590166.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: FOX Comedy FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/75196109241.png" group-title="PORTUGAL+",PT: FOX Comedy FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590167.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: AXN FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/97873457161.png" group-title="PORTUGAL+",PT: AXN FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590168.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: AXN HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/6ea4340f3f20a1397bfbc7debef2c0cc.png" group-title="PORTUGAL+",PT: AXN HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590169.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: AXN Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/81761198601.png" group-title="PORTUGAL+",PT: AXN Movies HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590170.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: AXN WHITE HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/fd6ab2061ee7e138263c225400aba6ef.png" group-title="PORTUGAL+",PT: AXN WHITE HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590171.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: AXN Movies FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/30526733641.png" group-title="PORTUGAL+",PT: AXN Movies FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590172.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: AXN White FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/79266531791.png" group-title="PORTUGAL+",PT: AXN White FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590173.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: SYFY HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/50392196661.png" group-title="PORTUGAL+",PT: SYFY HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590174.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: SYFY SD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/3d987d3775d6d80d961351317c075957.png" group-title="PORTUGAL+",PT: SYFY SD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590175.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Canal NOS HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/88677490231.png" group-title="PORTUGAL+",PT: Canal NOS HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590176.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="⭐⭐⭐ Documentaries ⭐⭐⭐" tvg-logo="http://img-cdn.curl.pk:8880/countries/pt.png" group-title="PORTUGAL+",⭐⭐⭐ Documentaries ⭐⭐⭐
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590177.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Discovery Channel FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/88410116651.png" group-title="PORTUGAL+",PT: Discovery Channel FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590178.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Historia FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/27757584771.png" group-title="PORTUGAL+",PT: Historia FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590179.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: HISTORIA SD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/0aa0ed91120d689b4cf3a51a8b8e0a1e.png" group-title="PORTUGAL+",PT: HISTORIA SD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590180.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: ODISSEIA SD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/0d247ca5559cd106733fabb5c28d0998.png" group-title="PORTUGAL+",PT: ODISSEIA SD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590181.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Odisseia FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/19749495821.png" group-title="PORTUGAL+",PT: Odisseia FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590182.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: National Geographic FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/95796722021.png" group-title="PORTUGAL+",PT: National Geographic FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590183.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: NAT GEO WILD FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/65511860511.png" group-title="PORTUGAL+",PT: NAT GEO WILD FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590184.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: National Geographic WILD HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/11604061511.png" group-title="PORTUGAL+",PT: National Geographic WILD HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590185.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TVI Reality FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/86149968531.png" group-title="PORTUGAL+",PT: TVI Reality FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590186.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TVI Reality HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/14070fac47ee40fa5cf478928059ac13.png" group-title="PORTUGAL+",PT: TVI Reality HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590187.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TVI Reality Mosaico HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/19481596931.png" group-title="PORTUGAL+",PT: TVI Reality Mosaico HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590188.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Travelxp HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/1d3beddc5f4107ee381fdfb9eefb6f9f.png" group-title="PORTUGAL+",PT: Travelxp HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590189.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Canal Q HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/78497712031.png" group-title="PORTUGAL+",PT: Canal Q HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590190.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: SIC Radical HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/57118826571.png" group-title="PORTUGAL+",PT: SIC Radical HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590191.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: AMC Crime FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/23442536161.png" group-title="PORTUGAL+",PT: AMC Crime FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590192.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: AMC Break FHD" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4156152379c245d81bb9aa287ee582f3_AMC-Break--1200x630.jpg" group-title="PORTUGAL+",PT: AMC Break FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590193.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Gametoon FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/740f93ee2cc6b406fe4ae2b4b78cddd5.png" group-title="PORTUGAL+",PT: Gametoon FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590194.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: ID Investigation Discovery FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/28746553101.png" group-title="PORTUGAL+",PT: ID Investigation Discovery FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590195.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TLC HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/afefceb151dabee8b70e2d3d83d6d7ae.png" group-title="PORTUGAL+",PT: TLC HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590196.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TLC FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/69120615021.png" group-title="PORTUGAL+",PT: TLC FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590197.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: SIC CARAS HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/8fa419cbca133744eceea26ccd0a2171.png" group-title="PORTUGAL+",PT: SIC CARAS HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590198.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: SIC Caras TV FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/68173814971.png" group-title="PORTUGAL+",PT: SIC Caras TV FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590199.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="⭐⭐⭐ PT - Entertainment ⭐⭐⭐" tvg-logo="http://img-cdn.curl.pk:8880/countries/pt.png" group-title="PORTUGAL+",⭐⭐⭐ PT - Entertainment ⭐⭐⭐
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590200.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: E! Entertainement FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/69450912331.png" group-title="PORTUGAL+",PT: E! Entertainement FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590201.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: CASA E Cozinha FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/71640654511.png" group-title="PORTUGAL+",PT: CASA E Cozinha FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590202.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: 24 Kitchen FHD" tvg-logo="https://curl.pk/img/u/b0a6b33f8a6671b037ca508d61e8e25b7905.png" group-title="PORTUGAL+",PT: 24 Kitchen FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590203.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: FOOD Network HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/44322432661.png" group-title="PORTUGAL+",PT: FOOD Network HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590204.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: FTV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/e9320b8af6929a03c7431254368734c4.png" group-title="PORTUGAL+",PT: FTV HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590205.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: FTV FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/77509115781.png" group-title="PORTUGAL+",PT: FTV FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590206.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: BBC Entertainement HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/28617623581.png" group-title="PORTUGAL+",PT: BBC Entertainement HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590208.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TCV Internacional HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/58481678341.png" group-title="PORTUGAL+",PT: TCV Internacional HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590209.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TPA" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/20000658091.png" group-title="PORTUGAL+",PT: TPA
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590210.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TPA INTERNACIONAL SD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/6ab68aaba4b28486d9d31b20d8955192.png" group-title="PORTUGAL+",PT: TPA INTERNACIONAL SD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590211.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TPA Internacional" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/82096436911.png" group-title="PORTUGAL+",PT: TPA Internacional
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590212.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TV Galicia HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/7d638fc565e61c2d00001c13e1810f96.png" group-title="PORTUGAL+",PT: TV Galicia HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590213.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TV Galicia FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/38231385541.png" group-title="PORTUGAL+",PT: TV Galicia FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590214.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TV Record FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/41237829891.png" group-title="PORTUGAL+",PT: TV Record FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590215.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TV5 Monde HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/86732692671.png" group-title="PORTUGAL+",PT: TV5 Monde HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590216.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TVE Internacional HD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/9067558444.png" group-title="PORTUGAL+",PT: TVE Internacional HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590217.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: ARTV FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/98755693151.png" group-title="PORTUGAL+",PT: ARTV FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590218.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT : ARTV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/258b47277a0cc358fe7cbafedf611a34.png" group-title="PORTUGAL+",PT : ARTV HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590219.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Break HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/72035576531.png" group-title="PORTUGAL+",PT: Break HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590220.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Cancao NOVA TV HD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/5753674916.png" group-title="PORTUGAL+",PT: Cancao NOVA TV HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590221.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: CBS Reality HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/52629249451.png" group-title="PORTUGAL+",PT: CBS Reality HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590222.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Globo NOW HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/39925561451.png" group-title="PORTUGAL+",PT: Globo NOW HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590223.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Kuriakos TV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/82051773691.png" group-title="PORTUGAL+",PT: Kuriakos TV HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590224.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Kuriakos TV FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/26633587231.png" group-title="PORTUGAL+",PT: Kuriakos TV FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590225.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: ZAP VIVA  HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/59375890121.png" group-title="PORTUGAL+",PT: ZAP VIVA  HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590226.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: CACA E Pesca HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/16079708481.png" group-title="PORTUGAL+",PT: CACA E Pesca HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590227.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Campo Pequeno HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/08b46795c81501edd370b990dc7220e3.png" group-title="PORTUGAL+",PT: Campo Pequeno HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590228.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Toros TV  HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/29190947471.png" group-title="PORTUGAL+",PT: Toros TV  HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590229.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: CACA Vision HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/84940815531.png" group-title="PORTUGAL+",PT: CACA Vision HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590230.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Travel Channel FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/21020145101.png" group-title="PORTUGAL+",PT: Travel Channel FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590231.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: MCM TOP FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/72a5fc31f58b2a615db0735a2df3a2f5.png" group-title="PORTUGAL+",PT: MCM TOP FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590232.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Canal 180 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/17061220331.png" group-title="PORTUGAL+",PT: Canal 180 FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590233.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="⭐⭐⭐ PT - Music ⭐⭐⭐" tvg-logo="http://img-cdn.curl.pk:8880/countries/pt.png" group-title="PORTUGAL+",⭐⭐⭐ PT - Music ⭐⭐⭐
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590234.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Trace Urban HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/43061905391.png" group-title="PORTUGAL+",PT: Trace Urban HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590236.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Trace TOCA FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/16833631491.png" group-title="PORTUGAL+",PT: Trace TOCA FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590237.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT : TRACE TOCA HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/f0ce3ba231c74d95bb74fda2e1462993.png" group-title="PORTUGAL+",PT : TRACE TOCA HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590238.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: AFRO Music TV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/34137642891.png" group-title="PORTUGAL+",PT: AFRO Music TV HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590239.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: MCM TOP HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/1af4d4ab847059b75067233d19f39948.png" group-title="PORTUGAL+",PT: MCM TOP HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590240.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: MCM POP TV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/49537779331.png" group-title="PORTUGAL+",PT: MCM POP TV HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590241.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Mezzo FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/69976061551.png" group-title="PORTUGAL+",PT: Mezzo FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590242.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="⭐⭐⭐ PT - Kids⭐⭐⭐" tvg-logo="http://img-cdn.curl.pk:8880/countries/pt.png" group-title="PORTUGAL+",⭐⭐⭐ PT - Kids⭐⭐⭐
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590243.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: BABY TV FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/66655447331.png" group-title="PORTUGAL+",PT: BABY TV FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590244.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Biggs Panda HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/22742066601.png" group-title="PORTUGAL+",PT: Biggs Panda HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590245.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Biggs TV HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/34803800881.png" group-title="PORTUGAL+",PT: Biggs TV HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590246.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Bloomberg HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/31401948611.png" group-title="PORTUGAL+",PT: Bloomberg HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590247.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Canal Panda HD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/3158357327.png" group-title="PORTUGAL+",PT: Canal Panda HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590248.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Cartoon Network FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/86188602831.png" group-title="PORTUGAL+",PT: Cartoon Network FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590249.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Cartoonito FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/63092968721.png" group-title="PORTUGAL+",PT: Cartoonito FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590250.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Disney Channel FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54765750151.png" group-title="PORTUGAL+",PT: Disney Channel FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590251.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Disney Channel HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/0d84886d8e19a466469aafcff23d5910.png" group-title="PORTUGAL+",PT: Disney Channel HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590252.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Disney Junior FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/55899778191.png" group-title="PORTUGAL+",PT: Disney Junior FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590253.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Lolly KIDS  HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/32855311591.png" group-title="PORTUGAL+",PT: Lolly KIDS  HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590254.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: NICK Junior HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/29017281861.png" group-title="PORTUGAL+",PT: NICK Junior HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590255.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Nickelodeon HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/92171401701.png" group-title="PORTUGAL+",PT: Nickelodeon HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590256.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Panda FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/47162525621.png" group-title="PORTUGAL+",PT: Panda FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590257.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Panda KIDS FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/52434019501.png" group-title="PORTUGAL+",PT: Panda KIDS FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590258.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: PANDA KIDS HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/6ab0bdfe8f35e659c7e6c57fd6e409e0.png" group-title="PORTUGAL+",PT: PANDA KIDS HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590259.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: SIC K FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/56089926431.png" group-title="PORTUGAL+",PT: SIC K FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590260.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="⭐⭐⭐ News TV ⭐⭐⭐" tvg-logo="http://img-cdn.curl.pk:8880/countries/pt.png" group-title="PORTUGAL+",⭐⭐⭐ News TV ⭐⭐⭐
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590261.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: CNBC HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/60236946501.png" group-title="PORTUGAL+",PT: CNBC HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590262.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: BBC World NEWS HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/80350158131.png" group-title="PORTUGAL+",PT: BBC World NEWS HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590263.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Euronews HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/62906044401.png" group-title="PORTUGAL+",PT: Euronews HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590264.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: SKY NEWS HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/79953486561.png" group-title="PORTUGAL+",PT: SKY NEWS HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590265.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TVE 24H FHD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/3637508939.png" group-title="PORTUGAL+",PT: TVE 24H FHD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590266.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TVE 24H HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/7e40190cf548839487463d3f54825ff6.png" group-title="PORTUGAL+",PT: TVE 24H HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590267.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: TV RECORD NEWS HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/9858e867c4771f3493e1ca9b8c0a38ce.png" group-title="PORTUGAL+",PT: TV RECORD NEWS HD
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590268.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: Alma Lusa" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/48300500e1d4e01fab1ccd8d202b90b4.png" group-title="PORTUGAL+",PT: Alma Lusa
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590269.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: SIC NOVELAS" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/900dada1673949e4889b31a0491dd389.png" group-title="PORTUGAL+",PT: SIC NOVELAS
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590270.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: News Now" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/56d7ef2aa73f52da727f68d63317e210.png" group-title="PORTUGAL+",PT: News Now
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590271.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="PT: SIC Replay" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/40d3b52ce76f6d81f72949248f809e4c.png" group-title="PORTUGAL+",PT: SIC Replay
+http://imaxplay.net:8880//live/Bluefox59/MUAPW/590272.ts
